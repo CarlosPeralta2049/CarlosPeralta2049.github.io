@@ -17,7 +17,7 @@
 - Research and Development (developing Deep Learning models)
 - Technical Analyst and portfolio manager
   
-**Data Analyst @ Self-Employed (2020-2024)**
+**Data Analyst & Data Scientist @ Self-Employed (2020-2024)**
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio manager
   
