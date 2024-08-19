@@ -36,6 +36,9 @@
 
 ## Projects
 ### Macroeconomic Analysis: Linear Regression
+![image name](image.jpg)
+[Youtube Presentation](https://www.youtube.com/link)
+  
 ### Financial Analysis: Linear Regression & Process Component Analysis
 ### Macroeconomic and Financial Analysis: Dashbaord (with ML)
 ### Public Housing: Housing Register Reduction
