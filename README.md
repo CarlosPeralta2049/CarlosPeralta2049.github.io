@@ -43,5 +43,5 @@
 
 ### Public Housing: Housing Register Reduction
 
-![image name](image.jpg)
-[Youtube Presentation](https://www.youtube.com/link)
+- ![image name](image.jpg)
+- [Youtube Presentation](https://www.youtube.com/link)
