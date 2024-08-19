@@ -12,9 +12,9 @@
 
 ## Work Experience
 **Data Scientist @ Neural Expansions (2024 - Current)**
-- Macroeconomic and Financial analysis (using machine learning)
 - Research and Development (developing Machine Learning models)
 - Research and Development (developing Deep Learning models)
+- Macroeconomic and Financial analysis (using machine learning)
 - Technical Analyst and portfolio manager
   
 **Data Analyst & Data Scientist @ Self-Employed (2020-2024)**
