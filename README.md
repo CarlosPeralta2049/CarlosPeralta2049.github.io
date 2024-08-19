@@ -15,9 +15,11 @@ Data Scientist @ Neural Expansions
 - Research and Development (developing Deep Learning models)
 - Technical Analysis and portfolio manager
 
+
 Data Analyst @ Neural Expansions 
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio manager
+
 
 Housing Case Manager @ Ministry of Social Development 
 - Public Housing: Carried out Tenancy Reviews and Assessments
