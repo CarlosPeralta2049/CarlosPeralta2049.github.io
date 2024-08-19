@@ -7,7 +7,7 @@
 - Google: Data Analytics Professional Certificate
 - Google: Adv. Data Analytics Professional Certificate (in progress)
 - Standford University: Machine Learning Specialisation (in progress)
-- Microsoft: Power BI Data Analytics Certificate
+- Microsoft: Power BI Data Analytics Associate Certificate
 - IBM: Data Sciencist Professional Certificate
 
 ## Work Experience
