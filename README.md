@@ -35,10 +35,13 @@
 - PSA National Deletate (occasionally): Represented regional matters
 
 ## Projects
-### Macroeconomic Analysis: Linear Regression
+### Macroeconomic Analysis
+  
+### Financial (Fundamental) Analysis
+
+### Macroeconomic and Financial Analysis Dashbaord
+
+### Public Housing: Housing Register Reduction
+
 ![image name](image.jpg)
 [Youtube Presentation](https://www.youtube.com/link)
-  
-### Financial Analysis: Linear Regression & Process Component Analysis
-### Macroeconomic and Financial Analysis: Dashbaord (with ML)
-### Public Housing: Housing Register Reduction
