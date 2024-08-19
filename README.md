@@ -31,6 +31,6 @@ Housing Case Manager @ Ministry of Social Development (2016-2022)
 - Technical Officer Housing: Processed housing tasks and daily reports
 - PSA Site Delegate: Union representative to 60+ site staff matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
-- PSA Deputy National Delegate: Assisted regional matters
+- PSA Deputy National Delegate: Assisted ND on regional matters
 - PSA National Deletate (occasionally): Represented regional matters
 
