@@ -1,4 +1,6 @@
 # Data Scientist / Analyst
+Technical Skills: Python, R, SQL, MS Excel, Power BI
+
 ### Education
 - Massey University, NZ: Social Policy, Bachelor of Arts
 - Massey University, NZ: Economics, Graduate Diploma
