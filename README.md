@@ -15,7 +15,7 @@ Data Scientist @ Neural Expansions (2023 - Current)
 - Macroeconomic and Financial analysis (using machine learning)
 - Research and Development (developing Machine Learning models)
 - Research and Development (developing Deep Learning models)
-- Technical Analysis and portfolio manager
+- Technical Analyst and portfolio manager
   
 Data Analyst @ Neural Expansions (2020-2023)
 - Macroeconomic and Financial analysis reporting
