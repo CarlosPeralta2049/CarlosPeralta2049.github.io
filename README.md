@@ -2,8 +2,8 @@
 #### Technical Skills: Python, R, SQL, MS Excel, Power BI
 
 ## Education
-- Massey University, NZ: Social Policy, Bachelor of Arts
-- Massey University, NZ: Economics, Graduate Diploma
+- Massey University, Auckland: Social Policy, Bachelor of Arts
+- Massey University, Auckland: Economics, Graduate Diploma
 - Google: Data Analytics Professional Certificate
 - Google: Adv. Data Analytics Professional Certificate (in progress)
 - Standford University: Machine Learning Specialisation (in progress)
