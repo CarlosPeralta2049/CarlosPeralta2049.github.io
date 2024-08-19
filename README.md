@@ -29,6 +29,6 @@ Housing Case Manager @ Ministry of Social Development
 - Technical Officer Housing: Processed housing tasks and carried out performance and compliance reports
 - Public Service Association Site Delegate: Union representative to 60+ site staff matters
 - Public Service Association Site Workplace Convernor: Organised/led site Delegates
-- Public Service Association Deputy National Delegate: Assisted National Delegate on regional issues
-- Public Service Association National Deletate (when necessary): Represented members on regional issues
+- Public Service Association Deputy National Delegate: Assisted National Delegate on regional matters
+- Public Service Association National Deletate (when necessary): Represented members on regional matters
 
