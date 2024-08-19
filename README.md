@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist / Analyst
 ### Education
 - Massey University, NZ: Social Policy, Bachelor of Arts
 - Massey University, NZ: Economics, Graduate Diploma
