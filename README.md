@@ -1,7 +1,7 @@
 # Data Scientist / Analyst
-Technical Skills: Python, R, SQL, MS Excel, Power BI
+#### Technical Skills: Python, R, SQL, MS Excel, Power BI
 
-### Education
+## Education
 - Massey University, NZ: Social Policy, Bachelor of Arts
 - Massey University, NZ: Economics, Graduate Diploma
 - Google: Data Analytics Professional Certificate
@@ -10,18 +10,18 @@ Technical Skills: Python, R, SQL, MS Excel, Power BI
 - Microsoft: Power BI Data Analytics Certificate
 - IBM: Data Sciencist Professional Certificate
 
-### Work Experience
-Data Scientist @ Neural Expansions (2024 - Current)
+## Work Experience
+**Data Scientist @ Neural Expansions (2024 - Current)**
 - Macroeconomic and Financial analysis (using machine learning)
 - Research and Development (developing Machine Learning models)
 - Research and Development (developing Deep Learning models)
 - Technical Analyst and portfolio manager
   
-Data Analyst @ Self-Employed (2020-2024)
+**Data Analyst @ Self-Employed (2020-2024)**
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio manager
   
-Housing Case Manager @ Ministry of Social Development (2016-2022)
+**Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
 - Data Analysis: Carried out daily site and regional reports
 - Programme Coordinator: Referals and weekly employment reports
@@ -34,3 +34,8 @@ Housing Case Manager @ Ministry of Social Development (2016-2022)
 - PSA Deputy National Delegate: Assisted ND on regional matters
 - PSA National Deletate (occasionally): Represented regional matters
 
+## Projects
+### Macroeconomic Analysis: Linear Regression
+### Financial Analysis: Linear Regression & Process Component Analysis
+### Macroeconomic and Financial Analysis: Dashbaord (with ML)
+### Public Housing: Housing Register Reduction
