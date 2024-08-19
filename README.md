@@ -11,13 +11,13 @@ Technical Skills: Python, R, SQL, MS Excel, Power BI
 - IBM: Data Sciencist Professional Certificate
 
 ### Work Experience
-Data Scientist @ Neural Expansions (2023 - Current)
+Data Scientist @ Neural Expansions (2024 - Current)
 - Macroeconomic and Financial analysis (using machine learning)
 - Research and Development (developing Machine Learning models)
 - Research and Development (developing Deep Learning models)
 - Technical Analyst and portfolio manager
   
-Data Analyst @ Neural Expansions (2020-2023)
+Data Analyst @ Self-Employed (2020-2024)
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio manager
   
