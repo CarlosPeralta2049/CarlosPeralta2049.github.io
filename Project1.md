@@ -39,4 +39,5 @@ The fourth and less common domino is to open the economy (although it is not nec
 
 **Below:** The Trade Weighted Dollar (TWD) is the value of the dollar against the top 17 currencies in the world. Here we see a robust correlation that confirms that as the TWD depreciated (thanks to inflation, higher interest rates, etc), exports have increased. However, because all output is a variation of capital * labour (or labour * delayed labour), the main difficulty with this domino becomes the lack of human capital. The United States provides a good example of why increased immigration must be stimulatory in the long-run, at the cost of lower living standards.<br><br>
 ![Image6](https://CarlosPeralta2049.github.io/Assets/Project1_06.png)
-
+<br><br>
+**Conclusion:** Specially as of 2023, the United States has become primed for asset inflation. Institutional investing has become unchecked, although there is a period of adjustment. When the need for significant public expanditure arises, this will synergise with unchecked spending in the financial economy. The result will be high amounts of domestic wealth transfer. 
