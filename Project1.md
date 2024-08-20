@@ -4,7 +4,7 @@
 Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. The former affects the real economy where planned expenditure flows into the supply and demand of goods and services. The latter affects the financial economy, where Central Banks adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock and bond markets.
 
 **Below:** Following the 2008 recession enough debt was created to keep the financial system afloat. Under normal circumstances this would have induced high inflation. From 2008 debt increasingly created flows in the liquidity and money markets (mostly into assets in the banking system).
-#### The real economy (M2) diverged from the financial economy (Total assets)
+#### The real (M2) and the financial economies (Total assets) diverged
 ![image name](image.jpg)
 
 
