@@ -15,7 +15,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 **Below:** This shows that the future favours debtors over savers, and riskier assets over long term bonds. If governments announce increases spending to create war, build roads, etc, the result must be asset price inflation.<br><br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project1_03.png)
 <br><br>
-#### The relationship between the Financial Economy and the S&P500 is not coincidence
+#### The Financial Economy and the S&P500 share a strong relationship
 **Below:** After applying a machine learning linear regression model, we may confirm that the relationship between Total Spending and the S&P500 is strong.<br><br>
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project1_04.png)
 
