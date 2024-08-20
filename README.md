@@ -32,7 +32,7 @@
 - PSA Site Delegate: Union representative to 64 site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND on regional matters
-- PSA National Deletate: Represented 150+ members in Auckland<br><br>
+- PSA National Deletate(temp): Represented 150+ staff in the region<br><br>
 
 ## Portfolio Projects
 - **[Macroeconomic Analysis](https://carlosperalta2049.github.io/Project1)** <br><br>
