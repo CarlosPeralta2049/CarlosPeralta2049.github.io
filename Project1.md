@@ -1,7 +1,7 @@
 **Project Objective:** To highlight the relationship between all government spending and the financial markets
 
 ## Macroeconomic Anaylysis
-Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. Fiscal policy affects the real economy where planned expenditure flows into the supply and demand of goods and services. Monetary policy affects the financial economy, where the Central Bank may adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock, bond and foreign exchange markets.
+Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. The former affects the real economy where planned expenditure flows into the supply and demand of goods and services. The latter affects the financial economy, where the Central Bank may adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock, bond and foreign exchange markets.
 
 **Below:** Following the United States 2008 recession enough debt was created to keep the financial system afloat. However, under normal circumstances that would have been enough debt creation to induce high inflation. From 2008 debt increasingly flowed into the liquidity and money markets (mostly into assets in the banking system).
 ### The real economy (M2) has diverged from the financial economy (Total spending)
