@@ -41,7 +41,7 @@ Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial (Fundamental) Analysis](Link)** <br><br>
 Tools: Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
   
-- **[Macroeconomic and Financial Analysis Dashbaord]()** <br><br>
+- **[Macroeconomic and Financial Analysis Dashboard]()** <br><br>
 Tools: Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
   
 - **[Public Housing: Housing Register Reduction]()** <br><br>
