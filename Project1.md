@@ -7,7 +7,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 **Below:** Following the 2008 recession enough debt was created to keep the financial system afloat. Under normal circumstances this would have induced high inflation. From 2008 debt increasingly created flows in the liquidity and money markets (mostly into assets in the banking system).
 ![Image1](https://CarlosPeralta2049.github.io/Assets/Project1_01.png)
 
-### The real economy (M2) has diverged relative to the S&P500 Index
+#### The real economy (M2) has diverged relative to the S&P500 Index
 **Below:** Interestingly, from 2008 the real economy also separated from the growth of assets in the financial economy, specifically, the S&P500.
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project1_02.png)
 
