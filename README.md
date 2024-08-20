@@ -34,7 +34,7 @@
 - PSA Deputy National Delegate: Assisted ND on regional matters
 - PSA National Deletate (occasionally): Represented regional matters
 
-## Projects
+## Portfolio Projects
 - **[Macroeconomic Analysis](link)** <br><br>
 Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 
