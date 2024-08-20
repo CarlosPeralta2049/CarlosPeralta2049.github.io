@@ -35,7 +35,7 @@
 - PSA National Deletate (occasionally): Represented regional matters
 
 ## Portfolio Projects
-- **[Macroeconomic Analysis](link)** <br><br>
+- **[Macroeconomic Analysis](https://carlosperalta2049.github.io/Project1)** <br><br>
 Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 
 - **[Financial (Fundamental) Analysis](Link)** <br><br>
