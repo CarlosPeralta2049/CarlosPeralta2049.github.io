@@ -29,7 +29,7 @@ Prices will change because more dollars chase the same asset. Therefore understa
 As a Central Bank (CB) decreases interest rates institutions and individuals borrow more and the money supply (MS) increases. However, MS also creates pressure on rates. As the CB stores government securities (at their request) this increases MS as governments spend the same value. In a secondary effect, the CB now also gains the option to lend more at lower rates to commercial banks which in turn increase investments. Eventually, the economy gets heated causing inflationary pressure and when it is high enough the CB increases rates to fight inflation, also causing currency appreciation. **RELEVANCE:** New planned expenditure (ie. war, health, education) is stimulatory in the short-run. 
 
 **Below:** The correlation between the money supply and interest rates is clearly negative. However, rates aren't going below zero which means that the economy must maintain its positive tragectory via another means. This is where new planned expenditures and the BTFP come to save the day. One may even speculate on problems which already have a solution.
-![image name](image.jpg)
+![Image5](https://CarlosPeralta2049.github.io/Assets/Project1_05.png)
 
 
 ### EXCHANGE AND TRADE POLICY: Currency Depreciation (via Absorption & Trade Liberalisation) v Exports
