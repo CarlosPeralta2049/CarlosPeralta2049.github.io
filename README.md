@@ -44,7 +44,7 @@ Tools: Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
 - **[Macroeconomic and Financial Analysis Dashboard]()** <br><br>
 Tools: Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
   
-- **[Public Housing: Housing Register Reduction]()** <br><br>
+- **[Policy Analysis: Housing Register Reduction]()** <br><br>
 Tools: R, Statistics<br><br>
   
 - ![image name](image.jpg)
