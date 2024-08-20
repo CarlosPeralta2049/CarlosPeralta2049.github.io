@@ -10,7 +10,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 
 **Below:** Interestingly, from 2008 the real economy also separated from the growth of assets in the financial economy, specifically, the S&P500.
 ### The real economy (M2) has diverged from the S&P500 Index
-![image name](image.jpg)
+![Image2](https://CarlosPeralta2049.github.io/Assets/Project1_02.png)
 
 
 ### Stock markets have become correlated with the financial economy, creating the perfect situation for wealth transfer
