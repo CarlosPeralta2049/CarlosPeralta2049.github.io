@@ -31,7 +31,7 @@
 - Technical Officer Housing: Processed housing tasks and daily reports
 - PSA Site Delegate: Union representative to 64 site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
-- PSA Deputy National Delegate: Assisted ND on regional matters
+- PSA Deputy National Delegate: Assisted ND in all regional matters
 - PSA National Deletate(occasionally): Represented 150+ regional staff<br><br>
 
 ## Portfolio Projects
