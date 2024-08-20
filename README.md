@@ -36,10 +36,10 @@
 
 ## Projects
 **[Macroeconomic Analysis](link)**
-- Used: Python, Webscraping, RestAPIs, economics, Statistics<br>
+- Used: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
 
 **[Financial (Fundamental) Analysis](Link)**
-- Used Python, RestAPIs, Machine Learning, economics, Statistics<br>
+- Used Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
   
 **[Macroeconomic and Financial Analysis Dashbaord]()**
 - Used Python, RestAPIs, Power BI, Machine Learning, economics<br>
