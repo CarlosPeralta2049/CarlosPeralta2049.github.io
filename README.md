@@ -36,16 +36,16 @@
 
 ## Projects
 - **[Macroeconomic Analysis](link)** <br><br>
-Utilised: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
+Tools: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
 
 - **[Financial (Fundamental) Analysis](Link)** <br><br>
-Utilised Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
+Tools: Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
   
 - **[Macroeconomic and Financial Analysis Dashbaord]()** <br><br>
-Utilised Python, RestAPIs, Power BI, Machine Learning, economics<br><br>
+Tools: Python, RestAPIs, Power BI, Machine Learning, economics<br><br>
   
 - **[Public Housing: Housing Register Reduction]()** <br><br>
-Utilised R, Statistics<br><br>
+Tools: R, Statistics<br><br>
   
 - ![image name](image.jpg)
 - [Youtube Presentation](https://www.youtube.com/link)
