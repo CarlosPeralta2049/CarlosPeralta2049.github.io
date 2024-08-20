@@ -21,7 +21,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 <br><br><br>
 
 ### INSTITUTIONAL CHANGE AND THE LATEST STRATEGY
-Today it's necessary to increase public debt levels to maintain the financial system afloat. One strategy is to stimulate the financial economy but not the real economy, so inflation isn't as pronounced. The latest solution in this strategy came about in 2023 in the form of the Bank Term Funding Program (BTFP) which enables the Central Bank to borrow against its existing reserves to stimulate the economy without requiring a congressional approval. 
+Today it's necessary to increase public debt levels to maintain the financial system afloat. One strategy is to stimulate the financial economy but not the real economy, so inflation isn't as pronounced. The latest solution in this strategy came about in 2023 in the form of the Bank Term Funding Program (BTFP) which enables the Central Bank to borrow against its existing reserves to stimulate the economy without requiring a congressional approval.
 
 We can assume that prices will change because more dollars chase the same asset. Likewise, understanding elasticity of demand is essential as it clarifies the changes in quantity demanded given a change in price. However, to forecast asset inflation we turn to the legacy methods of stimulating an economy, and we should do this because they must be utilised and doing to stimulates highly elastic assets. Knowledge can be power, so here are four from a short list of inference dominoes:
 
