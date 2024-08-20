@@ -25,7 +25,7 @@
 - Public Housing: Carried out Tenancy Reviews and Assessments
 - Data Analysis: Carried out site and regional Service Delivery reports
 - Programme Coordinator: Referals and weekly employment reports
-- Corrections Liaison: Advised on policy to the Ministry of Justice
+- Corrections Liaison: Advised on policy to the Ministry of Justice(MoJ)
 - Business Process Support: Adviced MoJ and HUD on housing policy
 - Project Service Delivery: Coordinated housing project stateholders
 - Technical Officer Housing: Processed housing tasks and daily reports
