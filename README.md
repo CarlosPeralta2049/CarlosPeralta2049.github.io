@@ -9,18 +9,18 @@
 - Standford University: Machine Learning Specialisation (in progress)
 - Microsoft: Power BI Data Analytics Associate Certificate
 - IBM: Data Scientist Professional Certificate
-
+<br>
 ## Work Experience
 **Data Scientist @ Neural Expansions (2024 - Current)**
 - Research and Development (Machine and Deep Learning models)
 - Macroeconomic and Financial analysis (using machine learning)
 - Technical Analysis and portfolio management
-  
+<br>
 **Data Analyst & Data Scientist @ Self-Employed (2018-2024)**
 - Research and Development (machine and deep learning)
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio management
-  
+<br> 
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
 - Data Analysis: Carried out daily site and regional reports
@@ -33,7 +33,7 @@
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND on regional matters
 - PSA National Deletate (occasionally): Represented regional matters
-
+<br>
 ## Projects
 - **[Macroeconomic Analysis](link)** <br><br>
 Utilised: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
