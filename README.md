@@ -42,10 +42,10 @@
 - Used Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
   
 **[Macroeconomic and Financial Analysis Dashbaord]()**
-- Used Python, RestAPIs, Power BI, Machine Learning, economics  
+- Used Python, RestAPIs, Power BI, Machine Learning, economics<br><br>
   
-**[Public Housing: Housing Register Reduction]()**<br>
-- Used R, Statistics\
+**[Public Housing: Housing Register Reduction]()**
+- Used R, Statistics<br><br>
   
 - ![image name](image.jpg)
 - [Youtube Presentation](https://www.youtube.com/link)
