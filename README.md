@@ -37,15 +37,15 @@
 ## Projects
 **[Macroeconomic Analysis](link)**
 - Used: Python, Webscraping, RestAPIs, economics, Statistics
-
+  
 **[Financial (Fundamental) Analysis](Link)**
 - Used Python, RestAPIs, Machine Learning, economics, Statistics
-
+  
 **[Macroeconomic and Financial Analysis Dashbaord]()**
 - Used Python, RestAPIs, Power BI, Machine Learning, economics
-
+  
 **[Public Housing: Housing Register Reduction]()**
 - Used R, Statistics
-
+  
 - ![image name](image.jpg)
 - [Youtube Presentation](https://www.youtube.com/link)
