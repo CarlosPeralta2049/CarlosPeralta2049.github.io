@@ -11,11 +11,11 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 **Below:** Interestingly, from 2008 the real economy also separated from the growth of assets in the financial economy, specifically, the S&P500.<br><br>
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project1_02.png)
 <br><br>
-### Stock markets have become correlated with the financial economy, creating the perfect situation for wealth transfer
+#### Stock markets have become correlated with the financial economy, creating the perfect situation for wealth transfer
 **Below:** This simple line graph shows that the future favours debtors over savers. Whether it be moving from bonds to mortgages, or riskier assets. If governments announce that there will be increased spending for anything, creating war or building roads, the result must be a very similar increase in asset values.<br><br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project1_03.png)
 <br><br>
-### The relationship between the Financial Economy and the S&P500 is not coincidence
+#### The relationship between the Financial Economy and the S&P500 is not coincidence
 **Below:** After applying a machine learning linear regression model, we may confirm that the relationship between Total Spending and the S&P500 is strong.<br><br>
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project1_04.png)
 
