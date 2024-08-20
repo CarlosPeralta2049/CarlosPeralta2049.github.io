@@ -8,7 +8,7 @@
 - Google: Adv. Data Analytics Professional Certificate (in progress)
 - Standford University: Machine Learning Specialisation (in progress)
 - Microsoft: Power BI Data Analytics Associate Certificate
-- IBM: Data Scientist Professional Certificate
+- IBM: Data Scientist Professional Certificate<br><br>
 
 ## Work Experience
 **Data Scientist @ Neural Expansions (2024 - Current)**
@@ -32,7 +32,7 @@
 - PSA Site Delegate: Union representative to 64 site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND in all regional matters
-- PSA National Deletate(occasionally): Represented 150+ regional staff<br><br><br>
+- PSA National Deletate(occasionally): Represented 150+ regional staff<br><br>
 
 ## Portfolio Projects
 - **[Macroeconomic Analysis](https://carlosperalta2049.github.io/Project1)** <br><br>
