@@ -29,7 +29,7 @@
 - Business Process Support: Adviced MoJ and HUD on housing policy
 - Project Service Delivery: Coordinated housing project stateholders
 - Technical Officer Housing: Processed housing tasks and daily reports
-- PSA Site Delegate: Union representative to 60+ site staff matters
+- PSA Site Delegate: Union representative to 60+ site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND on regional matters
 - PSA National Deletate (occasionally): Represented regional matters<br><br>
