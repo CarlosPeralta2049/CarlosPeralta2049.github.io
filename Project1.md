@@ -1,3 +1,5 @@
+**Project Objective:** To highlight the relationship between all government spending and the financial markets
+
 ## Macroeconomic Anaylysis
 Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. Fiscal policy affects the real economy where planned expenditure flows into the supply and demand of goods and services. Monetary policy affects the financial economy, where the Central Bank may adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock, bond and foreign exchange markets.
 
