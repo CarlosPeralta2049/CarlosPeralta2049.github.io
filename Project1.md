@@ -18,7 +18,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 #### The Financial Economy and the S&P500 share a strong relationship
 **Below:** After applying machine learning linear regression, we confirm that the relationship between Total Spending and the S&P500 is strong.<br><br>
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project1_04.png)
-<br><br>
+<br><br><br>
 
 ### INSTITUTIONAL CHANGE AND THE LATEST STRATEGY
 Today it's necessary to increase public debt levels to maintain the financial system afloat. One strategy in this approach is to stimulate the financial economy but not the real economy, so inflation isn't as pronounced. The latest solution in this strategy came about in 2023 in the form of the Bank Term Funding Program (BTFP) which enables the Central Bank to borrow against its existing reserves to stimulate the economy without requiring a congressional approval. 
