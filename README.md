@@ -19,7 +19,7 @@
 **Data Analyst & Data Scientist @ Self-Employed (2020-2024)**
 - Research and Development (machine and deep learning)
 - Macroeconomic and Financial analysis reporting
-- Technical Analysis and portfolio manager
+- Technical Analyst and portfolio manager
   
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
