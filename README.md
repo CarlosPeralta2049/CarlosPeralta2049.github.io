@@ -23,7 +23,7 @@
 
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
-- Data Analysis: Carried out daily site and regional reports
+- Data Analysis: Carried out site and regional Service Delivery reports
 - Programme Coordinator: Referals and weekly employment reports
 - Corrections Liaison: Advised on policy to the Ministry of Justice
 - Business Process Support: Adviced MoJ and HUD on housing policy
