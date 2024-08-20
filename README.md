@@ -14,12 +14,12 @@
 **Data Scientist @ Neural Expansions (2024 - Current)**
 - Research and Development (Machine and Deep Learning models)
 - Macroeconomic and Financial analysis (using machine learning)
-- Technical Analysis and portfolio manager
+- Technical Analysis and portfolio management
   
 **Data Analyst & Data Scientist @ Self-Employed (2020-2024)**
 - Research and Development (machine and deep learning)
 - Macroeconomic and Financial analysis reporting
-- Technical Analysis and portfolio manager
+- Technical Analysis and portfolio management
   
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
