@@ -32,7 +32,7 @@
 - PSA Site Delegate: Union representative to 64 site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND in all regional matters
-- PSA National Deletate(occasionally): Represented 150+ regional staff<br><br>
+- PSA National Deletate(occasionally): Represented 150+ regional staff<br><br><br>
 
 ## Portfolio Projects
 - **[Macroeconomic Analysis](https://carlosperalta2049.github.io/Project1)** <br><br>
