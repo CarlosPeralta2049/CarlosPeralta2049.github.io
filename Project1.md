@@ -1,8 +1,8 @@
 **Objective:** To explore the relationship between total government spending and the financial markets
 
 ## Macroeconomic Analysis
-Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. The former affects the real economy where planned expenditure flows into the supply and demand of goods and services. The latter affects the financial economy, where Central Banks adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock and bond markets.<br><br>
-
+Economies are managed primarily by governments with fiscal policy and by the Central Bank with monetary policy. The former affects the real economy where planned expenditure flows into the supply and demand of goods and services. The latter affects the financial economy, where Central Banks adjust interest rates for commercial banks, and financial institutions may stimulate the economy with instruments like stock and bond markets.
+<br><br>
 #### The real (M2) and the financial (Total assets) economies diverged
 **Below:** Following the 2008 recession enough debt was created to keep the financial system afloat. Under normal circumstances this would have induced high inflation. From 2008 debt increasingly created flows in the liquidity and money markets (mostly into assets in the banking system).<br><br>
 ![Image1](https://CarlosPeralta2049.github.io/Assets/Project1_01.png)
@@ -10,16 +10,14 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 #### The real economy (M2) has diverged relative to the S&P500 Index
 **Below:** Interestingly, from 2008 the real economy also separated from the growth of assets in the financial economy, specifically, the S&P500.<br><br>
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project1_02.png)
-
-
+<br><br>
 ### Stock markets have become correlated with the financial economy, creating the perfect situation for wealth transfer
-**Below:** This simple line graph shows that the future favours debtors over savers. Whether it be moving from bonds to mortgages, or riskier assets. If governments announce that there will be increased spending for anything, creating war or building roads, the result must be a very similar increase in asset values.
-![image name](image.jpg)
-
-
+**Below:** This simple line graph shows that the future favours debtors over savers. Whether it be moving from bonds to mortgages, or riskier assets. If governments announce that there will be increased spending for anything, creating war or building roads, the result must be a very similar increase in asset values.<br><br>
+![Image3](https://CarlosPeralta2049.github.io/Assets/Project1_03.png)
+<br><br>
 ### The relationship between the Financial Economy and the S&P500 is not coincidence
-**Below:** After applying a machine learning linear regression model, we may confirm that the relationship between Total Spending and the S&P500 is strong.
-![image name](image.jpg)
+**Below:** After applying a machine learning linear regression model, we may confirm that the relationship between Total Spending and the S&P500 is strong.<br><br>
+![Image4](https://CarlosPeralta2049.github.io/Assets/Project1_04.png)
 
 ### INSTITUTIONAL CHANGE AND THE LATEST STRATEGY
 Today it's necessary to increase public debt levels to maintain the financial system afloat. One strategy in this approach is to stimulate the financial economy but not the real economy, so inflation isn't as pronounced. The latest solution in this strategy came about in 2023 in the form of the Bank Term Funding Program (BTFP) which enables the Central Bank to borrow against its existing reserves to stimulate the economy without requiring a congressional approval. 
