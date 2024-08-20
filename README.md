@@ -8,18 +8,18 @@
 - Google: Adv. Data Analytics Professional Certificate (in progress)
 - Standford University: Machine Learning Specialisation (in progress)
 - Microsoft: Power BI Data Analytics Associate Certificate
-- IBM: Data Scientist Professional Certificate<br>
+- IBM: Data Scientist Professional Certificate<br><br>
 
 ## Work Experience
 **Data Scientist @ Neural Expansions (2024 - Current)**
 - Research and Development (Machine and Deep Learning models)
 - Macroeconomic and Financial analysis (using machine learning)
-- Technical Analysis and portfolio management<br>
+- Technical Analysis and portfolio management<br><br>
 
 **Data Analyst & Data Scientist @ Self-Employed (2018-2024)**
 - Research and Development (machine and deep learning)
 - Macroeconomic and Financial analysis reporting
-- Technical Analysis and portfolio management<br>
+- Technical Analysis and portfolio management<br><br>
 
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
@@ -32,7 +32,7 @@
 - PSA Site Delegate: Union representative to 60+ site staff matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
 - PSA Deputy National Delegate: Assisted ND on regional matters
-- PSA National Deletate (occasionally): Represented regional matters<br>
+- PSA National Deletate (occasionally): Represented regional matters<br><br>
 
 ## Projects
 - **[Macroeconomic Analysis](link)** <br><br>
