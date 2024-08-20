@@ -12,7 +12,7 @@ Economies are managed primarily by governments with fiscal policy and by the Cen
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project1_02.png)
 <br><br>
 #### Stock markets have become correlated with the financial economy, creating the perfect situation for wealth transfer
-**Below:** This simple line graph shows that the future favours debtors over savers, mortgages and riskier assets ovr long term bonds. If governments announce increases spending to create war, build roads, etc, the result must be asset price inflation.<br><br>
+**Below:** This shows that the future favours debtors over savers, and riskier assets over long term bonds. If governments announce increases spending to create war, build roads, etc, the result must be asset price inflation.<br><br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project1_03.png)
 <br><br>
 #### The relationship between the Financial Economy and the S&P500 is not coincidence
