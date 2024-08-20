@@ -35,16 +35,16 @@
 - PSA National Deletate(occasionally): Represented 150+ regional staff<br><br>
 
 ## Portfolio Projects
-- **[Macroeconomic Analysis](https://carlosperalta2049.github.io/Project1)** <br><br>
+- **[Macroeconomic Analysis: Research](https://carlosperalta2049.github.io/Project1)** <br><br>
 Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 
-- **[Financial (Fundamental) Analysis](Link)** <br><br>
+- **[Financial (Fundamental) Analysis: Research](Link)** <br><br>
 Tools: Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
   
-- **[Macroeconomic and Financial Analysis Dashboard]()** <br><br>
+- **[Macroeconomic and Financial Analysis: Dashboard](Link)** <br><br>
 Tools: Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
   
-- **[Policy Analysis: Housing Register Reduction]()** <br><br>
+- **[Policy Analysis: Housing Register Reduction Report](Link)** <br><br>
 Tools: R, Statistics<br><br>
   
 - ![image name](image.jpg)
