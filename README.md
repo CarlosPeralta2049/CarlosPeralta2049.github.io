@@ -35,17 +35,17 @@
 - PSA National Deletate (occasionally): Represented regional matters
 
 ## Projects
-**[Macroeconomic Analysis](link)**
-- Used: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
+- **[Macroeconomic Analysis](link)** <br><br>
+Used: Python, Webscraping, RestAPIs, economics, Statistics<br><br>
 
-**[Financial (Fundamental) Analysis](Link)**
-- Used Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
+- **[Financial (Fundamental) Analysis](Link)** <br><br>
+Used Python, RestAPIs, Machine Learning, economics, Statistics<br><br>
   
-**[Macroeconomic and Financial Analysis Dashbaord]()**
-- Used Python, RestAPIs, Power BI, Machine Learning, economics<br><br>
+- **[Macroeconomic and Financial Analysis Dashbaord]()** <br><br>
+Used Python, RestAPIs, Power BI, Machine Learning, economics<br><br>
   
-**[Public Housing: Housing Register Reduction]()**
-- Used R, Statistics<br><br>
+- **[Public Housing: Housing Register Reduction]()** <br><br>
+Used R, Statistics<br><br>
   
 - ![image name](image.jpg)
 - [Youtube Presentation](https://www.youtube.com/link)
