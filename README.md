@@ -16,7 +16,7 @@
 - Macroeconomic and Financial analysis (using machine learning)
 - Technical Analysis and portfolio management
   
-**Data Analyst & Data Scientist @ Self-Employed (2020-2024)**
+**Data Analyst & Data Scientist @ Self-Employed (2018-2024)**
 - Research and Development (machine and deep learning)
 - Macroeconomic and Financial analysis reporting
 - Technical Analysis and portfolio management
