@@ -31,13 +31,13 @@ For the 25 to 39 age groups SPS clients were set to briefly overtake JS clients 
 For SPS clients, this maintains the trend. However, JS clients were set to increase by Q2 2023.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_07.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_08.png" alt="Sample Image" width="245" height="250">
-
+<br><br>
 ### Why does the greatest demand appear?
 As EH grants grew in quantity, this likely increased Assessment Adequacy ratings to 'Severe Need'.
 Related Advances also grew, which likely increased Assessment Accessibility ratings to 'Severe Need'.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_09.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_10.png" alt="Sample Image" width="245" height="250">
-<br<br>
+<br><br>
 # **Conclusions**
 1)  The greatest "need" is for 1-2 bedroom places, by long-term 25-39 year old Single JS recipients.
 2)  Reviewing Adequacy, Accessibility, Affordability SAS criteria can improve their fit for purpose.
