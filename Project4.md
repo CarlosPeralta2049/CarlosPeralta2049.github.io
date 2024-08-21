@@ -38,9 +38,7 @@ Related Advances also grew, which likely increased Assessment Accessibility rati
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_09.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_10.png" alt="Sample Image" width="245" height="250">
 <br><br>
-## Conclusions
-- The greatest "need" is for 1-2 bedroom houses, by long-term 25-39 year old clients who are Single and receive a Job Seeker benefit.
-- Reviewing Adequacy, Accessibility, Affordability SAS 'need' criteria is likely improve fit for purpose and client outcomes.<br><br>
+**Conclusion:** The greatest "need" is for 1-2 bedroom houses, by long-term 25-39 year old clients who are Single and receive a Job Seeker benefit. Reviewing Adequacy, Accessibility, Affordability SAS 'need' criteria is likely improve fit for purpose and client outcomes.<br><br>
 
 ## Recommendations
 - **OPERATIONS:** Set 'employment' targets above the regional trend. Introduce a site productivity KPI into regional monthly reporting.
