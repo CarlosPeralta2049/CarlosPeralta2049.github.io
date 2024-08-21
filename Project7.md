@@ -1,4 +1,4 @@
-**Objective:** TThis dashboard identifies patterns in benefit update in Wellington, NZ.
+**Objective:** This dashboard identifies patterns in benefit updake.
 
 ### Benefit Uptake Analysis:
 - Identify fluctuations in benefit uptake, ie. especially in summer.
