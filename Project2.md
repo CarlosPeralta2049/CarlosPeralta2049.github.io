@@ -14,7 +14,7 @@ Fundamental analysis is a subset of financial analysis that utilises economic an
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project2_03.png)
 <br><br>
 ### Assembling a Strategy
-Following a government's or the Reserve Bank's stimulatory macro economic announcements the markets may respond with a sustained uptrend. Based on personal levels of risk aversion and risk management experience  individuals may select the frequency with which they invest, and if that should occcur in volatile markets. Professionals in this field regularly to utilise technical analysis to buy long or sell short more often and in the short term. 
+Following a government's or the Reserve Bank's stimulatory macro economic announcements the markets may respond with a sustained uptrend. Based on personal levels of risk aversion and risk management experience  individuals may select the frequency with which they invest, and if that should occcur in volatile markets. Professionals regularly to utilise technical analysis to buy long or sell short more often and in the short term. 
 
 In the ideal scenario, the government spending and inflation would occur at the same time as currency depreciation, following interest rate reductions and capital outflows. Asset prices would continiously rise as long as interest rate increases are not announced. The situation temporarily makes the USD an inferior asset, relatively. Coupled with the compounding effect of luxury asset volatility and leveraged borrowing here we find the highest levels of risk and reward.
 
