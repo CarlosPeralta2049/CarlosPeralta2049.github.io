@@ -43,7 +43,7 @@ Related Advances also grew, which likely increased Assessment Accessibility rati
 - Reviewing Adequacy, Accessibility, Affordability SAS 'need' criteria is likely improve fit for purpose and client outcomes.<br><br>
 
 ## Recommendations
-- **OPERATIONS:** Set 'employment' targets above the trend. Introduce a monthly site productivity KPI in monthly reporting.
-- **OPERATIONS:** To reduce 'severe' Adequacy, set renewed EH grants as recoverable. No exceptions.
-- **OPERATIONS:** To reduce 'severe' Accessibility, ensure that 'available balances' include HSP access.
-- **POLICY:** To reduce 'severe' Affordability, include accommodation benefits in income calculations.
+- **OPERATIONS:** Set 'employment' targets above the trend. Introduce a monthly site productivity KPI in regional monthly reporting.
+- **OPERATIONS:** To reduce 'severe' Adequacy, set renewed EH grants as recoverable. No exceptions. Return Adequacy to a period-based rating.
+- **OPERATIONS:** To reduce 'severe' Accessibility, ensure that 'available balances' have been accounted for Housing Support Product access.
+- **POLICY:** To reduce 'severe' Affordability, include accommodation an Temporary Additional Support benefits in income calculations.
