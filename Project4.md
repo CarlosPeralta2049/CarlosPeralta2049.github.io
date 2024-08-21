@@ -27,8 +27,8 @@ The most prevalent segments were 49% under JS and 29% under SPS of total benefit
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_06.png" alt="Sample Image" width="245" height="250">
 <br><br>
 ### When do they have the greatest demand?
-For the 25 to 39 age groups SPS clients were set to briefly overtake JS clients in Q1 2023.<br><br>
-For SPS clients, this maintains the trend. However, JS clients were set to increase by Q2 2023.<br>
+For the 25 to 39 age groups SPS clients were set to briefly overtake JS clients in Q1 2023.
+For SPS clients, this maintains the trend. However, JS clients were set to increase by Q2 2023.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_07.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_08.png" alt="Sample Image" width="245" height="250">
 
@@ -37,11 +37,11 @@ As EH grants grew in quantity, this likely increased Assessment Adequacy ratings
 Related Advances also grew, which likely increased Assessment Accessibility ratings to 'Severe Need'.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_09.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_10.png" alt="Sample Image" width="245" height="250">
-
+<br<br>
 # **Conclusions**
 1)  The greatest "need" is for 1-2 bedroom places, by long-term 25-39 year old Single JS recipients.
 2)  Reviewing Adequacy, Accessibility, Affordability SAS criteria can improve their fit for purpose.
-
+<br><br>
 # **Recommendations**
 1)  OPERATIONS: Set 'employment' targets above the trend. Introduce a productivity KPI in reporting.
 2)  OPERATIONS: To reduce 'severe' Adequacy, set renewed EH grants as recoverable. No exceptions.
