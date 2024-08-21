@@ -30,7 +30,7 @@ Below we find the widely used moving average indicator; this Simple Moving Avera
 ![Image6](https://CarlosPeralta2049.github.io/Assets/Project2_06.png)
 <br><br>
 ### Testing the Relative Strength Index Indicator Against Principal Component Analysis
-The Relative Strength Index (RSI) is an oscillator indicator which shows if an asset is overbought or oversold. When price is high its strength will be high for the trend to continue, and vice versa. Also, below we test this with Principal Component Analysis (PCA) across five years (1826 days). Components are equal but what matters are only the extremes, so when PC1 (RSI) is negative price should be low and vice versa. Therefore, when price is high but the RSI is low, an asset is overbought and vice versa.<br><br>
+The Relative Strength Index (RSI) is an oscillator indicator which shows if an asset is likely overbought or oversold. When price is high its strength will be high for the trend to continue, and vice versa. Also, below we test this with Principal Component Analysis (PCA) across five years (1826 days). Components are equal but what matters are only the extremes, so when PC1 (RSI) is negative price should be low and vice versa. Therefore, when price is high but the RSI is low, an asset is overbought and vice versa.<br><br>
 
 **Below:** As 2023 begins, the RSI tells us that BTC upside buy strength is above 70% while price a almost at lows not seen in three years. That is a typical positive divergence (buy signal).<br><br>
 ![Image7](https://CarlosPeralta2049.github.io/Assets/Project2_07.png)
