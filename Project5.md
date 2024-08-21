@@ -1,4 +1,4 @@
-**Objective:** This dashboard identifies reasons behind workflow and productivity disruptions due to conformance.
+**Objective:** This dashboard identifies and monitors reasons behind workflow and productivity disruptions due to conformance.
 
 ### Workflows and Produtivity:
 - Identify trends behind productivity reductions, ie. hardware faults.
