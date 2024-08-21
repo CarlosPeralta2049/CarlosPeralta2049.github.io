@@ -13,8 +13,8 @@ By June of 2022 Public Housing (PH) stock (excl. Transitional Housing) was 64,87
 ### What is there the greatest demand for?
 The combined Housing Register need for 1-2 bedroom properties makes up 80.12% of its 26,664 total.
 71.57% of those 80.12% Adults without children have this need. That's 57.34% of the total.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project4_01.png" alt="Sample Image" width="280" height="300">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project4_02.png" alt="Sample Image" width="280" height="300">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project4_01.png" alt="Sample Image" width="270" height="300">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project4_02.png" alt="Sample Image" width="270" height="300">
 <br><br>
 
 ### Who has the greatest demand?
