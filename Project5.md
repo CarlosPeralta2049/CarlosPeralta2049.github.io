@@ -2,7 +2,7 @@
 
 ### Workflows and Produtivity:
 - Identify trends behind productivity reductions, ie. hardware faults.
-- Identify training opportunities following regular workflow disruptions.
+- Identify training opportunities ddue to regular workflow disruptions.
 - Restructure processes to improve task repeatability and productvity.
 
 <br><br>
