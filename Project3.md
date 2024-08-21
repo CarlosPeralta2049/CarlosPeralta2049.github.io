@@ -4,11 +4,10 @@
 A macroeconomic algorithm on the 1st of every month calculates the previous month's inflation and GDP (released by the FED two weeks later)<br><br>
 
 ### Fundamental Analysis:
-A macroeconomic algorithm on the 1st of every month calculates the previous month's SNP500 Elasticity of demand
-A second macroeconomic algorithm calculates the previous month's BTC velocity to highlight market strength.<br><br>
+A macroeconomic algorithm on the 1st of every month calculates the previous month's Bitcoin Elasticity of demand against the S&P500 Index. A second macroeconomic algorithm calculates Bitcoin's velocity for the previous month. Both are checks of market strength.<br><br>
 
 ### Technical Anlaysis:
-Provides candlestick charts on a daily timeframe, which are alinged with MACD and RSI indicators<br><br>
+Presents candlestick charts on a daily, fortnightly, and 2-monthly timeframes. These are kept aligned with MACD and RSI indicators<br><br>
 
 ### Sentiment Analysis:
-Obtains BTC news articles articles from 50+ sources daily and anlyses their contents with Machine Learning to identify daily market sentiment.<br><br>
+Obtains BTC news articles articles from 50+ global news sources daily and analyses their contents with Machine Learning to identify daily market sentiment.<br><br>
