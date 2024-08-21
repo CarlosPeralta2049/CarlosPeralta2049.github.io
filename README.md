@@ -38,7 +38,7 @@
 - **[Macroeconomic Analysis: Research](https://carlosperalta2049.github.io/Project1)** <br><br>
 Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 
-- **[Financial (Fundamental) Analysis: Research](Link)** <br><br>
+- **[Financial (Fundamental and Technical) Analysis: Research](Link)** <br><br>
 Tools: Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
   
 - **[Macroeconomic and Financial Analysis: Dashboard](Link)** <br><br>
