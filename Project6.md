@@ -1,4 +1,4 @@
-**Objective:** This dashboard identifies over trends over time to analyse the value of business partners.
+**Objective:** This dashboard identifies trends over time to analyse the value of business partners.
 
 ### B2B Order Analysis Analysis:
 - Identify trends behind business increases or reductions.
