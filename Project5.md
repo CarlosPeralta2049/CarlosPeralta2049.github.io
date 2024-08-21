@@ -1,5 +1,5 @@
 **Objective:** This dashboard identifies patterns in benefit updake.
-
+ 
 ### Benefit Uptake Analysis:
 - Identify fluctuations in benefit uptake, ie. especially in summer.
 - Identify benefit uptake trends across regions and client segments.
