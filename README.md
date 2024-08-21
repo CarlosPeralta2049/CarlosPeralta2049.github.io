@@ -1,5 +1,5 @@
 # Data Scientist / Analyst
-#### Technical Skills: Python, R, SQL, MS Excel, VB, Power BI, HTML/CSS/JS, Node.JS, D3.JS
+#### Primary Technical Skills: Python, R, SQL, MS Excel, Power BI
 
 ## Education
 - Massey University, Auckland, NZ: Social Policy, Bachelor of Arts
