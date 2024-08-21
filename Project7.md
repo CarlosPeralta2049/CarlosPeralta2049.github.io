@@ -1,4 +1,4 @@
-**Objective:** To identify benefit outcomes and forecast Public Housing needs.
+**Objective:** TThis dashboard identifies patterns in benefit update in Wellington, NZ.
 
 ### Benefit Uptake Analysis:
 - Identify fluctuations in benefit uptake, ie. especially in summer.
@@ -6,4 +6,4 @@
 - Foreast Public Housing needs as well as Emergency Housing spending.
 
 <br>
-![Benefit Uptake Analysis Dashboard](https://www.youtube.com/watch?v=Jt7CFIzGvYI)
+[Benefit Uptake Analysis](https://www.youtube.com/watch?v=Jt7CFIzGvYI)
