@@ -18,7 +18,7 @@ Following a government's or the Reserve Bank's stimulatory macro economic announ
 
 In the ideal scenario, government spending and all inflation would occur at the same time as currency depreciation, following interest rate reductions and capital outflows. Asset prices would continiously rise as long as interest rate increases are not announced. The situation temporarily makes the USD an inferior asset. Coupled with the compounding effect of luxury asset volatility and leveraged borrowing we find high levels of risk and reward.
 
-**Below:** For example, a professional who is experienced in risk management may opt to trade TSLA because it has the higher volatility, as identiied by its standard deviation.<br> 
+**Below:** For example, a professional who is experienced in risk management may opt to trade TSLA because it has the higher volatility, as identiied by its standard deviation.<br><br>
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project2_04.png)
 ![Image5](https://CarlosPeralta2049.github.io/Assets/Project2_05.png)
 <br><br>
