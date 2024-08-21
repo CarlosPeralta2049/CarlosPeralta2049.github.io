@@ -25,11 +25,11 @@ In the ideal scenario, government spending and all inflation would occur at the 
 ## Financial (Technical) Analysis
 Technical analysis on the other hand extends financial analysis by analyzing historical price movements with technical indicators which are based on mathematical calculations. The two types of instruments most commonly used are categorized as moving averages which analyse across varying timeframes, and oscillators which for example may analyse an asset's trend momentum at a given price. 
 <br><br>
-### AUGMENTING THE MOVING AVERAGE WITH MACHINE LEARNING
+### Augmenting the Moving Average with Machine Learning
 Below we find a simple and widely used moving average indicator, the Simple Moving Average (SMA) which is set to a lag of 50 periods. For example, when price goes blow it, on average price becomes negative for that period range. One problem here is that in the short run prices are more volatile and there are too many sell signals. Therefore, applying linear regression Machine Learning to predict and smooth price can reduce volatility, reducing entries and exits, augmenting the predictability value of the moving average.<br><br>
 ![Image6](https://CarlosPeralta2049.github.io/Assets/Project2_06.png)
 <br><br>
-### TESTING THE RELATIVE STRENGTH INDEX INDICATOR AGAINST PRINCIPAL COMPONENT ANALYSIS
+### Testing the Relative Strength Index Indicator Against Principal Component Analysis
 The Relative Strength Index (RSI) is an oscillator indicator which shows if an asset is overbought or oversold. When price is high its strength will be high for the trend to continue, and vice versa. Also, below we test this with Principal Component Analysis (PCA) across five years (1826 days). Components are equal but what matters are only the extremes, so when PC1 (RSI) is negative price should be low and vice versa. Therefore, when price is high but the RSI is low, an asset is overbought and vice versa.<br><br>
 
 **Below:** As 2023 begins, the RSI tells us that BTC upside buy strength is above 70% while price a almost at lows not seen in three years. That is a typical positive divergence (buy signal).<br><br>
