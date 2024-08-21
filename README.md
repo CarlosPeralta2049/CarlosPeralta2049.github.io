@@ -41,11 +41,11 @@ Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial (Fundamental and Technical) Analysis: Research](https://carlosperalta2049.github.io/Project2)** <br><br>
 Tools: Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
   
-- **[Macroeconomic and Financial Analysis: Dashboard](https://carlosperalta2049.github.io/Project3)** <br><br>
+- **[Macroeconomic and Financial Analysis: Pulse Dashboard](https://carlosperalta2049.github.io/Project3)** <br><br>
 Tools: Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
   
 - **[Policy Analysis: Housing Register Reduction Report](https://carlosperalta2049.github.io/Project4)** <br><br>
 Tools: R, Statistics<br><br>
   
-- **[Data Analysis: Staff Adherence Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Data Analysis: Staff Daily Adherence Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 Tools: Microsoft Excel, Visual Basic<br><br>
