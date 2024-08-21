@@ -6,5 +6,5 @@
 - Forecast Public Housing needs and Emergency Housing spending.
 
 <br>
-[Benefit Uptake Analysis](https://www.youtube.com/watch?v=Jt7CFIzGvYI)
+[Benefit Uptake Analysis](https://www.youtube.com/watch?v=Jt7CFIzGvYI) <br>
 [![test](https://img.youtube.com/vi/Jt7CFIzGvYI/0.jpg)](https://www.youtube.com/watch?v=Jt7CFIzGvYI)
