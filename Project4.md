@@ -40,7 +40,7 @@ Related Advances also grew, which likely increased Assessment Accessibility rati
 <br><br>
 ## Conclusions
 - The greatest "need" is for 1-2 bedroom houses, by long-term 25-39 year old clients who are Single on a JS benefit.
-- Reviewing Adequacy, Accessibility, Affordability SAS criteria can improve their fit for purpose.
+- Reviewing Adequacy, Accessibility, Affordability SAS criteria can be improve fit for purpose and client outcomes.
 <br><br>
 ## Recommendations
 - OPERATIONS: Set 'employment' targets above the trend. Introduce a productivity KPI in reporting.
