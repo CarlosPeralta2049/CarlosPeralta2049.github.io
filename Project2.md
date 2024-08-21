@@ -36,6 +36,6 @@ The Relative Strength Index (RSI) is an oscillator indicator which shows if an a
 ![Image7](https://CarlosPeralta2049.github.io/Assets/Project2_07.png)
 ![Image8](https://CarlosPeralta2049.github.io/Assets/Project2_08.png)
 <br><br>
-**Conclusion:** Portfolio management is a matter of risk management. Fundamental Analysis based on macroeconomic theory allows the price forecasting of other assets. Technical Analysis indicators, when combined have the capability of identifying trends as well as giving low risk buy and sell signals. Machine Learning models augment technical analysis indicators.
+**Conclusion:** Portfolio management is a matter of risk management. Fundamental Analysis based on macroeconomic theory allows the price forecasting of other assets. Technical Analysis indicators, when combined identify trends as well as giving low risk buy and sell signals. Machine Learning models augment technical analysis indicators.
 
 
