@@ -34,7 +34,7 @@
 - PSA Deputy National Delegate: Assisted ND in all regional matters
 - PSA National Deletate(occasionally): Represented 150+ regional staff<br><br>
 
-## Portfolio Projects
+## Projects
 - **[Macroeconomic Analysis: Research](https://carlosperalta2049.github.io/Project1)** <br><br>
 Tools: Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 
