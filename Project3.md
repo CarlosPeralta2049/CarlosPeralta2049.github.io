@@ -3,7 +3,7 @@
 ### Macroeconomic Analysis:
 A macroeconomic algorithm on the 1st of every month calculates the previous month's inflation and GDP (released by FED two weeks later)<br><br>
 
-### Financial (Fundamental) Analysis:
+### Fundamental Analysis:
 A macroeconomic algorithm on the 1st of every month calculates the previous month's SNP500 Elasticity of demand
 A second macroeconomic algorithm calculates the previous month's BTC velocity to highlight market strength.<br><br>
 
