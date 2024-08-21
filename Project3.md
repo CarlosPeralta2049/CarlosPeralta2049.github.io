@@ -1,4 +1,4 @@
-**Objective:** To present pulse checks for Bitcoin based on funcamental and technical analysis, as well as sentiment analysis<br><br>
+**Objective:** To present monthly and daily pulse checks for Bitcoin based on fundamental, technical, and sentiment analysis<br><br>
 
 ### Macroeconomic Analysis:
 A macroeconomic algorithm on the 1st of every month calculates the previous month's inflation and GDP (released by FED two weeks later)<br><br>
