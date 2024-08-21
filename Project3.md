@@ -10,6 +10,6 @@ A macroeconomic algorithm on the 1st of every month calculates the previous mont
 Presents candlestick charts on a daily, fortnightly, and 2-monthly timeframes. These are kept aligned with MACD and RSI indicators<br><br>
 
 ### Sentiment Analysis:
-Obtains BTC news articles articles from 50+ global news sources daily and analyses their contents with Machine Learning to identify daily market sentiment.<br><br>
+Obtains BTC news articles from global news sources daily and analyses their contents with Machine Learning to identify daily market sentiment.<br><br>
 <br><br>
 ![Youtube](https://youtube.com/dashboard)
