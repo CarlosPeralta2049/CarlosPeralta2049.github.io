@@ -5,7 +5,7 @@
 By June of 2022 Public Housing (PH) stock (excl. Transitional Housing) was 64,870, up 3,000 over the previous 5 years. The Public Housing Register had 26,664 eligible applicants, up 20,000 over the previous 5 years. The Ministry of Social Development cannot significantly increase housing stock supply but it can help clients improve their lives to decrease demand. This paper clarifies how the Housing Register size may be reduced.
 
 ### Aims
-- To highlight PH needs likely to significantly increase demand.
+- To highlight PH needs that are likely to significantly increase demand.
 - To highlight client segments at risk of having long term PH needs.
 - To recommend 'operational' steps that Service Delivery may take.
 - To recommend 'policy' steps that HUD and MSD may take.<br><br>
