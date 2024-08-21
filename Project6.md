@@ -3,7 +3,7 @@
 ### Business Analysis:
 - Identify trends behind business increases or reductions.
 - Identify the value of dealing with business partners.
-- Identify the regularity of dealing with business partners.
+- Identify the frequency of dealing with business partners.
 - Identify the complexity of dealing with others (order size).
 
 <br><br>
