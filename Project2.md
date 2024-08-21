@@ -23,7 +23,7 @@ In the ideal scenario, government spending and all inflation would occur at the 
 ![Image5](https://CarlosPeralta2049.github.io/Assets/Project2_05.png)
 <br><br>
 ## Financial (Technical) Analysis
-Technical analysis on the other hand extends financial analysis by analyzing historical price movements with technical indicators which are based on mathematical calculations. The two types of instruments commonly used are moving averages which analyse across varying timeframes, and oscillators which for example may analyse an asset's trend momentum at a given price. 
+Technical analysis extends financial analysis by analyzing historical price movements with technical indicators which are based on mathematical calculations. The two types of instruments commonly used are moving averages which analyse across varying timeframes, and oscillators which for example may analyse an asset's trend momentum at a given price. 
 <br><br>
 ### Augmenting the Moving Average with Machine Learning
 Below we find a simple and widely used moving average indicator, the Simple Moving Average (SMA) which is set to a lag of 50 periods. When price goes below it, on average price becomes negative for that period range. One problem here is that in the short run prices are more volatile and there are too many sell signals. Therefore, applying linear regression Machine Learning to predict and smooth price can reduce volatility, reducing entries and exits, augmenting the predictability value of the moving average.<br><br>
