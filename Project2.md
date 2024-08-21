@@ -10,7 +10,7 @@ Fundamental analysis is a subset of financial analysis that utilises economic an
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project2_02.png)
 <br><br>
 ### Most of the top ten most profitable companies are in tech
-**Below:** Bear in mind that a core feature of luxurious assets is their high levels of volatility.
+**Below:** A core feature of luxurious assets is their high levels of volatility.
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project2_03.png)
 <br><br>
 ### Assembling a Strategy
