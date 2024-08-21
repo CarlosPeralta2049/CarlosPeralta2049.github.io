@@ -5,5 +5,5 @@
 - Identify training opportunities due to regular workflow disruptions.
 - Restructure processes to improve task repeatability and productvity.
 
-<br><br>
+<br>
 [Conformance Analysis](https://www.youtube.com/watch?v=HXlKY1L_UVg)
