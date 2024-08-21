@@ -43,7 +43,7 @@ Related Advances also grew, which likely increased Assessment Accessibility rati
 - Reviewing Adequacy, Accessibility, Affordability SAS criteria can be improve fit for purpose and client outcomes.
 <br><br>
 ## Recommendations
-- OPERATIONS: Set 'employment' targets above the trend. Introduce a productivity KPI in reporting.
+- OPERATIONS: Set 'employment' targets above the trend. Introduce a monthly site productivity KPI in monthly reporting.
 - OPERATIONS: To reduce 'severe' Adequacy, set renewed EH grants as recoverable. No exceptions.
 - OPERATIONS: To reduce 'severe' Accessibility, ensure that 'available balances' include HSP access.
 - POLICY: To reduce 'severe' Affordability, include accommodation benefits in income calculations.
