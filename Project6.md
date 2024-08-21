@@ -1,4 +1,4 @@
-**Objective:** This dashboard identifies ordr trends over time to analyse the value of business partners.<br><br>
+**Objective:** This dashboard identifies ordr trends over time to analyse the value of business partners.
 
 ### Business Analysis:
 - Identify trends behind business increases or reductions.
