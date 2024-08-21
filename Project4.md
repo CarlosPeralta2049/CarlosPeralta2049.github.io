@@ -38,11 +38,11 @@ Related Advances also grew, which likely increased Assessment Accessibility rati
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_09.png" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project4_10.png" alt="Sample Image" width="245" height="250">
 <br><br>
-**Conclusions**
-- The greatest "need" is for 1-2 bedroom places, by long-term 25-39 year old Single JS recipients.
+## Conclusions
+- The greatest "need" is for 1-2 bedroom houses, by long-term 25-39 year old clients who are Single on a JS benefit.
 - Reviewing Adequacy, Accessibility, Affordability SAS criteria can improve their fit for purpose.
 <br><br>
-**Recommendations**
+## Recommendations
 - OPERATIONS: Set 'employment' targets above the trend. Introduce a productivity KPI in reporting.
 - OPERATIONS: To reduce 'severe' Adequacy, set renewed EH grants as recoverable. No exceptions.
 - OPERATIONS: To reduce 'severe' Accessibility, ensure that 'available balances' include HSP access.
