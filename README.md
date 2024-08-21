@@ -49,3 +49,10 @@ Tools: R, Statistics<br><br>
   
 - **[Data Analysis: Staff Daily Adherence Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 Tools: Microsoft Excel, Visual Basic<br><br>
+
+- **[Data Analysis: B2B Order History Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
+Tools: Microsoft Excel, Visual Basic<br><br>
+
+- **[Data Analysis: Forecasting Benefit and Housing Needs Research](https://carlosperalta2049.github.io/Project7)** <br><br>
+Tools: Microsoft Excel, Visual Basic<br><br>
+
