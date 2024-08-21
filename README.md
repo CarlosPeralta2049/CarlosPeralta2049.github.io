@@ -47,5 +47,5 @@ Tools: Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
 - **[Policy Analysis: Housing Register Reduction Report](Link)** <br><br>
 Tools: R, Statistics<br><br>
   
-- ![image name](image.jpg)
-- [Youtube Presentation](https://www.youtube.com/link)
+- **[Data Analysis: Staff Adherence Dashboard(Link)** <br><br>
+Tools: Microsoft Excel, Visual Basic<br><br>
