@@ -1,4 +1,4 @@
-**Objective:** To monitor patterns in team conformance (to paid hours) over time. This dashboard identifies reasons for productivity reductions due to conformance
+**Objective:** Monitor patterns in workflow conformance over time. This dashboard identifies reasons for productivity disruptions due to conformance.
 
 ### Workflows and Produtivity:
 - Identify trends behind productivity reductions, ie. hardware faults.
