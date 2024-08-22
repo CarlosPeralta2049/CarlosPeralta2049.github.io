@@ -27,7 +27,7 @@
 - Programme Coordinator: Referals and weekly employment reports
 - Corrections Liaison: Advised on policy to the Ministry of Justice(MoJ)
 - Business Process Support: Adviced MoJ and HUD on housing policy
-- Project Service Delivery: Coordinated housing project stateholders
+- Project Service Delivery: Coordinated housing project stakeholders
 - Technical Officer Housing: Processed housing tasks and daily reports
 - PSA Site Delegate: Union representative to 64 site staff on all matters
 - PSA Site Workplace Convernor: Organised and led site Delegates
