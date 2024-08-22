@@ -11,6 +11,6 @@ Presents candlestick charts on a daily, fortnightly, and 2-monthly timeframes. T
 
 ### Sentiment Analysis:
 Obtains BTC news articles from global news sources daily and analyses their contents with Machine Learning to identify daily market sentiment.<br><br>
-<br><br>
+
 [![test](https://img.youtube.com/vi/mj0Lrxn5wPM/Project3_01.png)](https://www.youtube.com/watch?v=mj0Lrxn5wPM)
 
