@@ -8,7 +8,7 @@
 - Google: Adv. Data Analytics Professional Certificate (in progress)
 - Standford University: Machine Learning Specialisation (in progress)
 - Microsoft: Power BI Data Analytics Associate Certificate
-- IBM: Data Scientist Professional Certificate<br><br>
+- IBM: Data Scientist Professional Certificate<br>
 
 ## Work Experience
 **Data Scientist @ Neural Expansions (2024 - Current)**
