@@ -6,6 +6,6 @@
 - Identify the frequency of dealing with business partners.
 - Identify the complexity of dealing with others (order size).
 
-*Click on th picture below to view this video:*
+*Click on the picture below to view this video:*
 <br>
 [![test](https://img.youtube.com/vi/G1zRxS2SBc4/0.jpg)](https://www.youtube.com/watch?v=G1zRxS2SBc4)
