@@ -17,8 +17,8 @@
 - Technical Analysis and Portfolio Management
 
 **Data Analyst & Data Scientist @ Self-Employed (2018-2024)**
-- Research and Development (machine and deep learning)
-- Macroeconomic and Financial analysis reporting
+- Research and Development (Machine and Deep Learning)
+- Macroeconomic and Financial Analysis Reporting
 - Technical Analysis and Portfolio Management
 
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
