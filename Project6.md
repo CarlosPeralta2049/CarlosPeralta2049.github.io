@@ -5,6 +5,6 @@
 - Identify training opportunities due to regular workflow disruptions.
 - Restructure processes to improve task repeatability and productvity.
 
-*Click on th picture below to view this video:*
+*Click on the picture below to view this video:*
 <br>
 [![test](https://img.youtube.com/vi/HXlKY1L_UVg/0.jpg)](https://www.youtube.com/watch?v=HXlKY1L_UVg)
