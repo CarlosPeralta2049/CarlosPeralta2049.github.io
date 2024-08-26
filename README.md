@@ -6,7 +6,6 @@
 - Massey University, Auckland, NZ: Economics, Graduate Diploma
 - Google: Data Analytics Professional Certificate
 - Google: Adv. Data Analytics Professional Certificate (in progress)
-- Standford University: Machine Learning Specialisation (in progress)
 - Microsoft: Power BI Data Analytics Associate Certificate
 - IBM: Data Scientist Professional Certificate<br>
 
