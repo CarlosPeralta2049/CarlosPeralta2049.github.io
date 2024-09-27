@@ -11,16 +11,6 @@
 - IBM: Data Scientist Professional Certificate<br>
 
 ## Work Experience
-**Data Scientist @ Neural Expansions (2024 - Current)**
-- Research and Development (Machine and Deep Learning models)
-- Macroeconomic and Financial Analysis (using Machine Learning)
-- Technical Analysis and Portfolio Management
-
-**Data Analyst & Data Scientist @ Self-Employed (2018-2024)**
-- Research and Development (Machine and Deep Learning)
-- Macroeconomic and Financial Analysis Reporting
-- Technical Analysis and Portfolio Management
-
 **Housing Case Manager @ Ministry of Social Development (2016-2022)**
 - Public Housing: Carried out Tenancy Reviews and Assessments
 - Data Analysis: Carried out site and regional Service Delivery reports
