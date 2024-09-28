@@ -1,28 +1,5 @@
 # Data Scientist / Analyst
 #### Primary Technical Skills: Python, R, SQL, MS Excel, Power BI
-#### Primary means of contact: Email (currently travelling)
-
-## Education
-- Massey University, Auckland, NZ: Social Policy, Bachelor of Arts
-- Massey University, Auckland, NZ: Economics, Graduate Diploma
-- Google: Data Analytics Professional Certificate
-- Google: Adv. Data Analytics Professional Certificate (in progress)
-- Microsoft: Power BI Data Analytics Associate Certificate
-- IBM: Data Scientist Professional Certificate<br>
-
-## Work Experience
-**Housing Case Manager @ Ministry of Social Development (2016-2022)**
-- Public Housing: Carried out Tenancy Reviews and Assessments
-- Data Analysis: Carried out site and regional Service Delivery reports
-- Programme Coordinator: Referals and weekly employment reports
-- Corrections Liaison: Advised on policy to the Ministry of Justice(MoJ)
-- Business Process Support: Adviced MoJ, HUD, MSD on housing policy
-- Project Service Delivery: Coordinated housing project stakeholders
-- Technical Officer Housing: Processed housing tasks and daily reports
-- PSA Site Delegate: Union representative to 64 site staff on all matters
-- PSA Site Workplace Convernor: Organised and led site Delegates
-- PSA Deputy National Delegate: Assisted ND in all regional matters
-- PSA National Deletate(occasionally): Rep. to 250+ regional staff<br><br>
 
 ## Projects
 - **[Macroeconomic Analysis: Research](https://carlosperalta2049.github.io/Project1)** <br><br>
