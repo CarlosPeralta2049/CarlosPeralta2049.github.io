@@ -23,5 +23,11 @@ Tools: Microsoft Excel, Visual Basic<br><br>
 - **[Data Analysis: B2B Orders Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
 Tools: Microsoft Excel, Visual Basic<br><br>
 
-
+# Credentials
+#### Master of Analytics in Finance @ Massey University (in progress)
+#### Graduate Diploma of Arts in Economics @ Massey University
+#### Bachelor of Arts in Social Policy @ Massey University
+#### PowerBI Data Analyst Associate @ Microsoft
+#### Data Analystics Professsional @ Google
+#### Data Science Professional @ IBM
 
