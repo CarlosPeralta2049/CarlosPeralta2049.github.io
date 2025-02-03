@@ -24,7 +24,6 @@ Tools: Microsoft Excel, Visual Basic<br><br>
 Tools: Microsoft Excel, Visual Basic<br><br>
 
 ## Credentials
-#### Master of Analytics in Finance @ Massey University (in progress)
 #### Graduate Diploma of Arts in Economics @ Massey University
 #### Bachelor of Arts in Social Policy @ Massey University
 #### PowerBI Data Analyst Associate @ Microsoft
