@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 #### Primary Technical Skills: Python, R, SQL, MS Excel, Power BI
 
 ## Projects
