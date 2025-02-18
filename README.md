@@ -28,7 +28,7 @@ MS Excel, Power BI, Statistics<br><br>
 Python, Scikit-Learn, Folium<br><br>
 - **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project11)** <br><br>
 Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine Leanring Models: Logistic Regression, SVM, Decision Tree, KNN <br><br>
-- **[Tech: The Most Commonly Used Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Tech: The Most Commonly Used Classification Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn<br><br><br>
 
 ## Other
