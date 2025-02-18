@@ -9,7 +9,7 @@ Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
 - **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project10)** <br><br>
 MS Excel, Power BI, GTAP General Equilibrium Model<br><br>
 - **[Back-Testing Automation: Algorithmic Investment Strategies](https://carlosperalta2049.github.io/Project1)** <br><br>
-Pinescript, Tradingview, Candlestick Pattern Recognition Indicator<br><br>
+Pinescript, Custom Candlestick Pattern Recognition Indicators<br><br>
 - **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project3)** <br><br>
 Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
