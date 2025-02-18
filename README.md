@@ -27,7 +27,7 @@ MS Excel, Power BI, Statistics<br><br>
 - **[Aviation: Airline Yearly Performance Analytics Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn, Folium<br><br>
 - **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project11)** <br><br>
-Python, Webscraping, RestAPIs, Statistics, SQL, Folium, Plotly, Machine Learning<br><br>
+Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Classification Machine Learning models <br><br>
 - **[Tech: The Most Commonly Used Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn<br><br><br>
 
