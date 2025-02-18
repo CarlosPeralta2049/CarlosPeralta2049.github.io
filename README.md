@@ -6,43 +6,45 @@
 Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project2)** <br><br>
 Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
-- **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project10)** <br><br>
+- **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project3)** <br><br>
 MS Excel, Power BI, GTAP General Equilibrium Model<br><br>
-- **[Back-Testing Automation: Algorithmic Investment Strategies](https://carlosperalta2049.github.io/Project1)** <br><br>
+- **[Back-Testing Automation: Algorithmic Investment Strategies](https://carlosperalta2049.github.io/Project4)** <br><br>
 Pinescript, Custom Candlestick Pattern Recognition Indicators<br><br>
-- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project3)** <br><br>
+- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
 ### Housing Demand Determinants: Private and Public Sectors
-- **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project4)** <br><br>
+- **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project6)** <br><br>
 R, R Studio, Public Housing SAS Criteria, Statistics<br><br>
-- **[Housing Market Analysis: Price Determinants](https://carlosperalta2049.github.io/Project9)** <br><br>
+- **[Housing Market Analysis: Price Determinants](https://carlosperalta2049.github.io/Project7)** <br><br>
 MS Excel, Statistics, Regional Economic Activity Web Tool <br><br>
-- **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project12)** <br><br>
+- **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project8)** <br><br>
 Python, Statistics, Seaborn, Machine Learning<br><br>
-- **[Benefit Uptake: Determining Public Housing Demand ](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Benefit Uptake: Determining Public Housing Demand ](https://carlosperalta2049.github.io/Project9)** <br><br>
 MS Excel, Visual Basic, Statistics<br><br>
-- **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
+- **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project10)** <br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
 ### Industries: Tech, Public Transport, Aviation and Space
-- **[Public Transport: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
+- **[Public Transport: Reliability & Punctuality](https://carlosperalta2049.github.io/Project11)** <br><br>
 MS Excel, Power BI, Statistics<br><br>
-- **[Aviation: Airline Yearly Performance](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Aviation: Airline Yearly Performance](https://carlosperalta2049.github.io/Project12)** <br><br>
 Python, Scikit-Learn, Folium<br><br>
-- **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project11)** <br><br>
+- **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project13)** <br><br>
 Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine Leanring: Logistic Regression, SVM, Decision Tree, KNN <br><br>
-- **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project14)** <br><br>
 Python, Scikit-Learn<br><br><br>
 
 ### Management: Commerce and Workflow
-- **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
+- **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project15)** <br><br>
 Power BI, Statistics<br><br>
-- **[B2B Orders Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
+- **[B2B Orders Dashboard](https://carlosperalta2049.github.io/Project16)** <br><br>
 MS Excel, Visual Basic<br><br>
-- **[Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
+- **[Conformance Dashboard](https://carlosperalta2049.github.io/Project17)** <br><br>
 MS Excel, Visual Basic<br><br>
-- **[Time Management: Work on Hold Counter](https://carlosperalta2049.github.io/Project7)** <br><br>
+- **[Case Load: Work on Hold Counter](https://carlosperalta2049.github.io/Project18)** <br><br>
+MS Excel<br><br><br>
+- **[Frequent Quality Errors: Problem-Solver](https://carlosperalta2049.github.io/Project19)** <br><br>
 MS Excel<br><br><br><br>
 
 ## Credentials
