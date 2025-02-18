@@ -25,7 +25,6 @@ MS Excel, Visual Basic, Statistics<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
-
 ### Industries: Tech, Public Transport, Aviation and Space
 - **[Public Transport: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
 MS Excel, Power BI, Statistics<br><br>
@@ -43,8 +42,8 @@ Power BI, Statistics<br><br>
 MS Excel, Visual Basic<br><br>
 - **[Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
 MS Excel, Visual Basic<br><br>
-
-
+- **[Time Management: Work on Hold Counter](https://carlosperalta2049.github.io/Project7)** <br><br>
+MS Excel<br><br><br>
 
 ## Credentials
 #### Graduate Diploma of Arts in Economics @ Massey University
