@@ -23,7 +23,7 @@ HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
 ### Tech, Public Transport, Aviation, and Space Industries
 - **[Public Transport Analysis: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
-Power BI, Statistics<br><br>
+MS Excel, Power BI, Statistics<br><br>
 - **[Analytics Dashboard: Yearly Airline Performance](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn, Folium<br><br>
 - **[SpaceX Cost Analytics: The Cost of Rocket Launches](https://carlosperalta2049.github.io/Project11)** <br><br>
