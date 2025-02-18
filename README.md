@@ -30,7 +30,7 @@ Power BI, Statistics<br><br>
 Microsoft Excel, Statistics<br><br>
 
 - **[International Trade: Tariffs](https://carlosperalta2049.github.io/Project10)** <br><br>
-Microsoft Excel, Power BI, GTAP (Mumlti-sector Computable General Equilibrium Model)<br><br>
+Microsoft Excel, Power BI, GTAP<br><br>
 
 - **[SpaceX: Landing First Stages to Identify the Cost of Launch](https://carlosperalta2049.github.io/Project11)** <br><br>
 Python, Webscraping, RestAPIs, Statistics, SQL, Folium, Plotly, Machine Learning<br><br>
