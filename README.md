@@ -19,7 +19,7 @@ MS Excel, Statistics, Regional Economic Activity Web Tool <br><br>
 - **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project12)** <br><br>
 Python, Statistics, Seaborn, Machine Learning<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
-HTML, CSS, Javascript, React<br><br><br>
+HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
 ## Technology, Public Transport, Aviation, and Space Industries
 - **[Public Transport Analysis: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
