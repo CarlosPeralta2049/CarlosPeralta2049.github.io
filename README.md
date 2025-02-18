@@ -1,7 +1,7 @@
 # Data Analyst
 #### Primary Skills: Python, R, SQL, MS Excel, Power BI
 
-### Financial Systems: Research and Development
+### Financial Systems: Quantitative Research and Development
 - **[Economic Analysis: Macroeconomic & Liquidity](https://carlosperalta2049.github.io/Project1)** <br><br>
 Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project2)** <br><br>
