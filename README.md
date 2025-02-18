@@ -36,7 +36,7 @@ Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine L
 - **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn<br><br><br><br>
 
-### Commerce and Workflow
+### Management: Commerce and Workflow
 - **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
 Power BI, Statistics<br><br>
 - **[B2B Orders Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
