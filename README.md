@@ -6,10 +6,10 @@
 Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project2)** <br><br>
 Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
-- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project3)** <br><br>
-Python, RestAPIs, Power BI, Machine Learning, Economics<br><br>
 - **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project10)** <br><br>
-Microsoft Excel, Power BI, GTAP<br><br><br>
+Microsoft Excel, Power BI, GTAP<br><br>
+- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project3)** <br><br>
+Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
 ## Housing: Private and Public Sectors
 - **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project4)** <br><br>
