@@ -31,7 +31,7 @@ Python, Webscraping, RestAPIs, Statistics, SQL, Folium, Plotly, Machine Learning
 - **[Machine Learning: The Most Commonly Used Models](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Psikit-Learn<br><br><br>
 
-## Commerce and 
+## Other
 - **[Data Analysis: Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 Microsoft Excel, Visual Basic<br><br>
 
