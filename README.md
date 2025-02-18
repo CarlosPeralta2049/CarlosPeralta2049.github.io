@@ -33,7 +33,7 @@ Python, Scikit-Learn, Folium<br><br>
 - **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project11)** <br><br>
 Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine Leanring: Logistic Regression, SVM, Decision Tree, KNN <br><br>
 - **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
-Python, Scikit-Learn<br><br><br><br>
+Python, Scikit-Learn<br><br><br>
 
 ### Management: Commerce and Workflow
 - **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
@@ -43,7 +43,7 @@ MS Excel, Visual Basic<br><br>
 - **[Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
 MS Excel, Visual Basic<br><br>
 - **[Time Management: Work on Hold Counter](https://carlosperalta2049.github.io/Project7)** <br><br>
-MS Excel<br><br><br>
+MS Excel<br><br><br><br>
 
 ## Credentials
 #### Graduate Diploma of Arts in Economics @ Massey University
