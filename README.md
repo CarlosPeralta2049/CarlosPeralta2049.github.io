@@ -25,11 +25,11 @@ HTML, CSS, Javascript, React, VS Studio<br><br><br>
 - **[Public Transport Analysis: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
 Power BI, Statistics<br><br>
 - **[Analytics Dashboard: Yearly Airline Performance](https://carlosperalta2049.github.io/Project5)** <br><br>
-Python, Psukit-Learn, Folium<br><br>
+Python, Scikit-Learn, Folium<br><br>
 - **[SpaceX Cost Analytics: The Cost of Rocket Launches](https://carlosperalta2049.github.io/Project11)** <br><br>
 Python, Webscraping, RestAPIs, Statistics, SQL, Folium, Plotly, Machine Learning<br><br>
 - **[Machine Learning: The Most Commonly Used Models](https://carlosperalta2049.github.io/Project5)** <br><br>
-Python, Psikit-Learn<br><br><br>
+Python, Scikit-Learn<br><br><br>
 
 ## Other
 - **[Data Analysis: Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
