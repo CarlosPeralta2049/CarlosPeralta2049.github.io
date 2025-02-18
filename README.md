@@ -13,7 +13,7 @@ Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
 ### Housing: Private and Public Sectors
 - **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project4)** <br><br>
-R, R Studio, PH SAS Criteria, Statistics<br><br>
+R, R Studio, Public Housing SAS Criteria, Statistics<br><br>
 - **[Housing Market Analysis: Market Indicators](https://carlosperalta2049.github.io/Project9)** <br><br>
 Microsoft Excel, Statistics<br><br>
 - **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project12)** <br><br>
