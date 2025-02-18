@@ -20,8 +20,8 @@ R, R Studio, Public Housing SAS Criteria, Statistics<br><br>
 MS Excel, Statistics, Regional Economic Activity Web Tool <br><br>
 - **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project12)** <br><br>
 Python, Statistics, Seaborn, Machine Learning<br><br>
-- **[Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
-MS Excel, Visual Basic<br><br>
+- **[Benefit Uptake: Determining Public Housing Demand ](https://carlosperalta2049.github.io/Project5)** <br><br>
+MS Excel, Visual Basic, Statistics<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
