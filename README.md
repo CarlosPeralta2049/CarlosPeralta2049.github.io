@@ -11,7 +11,7 @@ Microsoft Excel, Power BI, GTAP General Equilibrium Model<br><br>
 - **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project3)** <br><br>
 Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
-## Housing: Private and Public Sectors
+### Housing: Private and Public Sectors
 - **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project4)** <br><br>
 R, Statistics<br><br>
 - **[Housing Market Analysis: Market Indicators](https://carlosperalta2049.github.io/Project9)** <br><br>
