@@ -22,9 +22,9 @@ Python, Statistics, Seaborn, Machine Learning<br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
 ### Industries: Tech, Public Transport, Aviation and Space
-- **[Public Transport: Reliability & Punctuality Analytics Dashboard](https://carlosperalta2049.github.io/Project8)** <br><br>
+- **[Public Transport: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
 MS Excel, Power BI, Statistics<br><br>
-- **[Aviation: Airline Yearly Performance Analytics Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Aviation: Airline Yearly Performance](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn, Folium<br><br>
 - **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project11)** <br><br>
 Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine Leanring: Logistic Regression, SVM, Decision Tree, KNN <br><br>
