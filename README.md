@@ -17,7 +17,7 @@ R, R Studio, Public Housing SAS Criteria, Statistics<br><br>
 - **[Housing Market Analysis: Price Determinants](https://carlosperalta2049.github.io/Project9)** <br><br>
 MS Excel, Statistics, Regional Economic Activity Web Tool <br><br>
 - **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project12)** <br><br>
-Python, Machine Learning<br><br>
+Python, Seaborn, Machine Learning<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
 HTML, CSS, Javascript, React<br><br><br>
 
