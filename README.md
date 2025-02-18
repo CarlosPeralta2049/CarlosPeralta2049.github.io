@@ -21,7 +21,7 @@ Python, Statistics, Seaborn, Machine Learning<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project13)** <br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
-## Technology, Public Transport, Aviation, and Space Industries
+## Tech, Public Transport, Aviation, and Space
 - **[Public Transport Analysis: Reliability & Punctuality](https://carlosperalta2049.github.io/Project8)** <br><br>
 Power BI, Statistics<br><br>
 - **[Analytics Dashboard: Yearly Airline Performance](https://carlosperalta2049.github.io/Project5)** <br><br>
