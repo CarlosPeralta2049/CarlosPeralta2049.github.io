@@ -32,11 +32,11 @@ Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine L
 Python, Scikit-Learn<br><br><br>
 
 ### Other
-- **[Data Analysis: Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 MS Excel, Visual Basic<br><br>
-- **[Data Analysis: Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
+- **[Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
 MS Excel, Visual Basic<br><br>
-- **[Data Analysis: B2B Orders Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
+- **[B2B Orders Dashboard](https://carlosperalta2049.github.io/Project7)** <br><br>
 MS Excel, Visual Basic<br><br>
 
 
