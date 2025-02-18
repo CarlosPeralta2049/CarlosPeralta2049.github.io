@@ -31,7 +31,7 @@ Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine L
 - **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project5)** <br><br>
 Python, Scikit-Learn<br><br><br>
 
-## Other
+### Other
 - **[Data Analysis: Benefit Uptake Dashboard](https://carlosperalta2049.github.io/Project5)** <br><br>
 MS Excel, Visual Basic<br><br>
 - **[Data Analysis: Conformance Dashboard](https://carlosperalta2049.github.io/Project6)** <br><br>
