@@ -3,7 +3,7 @@
 ### Determinants of House Prices in Auckland
 This research identifies three sets of housing price determinants in Auckland as being regional, national and global. Ultimately, price is seen as dependent on each at varying degrees. Considering that correlation does not necessarily imply inference, the research mainly aims to understand the past and the present components of house price movement in Auckland.
 
-For the demand side, population growth is taken as a passive determinant (rental prices can influence investment decisions) and it is made up of Natural Increase (births and deaths) and Net Migration. At the time of this analysis there was no recent data for natural increase or migration to Auckland, but for New Zealand it was 27,700 for natural increase and 4,700 for net migration. Nonetheless, Auckland established an excellent correlation between median house prices and population rates at .9786.<br>
+For the demand side, population growth is taken as a passive determinant (rental prices can influence investment decisions) and it is made up of Natural Increase (births and deaths) and Net Migration. At the time of this analysis there was no recent data for natural increase or migration to Auckland, but for New Zealand it was 27,700 for natural increase and 4,700 for net migration. Nonetheless, Auckland established an excellent correlation between median house prices and population rates at .9786.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_01.jpg" alt="Sample Image" width="495" height="250">
 
 
