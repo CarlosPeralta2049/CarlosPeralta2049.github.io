@@ -1,4 +1,4 @@
-**Objective:** This dashboard highlights bike sales performance for a selected period
+**Objective:** To highlight bike sales performance for a selected period
  
 ### Sales Dashboard:
 - Highlighting revenue
