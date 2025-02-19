@@ -22,13 +22,13 @@ To assess the implications of the primary objective, RunGTAP v3.75 is utilised. 
 
 **Simulaton Results:** 
 Consider that Terms of Trade (ToT) identifies if an economy is moving towards a trade surplus, increasing GDP. A ToT increase implies that the value of X can buy more than before and a ToT decrease implies the opposite. The simulation findings were as follows:<br>
-Trade Balance (U.S.): Decreasing tariffs turns the U.S. into importer at every tariff decrease.<br>
-Trade Balance (EU): Decreasing tariffs makes exports increase then increase.<br>
-Trade Balance (RestOfWorld): Decreasing tariffs makes exports decrease then increase.<br>
-Terms of Trade (U.S.): Decreasing tariffs increases terms of trade at every tariff decrease.<br>
-Terms of Trade (EU): Decresing tariffs decreases terms of trade at every tariff decrease.<br>
-Terms of Trade (ROW): Decreasing tariffs decreases terms of trade at every tariff decrease.<br>
-Value of World Trade: With respect to overall trade, as tariffs decreased, total trade increased.<br>
+Trade Balance (U.S.): Tariffs↑ turns the U.S. into importer at every tariff↓.<br>
+Trade Balance (EU): Tariffs↓ makes exports ↑ then ↑.<br>
+Trade Balance (RestOfWorld): Tariffs↓ makes exports↓ then ↑.<br>
+Terms of Trade (U.S.): Tariffs↓ makes terms of trade↑ at every tariff↓.<br>
+Terms of Trade (EU): Tariffs↓ makes terms of trade↓ at every tariff↓.<br>
+Terms of Trade (ROW): Tariffs↓ makes terms of trade↓ at every tariff↓.<br>
+Value of World Trade: With respect to overall trade, as tariffs↓, total trade↑.<br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_05.jpg)<br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_06.jpg)<br>
 
