@@ -43,7 +43,8 @@ While GDP per capita has a near perfect upside correlation. This paper research 
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_14.jpg" alt="Sample Image" width="495" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_15.jpg" alt="Sample Image" width="495" height="200">
 
-The OCR is a blunt tool for dealing with house prices. As we see below, the increase of the OCR to 8.25% in 2007 barely affected the GDP per capita. Considering that GDP per capita and house prices are nearly perfectly correlated at 0.96, is it clear increasing interest rates generally affects property investors and reduces house prices but only marginally. 
+The OCR is a blunt tool for dealing with house prices. As we see below, the increase of the OCR to 8.25% in 2007 barely affected the GDP per capita. Considering that GDP per capita and house prices are nearly perfectly correlated at 0.96, is it clear increasing interest rates generally affects property investors and reduces house prices but only marginally.<br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_16.jpg" alt="Sample Image" width="495" height="250">
 
 The last indicator is far simpler. For the supply side input costs of construction materials, I used a Process Behaviour Chart to predict the range within which prices normally fluctuate. Because it forecasts when prices are increasing steadily, this allows one to measure the opportunity cost of buying an additional unit. It also tells when prices fluctuate outside the trend, creating an opportunity to invest on that input. The period measured may be the average time it takes for the input to be manufactured and delivered. The fulfilment of an order depends on the price we can pay, therefore GDP per capita is still the leading determinant that will influence domestic and foreign accessibility.
 -> Picture 18
