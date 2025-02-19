@@ -5,7 +5,7 @@ Candlestick patterns are often used in technical analysis. However, they can com
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_01.jpg" alt="Sample Image" width="390" height="150">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_03.jpg" alt="Sample Image" width="100" height="100"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_02.jpg" alt="Sample Image" width="390" height="150">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project04_04.jpg" alt="Sample Image" width="100" height="100"><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project04_04.jpg" alt="Sample Image" width="100" height="100"><br><br>
 
 ## Back-Testing Automation: Algorithmic Investment Strategies
 Candlestick patterns good indicators that cam show when price may be high or low. The examples I coded in Pinescript above form part of a set of trading algorithms which place ↑ and ↓ arrows in the market charts. Specifically, this algorithm adds ↓ arrows where it calculates that price is about to fall, in advance of it falling. Likewise, it ads ↑ arrows where it calculates that price will rise, in advance of it rising.<br><br>
