@@ -1,4 +1,4 @@
-**Objective:** Initially, texplore the effects of tariffs on economies. Consequently, to simulate the effects of a 10% tariff reduction on EU food imports from the US.
+![image](https://github.com/user-attachments/assets/505be040-5a17-46dd-810a-6524c7214157)**Objective:** Initially, texplore the effects of tariffs on economies. Consequently, to simulate the effects of a 10% tariff reduction on EU food imports from the US.
 
 ## Trade Barriers: International Trade and Tariffs
 **Scenario 01. Market Equilibrium for avocados without international trade:**
@@ -17,8 +17,25 @@ When consumption is 30 and production is 20, price = $200 and trade volume is 10
 ## Sensitivity Analysis: International Trade and Tariffs
 This analysis identifies the consequences of reductions of EU food import tariffs from the US by 0%, 10%, 100%. It simulates these shocks in food, manufacturing, and service sectors while adjusting varying levels of trade barriers to highlight trade liberalisation Consequences. The primary objective is to identify the implications of tariff reductions, and the secondary objective is to highlight historical economic correlations related to trade liberalisation efforts. 
 <br><br>
-To assess the implications of the primary objective, RunGTAP v3.75 is utilised. This is a visual user interface program that enables simulations which utilise GEMPACK (General Equilibrium Modelling Package), a suite of economic modelling software that runs computable general equilibrium models. Here, an experiment was set up to run the simulation of a 10% tariff reduction on United States food exports to the European Union. Settings were changed to the Gragg Solution Method using 3 solutions with solution steps 2-4-6. Automatic Accuracy setting was also selected to improve accuracy. The code ‘Shock tms("food","usa","eu")= -10 ;’ was placed in the shock tab to replicate the tariff reduction shock. Likewise, coding was added to create results with and without trade barriers.<br>
-![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_04.jpg)<br>
+To assess the implications of the primary objective, RunGTAP v3.75 is utilised. This is a visual user interface program that enables simulations which utilise GEMPACK (General Equilibrium Modelling Package), a suite of economic modelling software that runs computable general equilibrium models. Here, an experiment was set up to run the simulation of a 10% tariff reduction on United States food exports to the European Union. Settings were changed to the Gragg Solution Method using 3 solutions with solution steps 2-4-6. Automatic Accuracy setting was also selected to improve accuracy. The code ‘Shock tms("food","usa","eu")= -10 ;’ was placed in the shock tab to replicate the tariff reduction shock. Likewise, coding was added to create results with and without trade barriers.<br><br>
+![Image2](https://CarlosPeralta2049.github.io/Assets/Project03_04.jpg)<br><br>
+
+**Simulaton Results:** 
+Consider that Terms of Trade (ToT) identifies if an economy is moving towards a trade surplus, increasing GDP. A ToT increase implies that the value of X can buy more than before and a ToT decrease implies the opposite. The simulation findings were as follows:<br>
+Trade Balance (U.S.): Decreasing tariffs turns the U.S. into importer at every tariff decrease.<br>
+Trade Balance (EU): Decreasing tariffs makes exports increase then increase.<br>
+Trade Balance (RestOfWorld): Decreasing tariffs makes exports decrease then increase.<br>
+Terms of Trade (U.S.): Decreasing tariffs increases terms of trade at every tariff decrease.<br>
+Terms of Trade (EU): Decresing tariffs decreases terms of trade at every tariff decrease.<br>
+Terms of Trade (ROW): Decreasing tariffs decreases terms of trade at every tariff decrease.<br>
+Value of World Trade: With respect to overall trade, as tariffs decreased, total trade increased.<br>
+![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_05.jpg)<br>
+
+
+
+RunGTAP software has a few drawbacks. The first is that simulations combine sectors into only three groups which are Food, Manufacturing, and Services. This limitation does not allow for drill-through analysis for more detailed insight within each sector. Secondly, RunGTAP is updated in three-year cycles and the analysed data may not be accurate to the year. Thirdly, RunGTAP is limited to static data which reflects the situation in a particular year which may not necessarily reflect that similar change will continue to occur year on year. To overcome the limits of static data Microsoft Power Business Intelligence (BI) software is utilised in a dynamic data analysis as part of the secondary objective. Datasets were extracted from Macrotrends.net (sourced from datatopics.worldbank.org).
+The time series EU datasets of Trade as a percentage of GDP and GDP from 1971-2022 were graphed into a scatter graph and a trend line was applied to visualize their relationship, followed by calculating a separate measure that highlights their statistical correlation. 
+
 
 #### Statement
 **Below:** Describe picture. Followup description. Current reality (Specific result).<br><br>
