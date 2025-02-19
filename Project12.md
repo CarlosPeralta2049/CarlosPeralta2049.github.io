@@ -6,6 +6,6 @@
 - Displaying the number of flights from origin state.
 - Displaying Monthly flight cancelations.
 - Displaying average monthly flight time (minutes) by airline.
-<br>
+<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project12_01.jpg">
 
