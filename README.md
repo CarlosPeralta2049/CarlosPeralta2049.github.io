@@ -16,7 +16,7 @@ Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 ### Housing Demand Determinants: Private and Public Sectors
 - **[Public Housing Policy Analysis: Register Reduction](https://carlosperalta2049.github.io/Project06)** <br><br>
 R, R Studio, Public Housing SAS Criteria, Statistics<br><br>
-- **[Housing Market Analysis: Price Determinants](https://carlosperalta2049.github.io/Project07)** <br><br>
+- **[Housing Market Research: Price Determinants](https://carlosperalta2049.github.io/Project07)** <br><br>
 MS Excel, Statistics, Regional Economic Activity Web Tool <br><br>
 - **[Housing Market Analytics: Price Predictor](https://carlosperalta2049.github.io/Project08)** <br><br>
 Python, Statistics, Seaborn, Machine Learning<br><br>
