@@ -18,10 +18,10 @@ The height (500-100 = $400) * the base (40) * .5 = $8,000 NZD
 Producer surplus (area in orange): Above the supply curve. Below world price.
 The height ($100) * the base (10) * .5 = $500 NZD
 ![Image2](https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg)
-
-#### Statement
+<br>
+Scenario 03: Market Equilibrium for avocados including a $10 tariff.
 **Below:** Describe picture. Followup description. Current reality (Specific result).<br><br>
-![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_01.png)
+![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_03.png)
 <br><br>
 
 ## Sensitivity Analysis: International Trade and Tariffs
