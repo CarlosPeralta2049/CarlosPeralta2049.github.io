@@ -5,7 +5,7 @@ This research identifies three sets of housing price determinants in Auckland as
 
 For the demand side, population growth is taken as a passive determinant (rental prices can influence investment decisions) and it is made up of Natural Increase (births and deaths) and Net Migration. At the time of this analysis there was no recent data for natural increase or migration to Auckland, but for New Zealand it was 27,700 for natural increase and 4,700 for net migration. Nonetheless, Auckland established an excellent correlation between median house prices and population rates at .9786.<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_01.png" alt="Sample Image" width="245" height="250">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_02.png" alt="Sample Image" width="245" height="250">
+
 
 Investors are seen as active determinants as they are actively engaged in the decision to invest. The Reserve Bank (RB) identifies properties mainly under three categories (investors, other owner-occupiers, and first home buyers). Investors can declare property investments as main homes when they move into them to be excluded from the Brightline Test after two years. Their following properties may be new builds to not pay taxes after 5 years. I combine them below (RBNZ, 2022) as they are both investment types. Out of the total, owner-occupier and investor purchases were 80.62% in 2020, 82.10% in 2021, and 82.30% in 2022.
 -> Picture 3
