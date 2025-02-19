@@ -33,12 +33,7 @@ Value of World Trade: With respect to overall trade, as tariffsâ†“, total tradeâ
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project03_06.jpg)<br>
 
 **Primary Objective Conclusion:**
-The U.S. gains the most, and consistently tariff reductions on its exports.
-World trade gains with a 49.1% increase as U.S. export tariffs are removed.
-Generally, a 10% tariff cut is the most beneficial combination for the world.
-However, these simulations give the general results of a snapshot in time.
-Large importers like the U.S. can potentially benefit from tariffs.
-However, as they place tariffs retaliation and trade wars may rise.
+The U.S. gains the most, and consistently from tariff reductions on its exports. World trade gains with a 49.1% increase as U.S. export tariffs are removed. Generally, a 10% tariff cut is the most beneficial combination for the world. However, these simulations give the results of a snapshot in time. Large countries like the U.S. can potentially benefit from tariffs. However, as they place tariffs retaliation and trade wars may rise.
 
 RunGTAP software has a few drawbacks. The first is that simulations combine sectors into only three groups which are Food, Manufacturing, and Services. This limitation does not allow for drill-through analysis for more detailed insight within each sector. Secondly, RunGTAP is updated in three-year cycles and the analysed data may not be accurate to the year. Thirdly, RunGTAP is limited to static data which reflects the situation in a particular year which may not necessarily reflect that similar change will continue to occur year on year. To overcome the limits of static data Microsoft Power Business Intelligence (BI) software is utilised in a dynamic data analysis as part of the secondary objective. Datasets were extracted from Macrotrends.net (sourced from datatopics.worldbank.org).
 The time series EU datasets of Trade as a percentage of GDP and GDP from 1971-2022 were graphed into a scatter graph and a trend line was applied to visualize their relationship, followed by calculating a separate measure that highlights their statistical correlation. 
