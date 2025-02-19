@@ -10,6 +10,3 @@
 <img src="https://CarlosPeralta2049.github.io/Assets/Project10_04.jpg" alt="Sample Image" width="495" height="400"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project10_05.jpg" alt="Sample Image" width="195" height="400">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project10_05.jpg" alt="Sample Image" width="195" height="400"><br><br>
-
-
-[![test](https://img.youtube.com/vi/Jt7CFIzGvYI/0.jpg)](https://www.youtube.com/watch?v=Jt7CFIzGvYI)
