@@ -2,3 +2,4 @@
 
 ### Housing Market Analytics: Price Predictor
 1) Access data (CSV, API, Webscrape, Survey, etc) & Clean (Transform, remove irregularities, duplicates, missing vals, etc)
+<img src="https://CarlosPeralta2049.github.io/Assets/Project08_01.jpg" alt="Sample Image" width="495" height="200">
