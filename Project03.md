@@ -6,7 +6,7 @@ If the equilibrium price of avocados is $250 the total quantity for avocados is 
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_01.jpg" alt="Sample Image" width="245" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg" alt="Sample Image" width="245" height="200">
 
-**Scenario 02. Market Equilibrium for avocados with free trade:** 
+**Scenario 02. Market Equilibrium for avocados in an open economy, with free trade:** 
 When consumption (blue) is 40 (domestic demand) and Production (orange) is 10 (domestic supply), the price (per ton) is $100 and trade volume is 30 tons imported. Consumer surplus (blue) is found below the demand curve, above world price and this is the height (500-100 = $400) * the base (40) * .5 = $8,000. Producer surplus (orange) is found above the supply curve, below world price, and it is the height ($100) * the base (10) * .5 = $500. **This disagram is shown above, on the right**
 
 <br>
