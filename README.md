@@ -43,10 +43,7 @@ Power BI, Statistics<br><br>
 MS Excel, Visual Basic<br><br>
 - **[Conformance Dashboard](https://carlosperalta2049.github.io/Project17)** <br><br>
 MS Excel, Visual Basic<br><br>
-- **[Case Load: Work on Hold Counter](https://carlosperalta2049.github.io/Project18)** <br><br>
-MS Excel<br><br>
-- **[Frequent Quality Errors: Problem-Solver](https://carlosperalta2049.github.io/Project19)** <br><br>
-MS Excel<br><br><br><br>
+<br>
 
 ## Credentials
 #### Graduate Diploma of Arts in Economics @ Massey University
