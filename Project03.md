@@ -1,7 +1,7 @@
 **Objective:** To explore the effects of tariffs on economies, then specifically the effects of European tariffs on U.S. imports.
 
 ## Trade Barriers: International Trade and Tariffs
-**Below (left):** Scenario 01: Market Equilibrium for avocados without international trade.
+**Scenario 01 (Disagram below, left):** Market Equilibrium for avocados without international trade.
 The equilibrium price for avocados is $250.  The total quantity for avocados is 25 tones.
 Consumer surplus: Below the demand curve. Above equilibrium price. 250 * 25 * 0.5 = $3,125.  
 Producer surplus: Above the supply curve. Below the equilibrium price. 250 * 25 * 0.5 = $3,125.  
