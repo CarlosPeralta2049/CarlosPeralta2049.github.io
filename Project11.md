@@ -5,4 +5,4 @@
 - This dashboard highlights correlations in service delivery.
 - This dashboard likely identifies the rootcause of transport delays.
 
-- 
+<img src="https://CarlosPeralta2049.github.io/Assets/Project11_01.jpg" alt="Sample Image" width="495" height="400">
