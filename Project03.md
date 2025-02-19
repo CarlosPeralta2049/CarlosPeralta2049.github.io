@@ -9,7 +9,7 @@ If the equilibrium price of avocados is $250 the total quantity for avocados is 
 When consumption (blue) is 40 (domestic demand) and Production (orange) is 10 (domestic supply), the price (per ton) is $100 and trade volume is 30 tons imported. Consumer surplus (blue) is found below the demand curve, above world price (Pw) and this is the height (500-100 = $400) * the base (40) * .5 = $8,000. Producer surplus (orange) is found above the supply curve, below world price, and it is the height ($100) * the base (10) * .5 = $500. **This example is shown above, on the right.**
 <br>
 
-**Scenario 03. Market Equilibrium for avocados including a $10 tariff:**
+**Scenario 03. Market Equilibrium for avocados including a $100 tariff:**
 When consumption is 30 and production is 20, price = $200 and trade volume is 10 tones imported. Consumer surplus is the height (500 – 200 = 300) * base (30) * .5 = $4,500, and it has reduced to $3,500 ($8,000 - $4,500). Producer surplus is the height (200) * base (20) * .5 = $2,000, and it has decreased to $1,500 ($2,000 - $500). A new deadweight loss results from the tariff and it is made up of the following areas. The consumption effect (area D), which is the height (100) * base (40-30=10) * .5 = $500. The protective effect (area B), which is the height (100) * base (20-10) * .5 = $500. The redistributive effect of government revenue (area C). The total deadweight wellfare loss imposed on the economy is $1,000 (areas D + B). <br>**This example is shown below.**
 <br>
 ![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_03.jpg)<br><br>
