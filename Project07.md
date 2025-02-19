@@ -4,22 +4,22 @@
 This research identifies three sets of housing price determinants in Auckland as being regional, national and global. Ultimately, price is seen as dependent on each at varying degrees. Considering that correlation does not necessarily imply inference, the research mainly aims to understand the past and the present components of house price movement in Auckland.
 
 For the demand side, population growth is taken as a passive determinant (rental prices can influence investment decisions) and it is made up of Natural Increase (births and deaths) and Net Migration. At the time of this analysis there was no recent data for natural increase or migration to Auckland, but for New Zealand it was 27,700 for natural increase and 4,700 for net migration. Nonetheless, Auckland established an excellent correlation between median house prices and population rates at .9786.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_01.jpg" alt="Sample Image" width="495" height="250">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_01.jpg" alt="Sample Image" width="495" height="200">
 
 
 Investors are seen as active determinants as they are actively engaged in the decision to invest. The Reserve Bank (RB) identifies properties mainly under three categories (investors, other owner-occupiers, and first home buyers). Investors can declare property investments as main homes when they move into them to be excluded from the Brightline Test after two years. Their following properties may be new builds to not pay taxes after 5 years. I combine them below (RBNZ, 2022) as they are both investment types. Out of the total, owner-occupier and investor purchases were 80.62% in 2020, 82.10% in 2021, and 82.30% in 2022.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_02.jpg" alt="Sample Image" width="495" height="250">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_02.jpg" alt="Sample Image" width="495" height="200">
 
 Because singles, couples, or parents with one child make up almost 50% of households (FigureNZ, 2022) and birth rates are relatively stagnant (StatsNZ, 2022), demand increases are likely driven by investor singles and couples without children. One or two-bedroom dwellings make up 25% of all and 44% have three bedrooms. In Auckland 39% had 3 bedrooms but it had more than the average for 5+ (StatsNZ, 2022). Adding 4 and 5+ to the 3-bedroom figures gives 70%. Comparing with the Social Allocation System (MSD, 2022), the appropriate allocation for singles or couples is one bedroom, one-child families two, and two-child three bedrooms. Therefore, 30% of purchases should be from singles or couples without children, but instead, 50% are. Those extra 20% are likely to be investors upgrading or buying another to increase tax-free capital gains. They are also likely to make up the largest part of the 82.18% of all investor purchases.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_03.jpg" alt="Sample Image" width="495" height="250">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_04.jpg" alt="Sample Image" width="495" height="250">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_03.jpg" alt="Sample Image" width="495" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_04.jpg" alt="Sample Image" width="495" height="200">
 
 The second active determinant of demand is the mortgage interest rate, as set by commercial banks which are influenced by the Reserve Bank (RB). Here the subject expands to national and global levels. The RB also affects commercial bank lending and as much of it goes to business investments, we must also consider its effect on GDP per capita. We find GDP per capita growth where skilled labour goes, thereby creating concentrations of skilled labour. GDP per capita in Auckland was $70,851 in 2020 while New Zealand’s was $63,556 and because owning property is desirable, high incomes mean high property demand. Auckland house prices and GDP per capita are correlated at a rate of .9860, but between population and GDP per capita correlation is almost perfect at .9963. Clearly, the highest levels of property investment lie with concentrations of high skill labour. Hence, labour specialization with higher wages matter.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_05.jpg" alt="Sample Image" width="495" height="200">
 
 Add low mortgage interest rates to this mix and the likelihood of investment increases. However, mortgage debt is not isolated to New Zealand. 65% of bank lending is for housing (50% is the average) and 23% to the business sector. Likewise, two thirds of lending liabilities are off shore debt (RBNZ, 2022). 
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_06.jpg" alt="Sample Image" width="495" height="200">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_07.jpg" alt="Sample Image" width="495" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_06.jpg" alt="Sample Image" width="245" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_07.jpg" alt="Sample Image" width="245" height="200">
 
 The same mortgage rates are affected by the overnight cash rate. As the lending period increases, so does the rate. This affects lending demand (and prices). Consequently, because high skill labour is paid higher wages, and as professional services are highly skilled, and as Auckland has the highest rate of professional services this amplifies demand at lower rates. 
 
