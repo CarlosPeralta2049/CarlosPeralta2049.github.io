@@ -17,7 +17,7 @@
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_02.jpg" alt="Sample Image" width="495" height="200"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_03.jpg" alt="Sample Image" width="230" height="250"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_04.jpg" alt="Sample Image" width="495" height="400"><br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project08_05.jpg" alt="Sample Image" width="495" height="200"><br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project08_05.jpg" alt="Sample Image" width="495" height="400"><br><br>
 #### To applying models to and testing them to see they predict well, ie. property area and other features predict approximate price.
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_06.jpg" alt="Sample Image" width="495" height="200"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_07.jpg" alt="Sample Image" width="495" height="200"><br><br>
