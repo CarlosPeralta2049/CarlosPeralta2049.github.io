@@ -1,7 +1,7 @@
 **Objective:** To create then backtest the effectiveness of algorithmic trading strategies in financial markets.
 
 ## Technical Analysis: Candlestick Patterns
-It is no secret that candlestick patterns are often utilised by investors in the financial markets. However, these tools can come with an expensive subscription fee. Here are a couple examples of candlestick patterns. The first is the hammer, it is one of the strongest patterns and it graphically shows that price is about to rise. A second pattern which is also very strong is the Bullish Engulfing candlestick.<br><br>
+Candlestick patterns are often used by investors in the financial markets. However, these tools can come with an expensive subscription fee. Here are a couple examples of candlestick patterns. The first is the hammer, it is one of the strongest patterns and it graphically shows that price is about to rise. A second pattern which is also very strong is the Bullish Engulfing candlestick.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_01.jpg" alt="Sample Image" width="390" height="150">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_03.jpg" alt="Sample Image" width="100" height="100"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project04_02.jpg" alt="Sample Image" width="390" height="150">
