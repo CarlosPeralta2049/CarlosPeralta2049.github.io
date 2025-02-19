@@ -14,7 +14,7 @@ Because singles, couples, or parents with one child make up almost 50% of househ
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_03.jpg" alt="Sample Image" width="495" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_04.jpg" alt="Sample Image" width="495" height="250">
 
-The second active determinant of demand is the mortgage interest rate, as set by commercial banks which is influenced by the Reserve Bank (RB). From this point the subject expands to national and global levels. At the national level the RB affects commercial bank lending. Because much of it goes to business investments, we must also consider its real GDP per capita growth outcome.
+The second active determinant of demand is the mortgage interest rate, as set by commercial banks which are influenced by the Reserve Bank (RB). Here the subject expands to national and global levels. The RB also affects commercial bank lending and as much of it goes to business investments, we must also consider its effect on GDP per capita.
 
 Where we find GDP per capita growth is where skilled labour goes, thereby creating concentrations of skilled labour. GDP per capita in Auckland was $70,851 in 2020 while New Zealand’s was $63,556 (MBIE, 2022) and because owning property is desirable, high incomes mean high property demand. Auckland house prices and GDP per capita are correlated at a rate of .9860, but between population and GDP per capita it is almost perfect at .9963. Clearly, the highest levels of property investment lie with concentrations of high skill labour. Hence, labour specialization with higher wages matter. 
 -> Picture 6 & 7
