@@ -33,15 +33,15 @@ The willingness to sell is the last supply side determinant but it is taken as b
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_10.jpg" alt="Sample Image" width="245" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_11.jpg" alt="Sample Image" width="245" height="200">
 
-The analysis of the passive and active determinants helps understand prices. However, their activity will not necessarily give an accurate forecast. That is the realm of data analytics and statistics. Starting with Population and GDP per capita, the appropriate data was plotted to create a linear regression model. The closer the dots are to the trend line the higher the correlation. Hence, it became possible to use population values to predict housing prices. The results are not perfect but the dots are close enough to represent a good predictive relationship.
+The analysis of the passive and active determinants helps understand prices. However, their activity will not necessarily give an accurate forecast. That is the realm of data analytics and statistics. Starting with Population and GDP per capita, the appropriate data was plotted to create a linear regression model. The closer the dots are to the trend line the higher the correlation. Hence, it became possible to use population values to predict housing prices. The results are not perfect but the dots are close enough to represent a good predictive relationship.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_12.jpg" alt="Sample Image" width="495" height="250">
 
-Investors are seen as the second set of active determinants of house price movements as they are actively engaged in that decision to invest. As the graph below suggests, earners of $70,001or more are nearly 80% likely to own property. They are likely to live in high growth regions (StatsNZ, 2021).
--> Picture 15
+Investors are seen as the second set of active determinants of house price movements as they are actively engaged in that decision to invest. As the graph below suggests, earners of $70,001or more are nearly 80% likely to own property. They are likely to live in high growth regions (StatsNZ, 2021).<br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_13.jpg" alt="Sample Image" width="245" height="200">
 
 While GDP per capita has a near perfect upside correlation. This paper research that without a significant shock to the economy, 15-20% year-on-year price falls are unlikely and prices are likely to remain high. Below we find that the 2008 recession barely affected GDP per capita in Auckland. However, what we clearly saw were global reserve bank decisions to increase the money supply. The similarity between our Official Cash Rate the Federal Funds Rate in the U.S. was particularly clear.
--> Picture 16
--> Picture 17
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_14.jpg" alt="Sample Image" width="495" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_15.jpg" alt="Sample Image" width="495" height="200">
 
 The OCR is a blunt tool for dealing with house prices. As we see below, the increase of the OCR to 8.25% in 2007 barely affected the GDP per capita. Considering that GDP per capita and house prices are nearly perfectly correlated at 0.96, is it clear increasing interest rates generally affects property investors and reduces house prices but only marginally. 
 
