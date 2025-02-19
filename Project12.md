@@ -1,6 +1,6 @@
 **Objective:** In progress. This dashboard identifies patterns Wellington's public transport reliability and punctuality KPIs
  
-### Aviation: Airline Yearly Performance Dashboard (Yearly Report):
+### Aviation: Airline Yearly Performance Dashboard:
 - Displaying a count flights by airline to destination state.
 - Displaying flight percentage by reporting airline.
 - Displaying the number of flights from origin state.
