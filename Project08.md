@@ -12,13 +12,13 @@
 **7) Validate** (Gather feedback to refine process) 
 **8) Implement** (And monitor to improve)
 
-## From gathering, cleaning, transforming, to checking for patterns to form a hypothesis, ie. waterfront houses have a higher price.
+#### From gathering, cleaning, transforming, to checking for patterns to form a hypothesis, ie. waterfront houses have a higher price.
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_01.jpg" alt="Sample Image" width="230" height="400"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_02.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_03.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_04.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_05.jpg" alt="Sample Image" width="495" height="200"><br>
-## To applying models to and testing them to see they predict well, ie. property area and other features predict approximate price.
+#### To applying models to and testing them to see they predict well, ie. property area and other features predict approximate price.
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_06.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_07.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_08.jpg" alt="Sample Image" width="495" height="200"><br>
