@@ -1,4 +1,4 @@
-**Objective:** To explore the effects of tariffs on economies, then specifically relating to European tariffs on U.S. imports.
+**Objective:** To explore the effects of tariffs on economies, then specifically the effects of European tariffs on U.S. imports.
 
 ## Trade Barriers: International Trade and Tariffs
 **Below (left):** Scenario 01: Market Equilibrium for avocados without international trade.
