@@ -34,7 +34,7 @@ The willingness to sell is the last supply side determinant but it is taken as b
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_11.jpg" alt="Sample Image" width="245" height="200">
 
 The analysis of the passive and active determinants helps understand prices. However, their activity will not necessarily give an accurate forecast. That is the realm of data analytics and statistics. Starting with Population and GDP per capita, the appropriate data was plotted to create a linear regression model. The closer the dots are to the trend line the higher the correlation. Hence, it became possible to use population values to predict housing prices. The results are not perfect but the dots are close enough to represent a good predictive relationship.
--> Picture 14
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_12.jpg" alt="Sample Image" width="495" height="250">
 
 Investors are seen as the second set of active determinants of house price movements as they are actively engaged in that decision to invest. As the graph below suggests, earners of $70,001or more are nearly 80% likely to own property. They are likely to live in high growth regions (StatsNZ, 2021).
 -> Picture 15
