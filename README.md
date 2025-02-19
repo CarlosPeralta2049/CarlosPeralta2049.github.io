@@ -35,6 +35,8 @@ Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine L
 
 
 ### Management: Commerce and Workflow
+- **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project14)** <br><br>
+Power BI, Statistics<br><br>
 - **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project15)** <br><br>
 Power BI, Statistics<br><br>
 - **[B2B Orders Dashboard](https://carlosperalta2049.github.io/Project16)** <br><br>
