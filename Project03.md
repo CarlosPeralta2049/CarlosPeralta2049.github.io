@@ -21,7 +21,7 @@ The height ($100) * the base (10) * .5 = $500 NZD
 <br>
 Scenario 03: Market Equilibrium for avocados including a $10 tariff.
 **Below:** Describe picture. Followup description. Current reality (Specific result).<br><br>
-![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_03.png)
+![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_03.jpg)
 <br><br>
 
 ## Sensitivity Analysis: International Trade and Tariffs
