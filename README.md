@@ -2,15 +2,15 @@
 #### Primary Skills: Python, R, SQL, MS Excel, Power BI
 
 ### Financial Systems: Quantitative Research and Development
-- **[Economic Analysis: Macroeconomic & Liquidity](https://carlosperalta2049.github.io/Project1)** <br><br>
+- **[Economic Analysis: Macroeconomic & Liquidity](https://carlosperalta2049.github.io/Project01)** <br><br>
 Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
-- **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project2)** <br><br>
+- **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project02)** <br><br>
 Python, RestAPIs, Machine Learning, Economics, Statistics<br><br>
-- **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project3)** <br><br>
+- **[Sensitivity Analysis: International Trade & Tariffs](https://carlosperalta2049.github.io/Project03)** <br><br>
 MS Excel, Power BI, GTAP General Equilibrium Model<br><br>
-- **[Back-Testing Automation: Algorithmic Investment Strategies](https://carlosperalta2049.github.io/Project4)** <br><br>
+- **[Back-Testing Automation: Algorithmic Investment Strategies](https://carlosperalta2049.github.io/Project04)** <br><br>
 Pinescript, Custom Candlestick Pattern Recognition Indicators<br><br>
-- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project5)** <br><br>
+- **[Analytics Dashboard: Macroeconomic & Financial Status](https://carlosperalta2049.github.io/Project05)** <br><br>
 Python, RestAPIs, Power BI, Machine Learning, Economics<br><br><br>
 
 ### Housing Demand Determinants: Private and Public Sectors
