@@ -1,4 +1,4 @@
-**Objective:** To explore the effects of tariffs on economies, then specifically the effects of European tariffs on U.S. imports.
+**Objective:** Initially, texplore the effects of tariffs on economies. Consequently, to simulate the effects of a 10% tariff reduction on EU food imports from the US.
 
 ## Trade Barriers: International Trade and Tariffs
 **Scenario 01. Market Equilibrium for avocados without international trade:**
@@ -15,8 +15,11 @@ When consumption is 30 and production is 20, price = $200 and trade volume is 10
 ![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_03.jpg)<br><br>
 <br>
 ## Sensitivity Analysis: International Trade and Tariffs
-TopDown view statement. Describe the role of X. Describe the role of Y.
-<br><br>
+This analysis identifies the winners and losers from a 10% reduction of EU food import tariffs from the US. It simulates shocks in food, manufacturing, and service sectors while adjusting trade barriers to see trade liberalisation results. The primary objective is to identify the implications of tariff reductions, and teh secondary objective is to highlight historical economic correlations related to trade liberalisation efforts. 
+<br>
+To assess the implications of the primary objective, RunGTAP v3.75 is utilised. This is a visual user interface program that enables simulations which utilise GEMPACK (General Equilibrium Modelling Package), a suite of economic modelling software that runs computable general equilibrium models. Here, an experiment was set up to run the simulation of a 10% tariff reduction on United States food exports to the European Union. Settings were changed to the Gragg Solution Method using 3 solutions with solution steps 2-4-6. Automatic Accuracy setting was also selected to improve accuracy. The code ‘Shock tms("food","usa","eu")= -10 ;’ was placed in the shock tab to replicate the shock.
+![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_04.jpg)<br>
+
 #### Statement
 **Below:** Describe picture. Followup description. Current reality (Specific result).<br><br>
 ![Image1](https://CarlosPeralta2049.github.io/Assets/Project03_01.png)
