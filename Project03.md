@@ -28,7 +28,7 @@ Trade Balance (RestOfWorld): Tariffs↓ makes exports↓ then ↑.<br>
 Terms of Trade (U.S.): Tariffs↓ makes terms of trade↑ at every tariff↓.<br>
 Terms of Trade (EU): Tariffs↓ makes terms of trade↓ at every tariff↓.<br>
 Terms of Trade (ROW): Tariffs↓ makes terms of trade↓ at every tariff↓.<br>
-Value of World Trade: With respect to overall trade, as tariffs↓, total trade↑.<br>
+Value of World Trade: With respect to overall trade, as tariffs↓, total trade↑.<br><br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_05.jpg)<br>
 ![Image4](https://CarlosPeralta2049.github.io/Assets/Project03_06.jpg)<br>
 
