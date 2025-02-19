@@ -25,15 +25,14 @@ MS Excel, Visual Basic, Statistics<br><br>
 - **[Public Housing Software: Assessment Trainer](https://carlosperalta2049.github.io/Project10)** <br><br>
 HTML, CSS, Javascript, React, VS Studio<br><br><br>
 
-### Industries: Tech, Public Transport, Aviation and Space
+### Industries: Public Transport, Aviation and Space
 - **[Public Transport: Reliability & Punctuality](https://carlosperalta2049.github.io/Project11)** <br><br>
 MS Excel, Power BI, Statistics<br><br>
 - **[Aviation: Airline Yearly Performance](https://carlosperalta2049.github.io/Project12)** <br><br>
 Python, Scikit-Learn, Folium<br><br>
 - **[Space: SpaceX Rocket Launch Costs](https://carlosperalta2049.github.io/Project13)** <br><br>
 Python, SQL, Webscraping, RestAPIs, Scikit-Learn, Folium, Plotly Dash, Machine Leanring: Logistic Regression, SVM, Decision Tree, KNN <br><br>
-- **[Tech: Classification Machine Learning Models](https://carlosperalta2049.github.io/Project14)** <br><br>
-Python, Scikit-Learn<br><br><br>
+
 
 ### Management: Commerce and Workflow
 - **[Yearly Sales Dashboard](https://carlosperalta2049.github.io/Project15)** <br><br>
