@@ -1,1 +1,49 @@
+**Objective:** Overall, to identify the main causes of price fluctuations in the Auckland property market
 
+### Determinants of House Prices in Auckland
+This identifies three sets of housing price determinants in Auckland as regional, national and global. Ultimately, this analysis shows that price is dependent on all determinants, although at varying degrees. Considering that correlation does not necessarily imply causality, the analysis aims to understand the past and the present components of house price movement in Auckland.
+
+For the demand side, population growth is taken as a passive determinant (rental prices can influence investment decisions) and it is made up of Natural Increase (births and deaths) and Net Migration. At the time of this analysis there was no recent data for natural increase or migration to Auckland, but for New Zealand it was 27,700 for natural increase and 4,700 for net migration. Nonetheless, Auckland established an excellent correlation between median house prices and population rates at .9786. 
+-> Picture 1 & 2
+
+Investors are seen as active determinants as they are actively engaged in the decision to invest. The Reserve Bank (RB) identifies properties mainly under three categories (investors, other owner-occupiers, and first home buyers). Investors can declare property investments as main homes when they move into them to be excluded from the Brightline Test after two years. Their following properties may be new builds to not pay taxes after 5 years. I combine them below (RBNZ, 2022) as they are both investment types. Out of the total, owner-occupier and investor purchases were 80.62% in 2020, 82.10% in 2021, and 82.30% in 2022.
+-> Picture 3
+
+Because singles, couples, or parents with one child make up almost 50% of households (FigureNZ, 2022) and birth rates are relatively stagnant (StatsNZ, 2022), demand increases are likely driven by investor singles and couples without children. One or two-bedroom dwellings make up 25% of all and 44% have three bedrooms. In Auckland 39% had 3 bedrooms but it had more than the average for 5+ (StatsNZ, 2022). Adding 4 and 5+ to the 3-bedroom figures gives 70%. Comparing with the Social Allocation System (MSD, 2022), the appropriate allocation for singles or couples is one bedroom, one-child families two, and two-child three bedrooms. Therefore, 30% of purchases should be from singles or couples without children, but instead, 50% are. Those extra 20% are likely to be investors upgrading or buying another to increase tax-free capital gains. They are also likely to make up the largest part of the 82.18% of all investor purchases. 
+-> Picture 4 & 5
+
+The second active determinant of demand is the mortgage interest rate, as set by commercial banks which is influenced by the Reserve Bank (RB). From this point the subject expands to national and global levels. At the national level the RB affects commercial bank lending. Because much of it goes to business investments, we must also consider its real GDP per capita growth outcome.
+
+Where we find GDP per capita growth is where skilled labour goes, thereby creating concentrations of skilled labour. GDP per capita in Auckland was $70,851 in 2020 while New Zealand’s was $63,556 (MBIE, 2022) and because owning property is desirable, high incomes mean high property demand. Auckland house prices and GDP per capita are correlated at a rate of .9860, but between population and GDP per capita it is almost perfect at .9963. Clearly, the highest levels of property investment lie with concentrations of high skill labour. Hence, labour specialization with higher wages matter. 
+-> Picture 6 & 7
+
+Add low mortgage interest rates to this mix and the likelihood of investment increases. However, mortgage debt is not isolated to New Zealand. 65% of bank lending is for housing (50% is the average) and 23% to the business sector. Likewise, two thirds of lending liabilities are off shore debt (RBNZ, 2022). 
+-> Picture 8 & 9
+
+The same mortgage rates are affected by the overnight cash rate. As the lending period increases, so does the rate. This affects lending demand (and prices). Consequently, because high skill labour is paid higher wages, and as professional services are highly skilled, and as Auckland has the highest rate of professional services this amplifies demand at lower rates. 
+
+On the global aspect, 65% of our liabilities are to offshore lenders and they make up 55% of our GDP so when those interest rates increase, it matters in NZ. The RB advised that lowering our net foreign liabilities reflects lower interest rates on our payments at the Global Interest Rate (RBNZ, 2022). In a paper from the Federal Reserve Bank (FED) of Dallas, they describe what changes this Global Interest Rate. Increasing their M2 leads to lower Global Interest Rates. Alternatively, increasing interest rates leads to a decrease in M2, reduced inflation and output (FRBD, 2015). None of that is a surprise, except for their assertion that the FED effectively controls the World Interest Rate. 
+
+On the supply side, the first determinant of house prices comes from input prices (construction costs) which is effectively dependent on the availability of stock of inputs for creating the product (house). The pandemic has affected supply chains globally, but construction is nonetheless at an all-time high. 
+Consents for new residential building in Auckland have reached almost 150% since 2020. However, in New Zealand the same consents have almost doubled, while alterations and additions are almost up 150% comparing to 2016 (StatsNZ, 2022), which is a shock to any supply market. The best interpretation of this indicator may be that as long as there are sharp increases prices will be inflated.
+-> Picture 10 & 11
+
+The willingness to sell is the last supply side determinant but it is taken as both active and passive. Active sales occur when investors upgrade and passive sales occur when prices are perceived as being stagnant, making sellers price takers. When both types sell, we tend to see fluctuations in prices to the down side and higher interest rates. Further, when investors can no longer keep increasing rents investing is less attractive, hence, the inverse relationship with rent yields.
+-> Picture 12 & 13
+
+The analysis of the passive and active determinants helps understand prices. However, their activity will not necessarily give an accurate forecast. That is the realm of data analytics and statistics. Starting with Population and GDP per capita, the appropriate data was plotted to create a linear regression model. The closer the dots are to the trend line the higher the correlation. Hence, it became possible to use population values to predict housing prices. The results are not perfect but the dots are close enough to represent a good predictive relationship.
+-> Picture 14
+
+Investors are seen as the second set of active determinants of house price movements as they are actively engaged in that decision to invest. As the graph below suggests, earners of $70,001or more are nearly 80% likely to own property. They are likely to live in high growth regions (StatsNZ, 2021).
+-> Picture 15
+
+While GDP per capita has a near perfect upside correlation. This paper research that without a significant shock to the economy, 15-20% year-on-year price falls are unlikely and prices are likely to remain high. Below we find that the 2008 recession barely affected GDP per capita in Auckland. However, what we clearly saw were global reserve bank decisions to increase the money supply. The similarity between our Official Cash Rate the Federal Funds Rate in the U.S. was particularly clear.
+-> Picture 16
+-> Picture 17
+
+The OCR is a blunt tool for dealing with house prices. As we see below, the increase of the OCR to 8.25% in 2007 barely affected the GDP per capita. Considering that GDP per capita and house prices are nearly perfectly correlated at 0.96, is it clear increasing interest rates generally affects property investors and reduces house prices but only marginally. 
+
+The last indicator is far simpler. For the supply side input costs of construction materials, I used a Process Behaviour Chart to predict the range within which prices normally fluctuate. Because it forecasts when prices are increasing steadily, this allows one to measure the opportunity cost of buying an additional unit. It also tells when prices fluctuate outside the trend, creating an opportunity to invest on that input. The period measured may be the average time it takes for the input to be manufactured and delivered. The fulfilment of an order depends on the price we can pay, therefore GDP per capita is still the leading determinant that will influence domestic and foreign accessibility.
+-> Picture 18
+
+To conclude, this analysis has segmented price determinants into two groups that are either passive in the decision-making process of the property transfer, and of those that are active. This analysis does not assert that it has found all relevant indicators of house prices. Those which have been analysed have been tested for their statistical significance. With relation to findings, because Auckland has a high GDP per capita, a high concentration of professional services, and a high number of investors in debt, it is seen as highly affected by significant fluctuations in GDP. Hence, Auckland is particularly connected to the world. The research then finds that a significant increase of the money supply in the United States leads to increases in both M2 and GDP here, making this the primary indicator to increases in Auckland house prices.
