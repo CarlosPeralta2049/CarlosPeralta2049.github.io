@@ -37,9 +37,9 @@ The analysis of the passive and active determinants helps understand prices. How
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_12.jpg" alt="Sample Image" width="495" height="250">
 
 Investors are seen as the second set of active determinants of house price movements as they are actively engaged in that decision to invest. As the graph below suggests, earners of $70,001or more are nearly 80% likely to own property. They are likely to live in high growth regions (StatsNZ, 2021).<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_13.jpg" alt="Sample Image" width="245" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_13.jpg" alt="Sample Image" width="495" height="250">
 
-While GDP per capita has a near perfect upside correlation. This paper research that without a significant shock to the economy, 15-20% year-on-year price falls are unlikely and prices are likely to remain high. Below we find that the 2008 recession barely affected GDP per capita in Auckland. However, what we clearly saw were global reserve bank decisions to increase the money supply. The similarity between our Official Cash Rate the Federal Funds Rate in the U.S. was particularly clear.
+While GDP per capita has a near perfect upside correlation. This paper research that without a significant shock to the economy, 15-20% year-on-year price falls are unlikely and prices are likely to remain high. Below we find that the 2008 recession barely affected GDP per capita in Auckland. However, what we clearly saw were global reserve bank decisions to increase the money supply. The similarity between our Official Cash Rate the Federal Funds Rate in the U.S. was particularly clear.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_14.jpg" alt="Sample Image" width="495" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_15.jpg" alt="Sample Image" width="495" height="200">
 
