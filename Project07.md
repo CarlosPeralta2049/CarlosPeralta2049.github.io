@@ -29,7 +29,7 @@ On the supply side, the first determinant of auckland house prices comes from in
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_08.jpg" alt="Sample Image" width="495" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_09.jpg" alt="Sample Image" width="495" height="200">
 
-The willingness to sell is the last supply side determinant but it is taken as both active and passive. Active sales occur when investors upgrade and passive sales occur when prices are perceived as being stagnant, making sellers price takers. When both types sell, we tend to see fluctuations in prices to the down side and higher interest rates. Further, when investors can no longer keep increasing rents investing is less attractive, hence, the inverse relationship with rent yields.
+The willingness to sell is the last supply side determinant but it is taken as both active and passive. Active sales occur when investors upgrade and passive sales occur when prices are perceived as being stagnant, making sellers price takers. When both types sell, we tend to see fluctuations in prices to the down side and higher interest rates. Further, when investors can no longer keep increasing rents investing is less attractive, hence, the inverse relationship with rent yields.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_10.jpg" alt="Sample Image" width="245" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_11.jpg" alt="Sample Image" width="245" height="200">
 
