@@ -1,9 +1,8 @@
 **Objective:** To assist with the interpretation of SAS (Public Housing policy) 
  
 ### Public Housing Software: Assessment Trainer
-- This software is entirely based on publicly attainable information online.
-- This identifies the distinctions between levels of risk in Housing Assessments.
-- This software can be accessed online from any devide connected to the internet.<br><br>
+- This information is publicly available online.
+- This identifies risk level distinctions in assessents.<br><br>
 
 *Click on the pictures below to enlarge them:*
 <br>
