@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/505be040-5a17-46dd-810a-6524c7214157)**Objective:** Initially, texplore the effects of tariffs on economies. Consequently, to simulate the effects of a 10% tariff reduction on EU food imports from the US.
+**Objective:** Initially, texplore the effects of tariffs on economies. Consequently, to simulate the effects of a 10% tariff reduction on EU food imports from the US.
 
 ## Trade Barriers: International Trade and Tariffs
 **Scenario 01. Market Equilibrium for avocados without international trade:**
@@ -30,7 +30,7 @@ Terms of Trade (EU): Decresing tariffs decreases terms of trade at every tariff 
 Terms of Trade (ROW): Decreasing tariffs decreases terms of trade at every tariff decrease.<br>
 Value of World Trade: With respect to overall trade, as tariffs decreased, total trade increased.<br>
 ![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_05.jpg)<br>
-
+![Image3](https://CarlosPeralta2049.github.io/Assets/Project03_06.jpg)<br>
 
 
 RunGTAP software has a few drawbacks. The first is that simulations combine sectors into only three groups which are Food, Manufacturing, and Services. This limitation does not allow for drill-through analysis for more detailed insight within each sector. Secondly, RunGTAP is updated in three-year cycles and the analysed data may not be accurate to the year. Thirdly, RunGTAP is limited to static data which reflects the situation in a particular year which may not necessarily reflect that similar change will continue to occur year on year. To overcome the limits of static data Microsoft Power Business Intelligence (BI) software is utilised in a dynamic data analysis as part of the secondary objective. Datasets were extracted from Macrotrends.net (sourced from datatopics.worldbank.org).
