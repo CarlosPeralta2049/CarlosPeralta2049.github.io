@@ -2,7 +2,7 @@
 
 ## Trade Barriers: International Trade and Tariffs
 **Scenario 01. Market Equilibrium for avocados without international trade:**
-When the equilibrium price for avocados is $250 and the total quantity for avocados is 25 tones. Consumer surplus is found below the demand curve and above equilibrium price (250 * 25 * 0.5 = $3,125). Producer surplus is found above the supply curve and below the equilibrium price (250 * 25 * 0.5 = $3,125). **Diagram is below, on the left**
+If the equilibrium price of avocados is $250 the total quantity for avocados is 25 tones. Consumer surplus is found below the demand curve and above equilibrium price (250 * 25 * 0.5 = $3,125). Producer surplus is found above the supply curve and below the equilibrium price (250 * 25 * 0.5 = $3,125). **Diagram is below, on the left**
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_01.jpg" alt="Sample Image" width="245" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg" alt="Sample Image" width="245" height="200">
 
