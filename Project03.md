@@ -2,18 +2,12 @@
 
 ## Trade Barriers: International Trade and Tariffs
 **Scenario 01. Market Equilibrium for avocados without international trade:**
-When the equilibrium price for avocados is $250 and the total quantity for avocados is 25 tones. Consumer surplus is found below the demand curve and above equilibrium price (250 * 25 * 0.5 = $3,125). Producer surplus is found above the supply curve and below the equilibrium price (250 * 25 * 0.5 = $3,125). **Disagram below, left:**
+When the equilibrium price for avocados is $250 and the total quantity for avocados is 25 tones. Consumer surplus is found below the demand curve and above equilibrium price (250 * 25 * 0.5 = $3,125). Producer surplus is found above the supply curve and below the equilibrium price (250 * 25 * 0.5 = $3,125). **Disagram below, on the left**
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_01.jpg" alt="Sample Image" width="245" height="200">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg" alt="Sample Image" width="245" height="200">
 
-**Above (right):** Scenario 02: Market Equilibrium for avocados with free trade.
-Consumption (quantity of blue) = 40 (domestic demand). 
-Production (quantity of orange) = 10 (domestic supply).
-Price (per ton) = $100. Trade volume = 30 tons imported. 
-Consumer surplus (area in blue): Below the demand curve. Above world price.	
-The height (500-100 = $400) * the base (40) * .5 = $8,000 NZD
-Producer surplus (area in orange): Above the supply curve. Below world price.
-The height ($100) * the base (10) * .5 = $500 NZD
+**Scenario 02. Market Equilibrium for avocados with free trade:** 
+Consumption (blue) = 40 (domestic demand). Production (orange) = 10 (domestic supply). Price (per ton) = $100. Trade volume = 30 tons imported. Consumer surplus (blue) is found below the demand curve and above world price. It is the height (500-100 = $400) * the base (40) * .5 = $8,000 NZD. Producer surplus (orange) is found above the supply curve and below world price. It is the height ($100) * the base (10) * .5 = $500 NZD. **Disagram above, on the right**
 
 <br>
 Scenario 03: Market Equilibrium for avocados including a $10 tariff.
