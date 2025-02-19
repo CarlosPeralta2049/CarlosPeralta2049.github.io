@@ -5,8 +5,8 @@
 The equilibrium price for avocados is $250.  The total quantity for avocados is 25 tones.
 Consumer surplus: Below the demand curve. Above equilibrium price. 250 * 25 * 0.5 = $3,125.  
 Producer surplus: Above the supply curve. Below the equilibrium price. 250 * 25 * 0.5 = $3,125.  
-<img src="https://CarlosPeralta2049.github.io/Assets/Project03_01.jpg" alt="Sample Image" width="245" height="220">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg" alt="Sample Image" width="245" height="220">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project03_01.jpg" alt="Sample Image" width="245" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project03_02.jpg" alt="Sample Image" width="245" height="200">
 
 **Above (right):** Scenario 02: Market Equilibrium for avocados with free trade.
 Consumption (quantity of blue) = 40 (domestic demand). 
