@@ -30,8 +30,8 @@ On the supply side, the first determinant of auckland house prices comes from in
 <img src="https://CarlosPeralta2049.github.io/Assets/Project07_09.jpg" alt="Sample Image" width="495" height="200">
 
 The willingness to sell is the last supply side determinant but it is taken as both active and passive. Active sales occur when investors upgrade and passive sales occur when prices are perceived as being stagnant, making sellers price takers. When both types sell, we tend to see fluctuations in prices to the down side and higher interest rates. Further, when investors can no longer keep increasing rents investing is less attractive, hence, the inverse relationship with rent yields.
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_10.jpg" alt="Sample Image" width="495" height="200">
-<img src="https://CarlosPeralta2049.github.io/Assets/Project07_11.jpg" alt="Sample Image" width="495" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_10.jpg" alt="Sample Image" width="245" height="200">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project07_11.jpg" alt="Sample Image" width="245" height="200">
 
 The analysis of the passive and active determinants helps understand prices. However, their activity will not necessarily give an accurate forecast. That is the realm of data analytics and statistics. Starting with Population and GDP per capita, the appropriate data was plotted to create a linear regression model. The closer the dots are to the trend line the higher the correlation. Hence, it became possible to use population values to predict housing prices. The results are not perfect but the dots are close enough to represent a good predictive relationship.
 -> Picture 14
