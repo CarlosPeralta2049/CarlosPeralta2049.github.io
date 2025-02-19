@@ -1,4 +1,4 @@
-**Objective:** This dashboard highlights product sales performance for a selected period
+**Objective:** To highlights product sales performance for a selected period
  
 ### Sales Dashboard:
 - Revenue by category
