@@ -9,10 +9,10 @@
 **4) Analyse** (Use models to test hypothesis and gain insights)<br>
 **5) Interpret** (Translate findings to gain actionable insights)<br>
 **6) Viz** (Build compelling narative for decision-making)<br>
-**7) Validate** (Gather feedback to refine process) 
-**8) Implement** (And monitor to improve)
+**7) Validate** (Gather feedback to refine process)<br>
+**8) Implement** (And monitor to improve)<br>
 
-#### From gathering, cleaning, transforming, to checking for patterns to form a hypothesis, ie. waterfront houses have a higher price.
+#### From gathering, cleaning, and transforming, to checking for patterns to form a hypothesis, ie. waterfront houses have a higher price.
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_01.jpg" alt="Sample Image" width="230" height="400"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_02.jpg" alt="Sample Image" width="495" height="200"><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project08_03.jpg" alt="Sample Image" width="495" height="200"><br>
