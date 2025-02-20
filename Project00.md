@@ -79,7 +79,7 @@ In 2025 we are in the third business cycle year.<br>
 An improved system is required by the end of 2030.<br>
 This is likely to be based on blockchain technology.<br>
 
-### INITAL CONCLUSION
+### INITIAL CONCLUSION
 The only existing solution to low birth rate = technology.<br>
 <br>
 
