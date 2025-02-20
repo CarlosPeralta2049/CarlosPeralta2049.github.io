@@ -1,11 +1,11 @@
 **Objective:** To highlight a simple high view of finance and the economy
 
-## THE INDIVIDUAL: I decide to invest $100
+### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
 Based on the economy, values may fall within 12 months.<br>
 Holding assets over 12 months reduces the risk of loss.<br>
 
-### Perceived risk vs profits/pa:
+#### Perceived risk vs profits/pa:
 Foreign Exchange (USD):		1-2%<br>
 Bank Savings account:		3%<br>
 Bond Yields:			2-4%<br>
@@ -19,7 +19,7 @@ Stock Market Index (Nasdaq):	10-12%<br>
 Magnificent 7 (Tech stocks):	20-26%<br>
 Cryptocurrency (Bitcoin):	232%<br>
 
-## NATIONAL ECONOMIC GROWTH
+### NATIONAL ECONOMIC GROWTH
 Inflation rate calculations have changed over time.<br>
 Real inflation has been around 15-18% year on year.<br>
 For growth, tech has the highest scarcity factor.<br>
@@ -53,7 +53,7 @@ Commercial banks utilise profits in stock markets.<br>
 New debt for education, health, etc = all assets up.<br>
 All assets up = ¶↑ until new public spending halts.<br>
 
-## GLOBAL LIQUIDITY
+### GLOBAL LIQUIDITY
 1971 ended the Bretton Woods agreement.<br>
 A new large financial system cycle resulted.<br>
 Unpegging from gold led to unsustainable spending.<br>
@@ -79,7 +79,7 @@ In 2025 we are in the third business cycle year.<br>
 An improved system is required by the end of 2030.<br>
 This is likely to be based on blockchain technology.<br>
 
-## INITAL CONCLUSION
+### INITAL CONCLUSION
 The only existing solution to low birth rate = technology.<br>
 <br>
 
