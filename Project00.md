@@ -81,7 +81,9 @@ This is likely to be based on blockchain technology.<br>
 
 ### INITIAL CONCLUSION
 The most practical solution to low birth rates = Expanding A.I.<br>
-Potential solution = Public Policy to prioritise family unit.<br>
+Potential solution = Public Policy to prioritise the family unit.<br>
+<br>
 <br>
 
+## THE TRIAD
 
