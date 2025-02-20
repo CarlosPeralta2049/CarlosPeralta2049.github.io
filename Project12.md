@@ -1,4 +1,4 @@
-**Objective:** In progress. This dashboard identifies patterns Wellington's public transport reliability and punctuality KPIs
+**Objective:** In progress. This dashboard identifies patterns along performance indicators.
  
 ### Aviation: Airline Yearly Performance Dashboard:
 - Displaying a count flights by airline to destination state.
