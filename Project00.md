@@ -1,4 +1,4 @@
-**Objective:** To highlight a simple high view of finance and the economy. Followed by highlighting essential influencing factors.
+**Objective:** To highlight a simple high view of finance and the economy. Followed by complex influencing factors.
 
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
