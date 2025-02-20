@@ -9,6 +9,34 @@
 - Data Wrangling (data prep)
 - EDA with SQL
 - EDA with Data Viz
+- Interactive Viz Analytics (Mapping) with Folium
+- Interactive Viz Analytics (Dashboard) with Plotly Dash
+- Machine Learning (Classification) for Predictive Analysis
+- Flight Nunmber vs Launch Site
+- Payload vs Launch Site
+- Success Rate vs Orbit Type
+- Flight Nnumbers vs Orbit Type
+- Payload vs Orbit Type
+- Launch Success Yearly Trend
+- All Launch Site Names
+- Launch Site Names that begin with 'CCA'
+- Successful Drone Ship Landing with Payload Between 4k-6k
+- Total Payload Mass
+- Average Payload Mass by F9 v1.1
+- First Successful Ground Landing Date
+- Total Number of Successful and Failure Mission Outcomes
+- Boosters Carried Maximum Payload
+- 2015 Launch Records
+- Rank Landing Outcomes Between 2010-06-04 and 2017-03-20
+- Folium Map - SpaceX Launch Sites
+- Folium Map - SpaceX Launch Sites (2)
+- Folium Map - Distances Between CCAFS SLC-40 and Proximities
+- Dashboard - Total Success for All Sites
+- Dashboard - Total Success for launches for site KSC LC-39A
+- Dashboard - Payload vs Launch Outcome (diff. Payloads) for All Sites
+- Classification Accuracy
+- Confusion Matrix
+- Conclusions
 <br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project13_01.jpg"><br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project13_02.jpg"><br><br>
