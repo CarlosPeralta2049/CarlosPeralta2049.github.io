@@ -1,4 +1,4 @@
-**Objective:** To identify launch SpaceX rocket launch costs (in progress)
+**Objective:** To identify launch SpaceX rocket launch costs
  
 ### Space: SpaceX Rocket Launch Costs
 - Introduction
