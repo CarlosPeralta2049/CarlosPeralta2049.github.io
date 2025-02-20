@@ -80,9 +80,9 @@ An improved system is required by the end of 2030.<br>
 This is likely to be based on blockchain technology.<br>
 
 ### INITIAL CONCLUSION
-The solution to investing in general, buy and hold.<br>
-The solution to low productivity and low birth rates: Expand on A.I.<br>
-Potential solution = Public Policy to prioritise the family unit.<br>
+The solution to investing in general: Buy and hold.<br>
+The solution to low q from low birth rates: Expand on A.I.<br>
+Potential solution: Public Policy to prioritise the family unit.<br>
 <br>
 <br>
 
