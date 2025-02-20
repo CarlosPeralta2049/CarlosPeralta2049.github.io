@@ -28,9 +28,9 @@ Only tech holds significant growth over time.<br>
 GDP = Consumption + Govt + Investment + Net Exports.<br>
 To increase revenue we require productivity or taxes.<br>
 Developed economies' productivity continues to reduce.<br>
-Productivity output (Q) = KL; K = Capital; L = Labour.<br>
+Productivity output (q) = KL; K = Capital; L = Labour.<br>
 K & L are affected by population (g) & technology (A).<br>
-K is also seen as delayed capital; q = delayed L * L<br>
+K is also seen as delayed Labour; q = delayed L * L<br>
 Developed economies' natural births have also reduced.<br>
 The core problem of output are declining birth rates.<br>
 Immigration has not been able to solve growth.<br>
