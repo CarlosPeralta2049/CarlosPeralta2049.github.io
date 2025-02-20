@@ -80,7 +80,8 @@ An improved system is required by the end of 2030.<br>
 This is likely to be based on blockchain technology.<br>
 
 ### INITIAL CONCLUSION
-The only existing solution to low birth rate = technology.<br>
+The most practical solution to low birth rates = Expanding A.I.<br>
+Potential solution = Public Policy to prioritise family unit.<br>
 <br>
 
 
