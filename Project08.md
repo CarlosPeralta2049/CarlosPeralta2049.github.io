@@ -1,4 +1,4 @@
-**Objective:** To build an algorithm which identifies the property features that give value relately to other properties, thereby predicting price of a property in the market.
+**Objective:** To build an algorithm which identifies the property features that give value relative to other properties, thereby predicting price of a property in the market.
 
 ### Housing Market Analytics: Building a Price Predictor
 
