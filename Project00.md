@@ -86,21 +86,23 @@ Potential solution: Public Policy to prioritise the family unit.<br>
 <br>
 <br>
 <br>
-### THE TRILEMA OF MONETARY UNION (On queue)
+### ON QUEUE:
+
+### THE TRILEMA OF MONETARY UNION
 1) Independent Monetary Policy<br>
 2) Free Movement of Capital<br>
 3) Fixed Exchange Rates<br>
 
-### CURRENCY DEPRECIATION (On queue)
+### CURRENCY DEPRECIATION
 1) Elasticity<br>
 2) Absorption<br>
 3) Monetary<br>
 
-### EXCHANGE RATE DETERMINATION (On queue)
+### EXCHANGE RATE DETERMINATION
 1) Long Run
 2) Short Run
 
-### GROWTH & INNOVATION (On Queue)
+### GROWTH & INNOVATION
 **COBB DOUGLAS FUNCTION**
 1) Savings Rate<br>
 2) Marginal Product Capital<br>
