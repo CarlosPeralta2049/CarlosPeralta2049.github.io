@@ -3,9 +3,10 @@
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
 Standard Deviation can describe market fluctuations.<br>
-Price falls and rises within 12 months is normal.<br>
+Asset price falls and rises within 12 months is normal.<br>
 Holding assets for over 12 months reduces the risk of loss.<br>
 Holding assets for 4 years generally eliminates the risk of loss.<br>
+Borrowing to invest can lead to permanent loss and is not advisable.
 
 #### Perceived risk vs average profits/pa:
 Foreign Exchange (USD):		1-2%<br>
