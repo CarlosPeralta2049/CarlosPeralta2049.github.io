@@ -112,7 +112,7 @@ Possible q solution: Public policy to prioritise family unit.<br>
 **COBB DOUGLAS FUNCTION**<br>
 1) Savings Rate<br>
 2) Marginal Product Capital<br>
-**STEADY STATE**
+**STEADY STATE**<br>
 3) New Savings Rate<br>
 4) New Capital Output Ratio<br>
 5) New Marginal Product Capital in the Golden Rule Steady State<br>
