@@ -29,7 +29,7 @@ Tight controls over capital regulates its e and monetary policy.<br>
 #### DEFICIT REDUCTION WITH CURRENCY DEPRECIATION
 U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
 A 10% USD depreciation = U.S. products are 10% cheaper to world.<br>
-U.S. buys U.S. products (period 1): Costs = no▲; period 2: costs↑.<br>
+U.S. buys U.S. products, period 1: Costs = no▲; period 2: costs↑.<br>
 
 
 
