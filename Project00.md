@@ -25,7 +25,7 @@ Cryptocurrency (Bitcoin):	232%<br>
 ### NATIONAL ECONOMIC GROWTH
 Inflation rate calculations have changed over time.<br>
 Real inflation has been around 15-18% year on year.<br>
-For growth, tech has the highest utility factor.<br>
+For growth, technology has the highest utility factor.<br>
 Only tech holds significant growth over time.<br>
 
 GDP = Consumption + Govt + Investment + Net Exports.<br>
