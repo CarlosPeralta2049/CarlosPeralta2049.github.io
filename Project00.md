@@ -2,7 +2,7 @@
 
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
-Standard Deviation can describe market fluctuations. 
+Standard Deviation can describe market fluctuations.<br>
 Price falls and rises within 12 months is normal.<br>
 Holding assets over 12 months reduces the risk of loss.<br>
 Holding for 4 years generally eliminates the risk of loss.
