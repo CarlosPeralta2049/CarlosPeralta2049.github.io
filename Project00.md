@@ -2,10 +2,12 @@
 
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
-Based on the economy, values may fall within 12 months.<br>
+Standard Deviation can describe market fluctuations. 
+Price falls and rises within 12 months is normal.<br>
 Holding assets over 12 months reduces the risk of loss.<br>
+Holding for 4 years generally eliminates the risk of loss.
 
-#### Perceived risk vs profits/pa:
+#### Perceived risk vs average profits/pa:
 Foreign Exchange (USD):		1-2%<br>
 Bank Savings account:		3%<br>
 Bond Yields:			2-4%<br>
