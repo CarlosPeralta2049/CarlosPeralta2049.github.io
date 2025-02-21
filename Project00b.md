@@ -6,7 +6,7 @@ The three goals of exchange rate (e) systems are:<br>
 **2) Free Capital Movement:** For unrestricted financial flows.<br>
 **3) Independent Monetary Policy:** To set r & M2 to conditions.<br>
 Countries must choose two of the above. Three are not possible.<br>
-**U.S. and New Zealand utilise #2 and #3, making them very flexible:**<br>
+**U.S. and NZ utilise #2 and #3, making them very flexible:**<br>
 In NZ we float e so we adjust NZD Demand with rates to tackle ¶.<br>
 As the USD appreciates, NZD may depreciate then appreciate.<br>
 **1)** U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑.<br>
