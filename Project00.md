@@ -42,8 +42,8 @@ The primary solution has been Q = KL * Debt.<br>
 Debt + debt interests = more spending year on year.<br>
 Debts expire periodically and generally refinance.<br>
 
-GDP reduces, Employment (N) reduces; CPI (¶) falls.<br>
-Govt chooses to stimulate with fiscal policy.<br>
+As GDP reduces, Employment (N) reduces; CPI (¶) falls.<br>
+Govt stimulates with fiscal policy (Public Spending).<br>
 Reserve Bank chooses to increase Money Supply (M2).<br>
 Govt (G) cannot borrow from Reserve Banks directly.<br>
 G borrows from commercial banks. It's not enough.<br>
