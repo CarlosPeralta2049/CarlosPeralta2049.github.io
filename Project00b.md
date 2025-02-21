@@ -26,7 +26,13 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **4)** China buys bonds elsewhere, increasing global influence.<br>
 **5)** U.S. sustains deficits as long as world remains volatile.<br>
 
-#### CURRENCY DEPRECIATION
+#### DEFICIT REDUCTION WITH CURRENCY DEPRECIATION
+U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
+A 10% USD depreciation = U.S. products are 10% cheaper to world.<br>
+U.S. buys U.S. products (period 1): Costs = no▲; period 2: costs↑<br>
+
+
+
 1) Elasticity<br>
 2) Absorption<br>
 3) Monetary<br>
