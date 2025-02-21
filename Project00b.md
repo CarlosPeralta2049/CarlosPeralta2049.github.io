@@ -1,9 +1,22 @@
 **Objective:** To highlight advanced concepts for consideration
 
-##### THE TRILEMA OF MONETARY UNION
-1) Independent Monetary Policy<br>
-2) Free Movement of Capital<br>
-3) Fixed Exchange Rates<br>
+### EXCHANGE RATE SYSTEMS:<br>
+The three goals of exchange rate (e) systems are:
+**1) Fixed Exchange Rates:** For currency stability vs others.
+**2) Free Capital Movement:** For unrestricted financial flows.
+**3) Independent Monetary Policy:** To set r & M2 to conditions.
+Countries must choose two of the above. Three are not possible.
+U.S. and New Zealand utilise exchange rate systems #2 and #3.
+In NZ we float e so we adjust NZD Demand with rates to tackle ¶.
+As the USD appreciates, NZD may depreciate then appreciate:
+1) U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑. 
+2) Commodities priced in USD = global prices↑, global liquidity↓.
+3) NZ appreciates: Dairy prices↑, revenues↑, NZD demand↑, rates↑.
+Europe utilises #1 and #2 so the situation is different there:
+1) U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑.
+2) Commodities priced in USD = global prices↑, global liquidity↓.
+3) Euro appreciates: By selling U.S. bonds, depreciating the USD.
+
 
 ##### CURRENCY DEPRECIATION
 1) Elasticity<br>
@@ -13,6 +26,9 @@
 ##### EXCHANGE RATE DETERMINATION
 1) Long Run
 2) Short Run
+
+
+
 
 ##### GROWTH & INNOVATION
 **COBB DOUGLAS FUNCTION**<br>
