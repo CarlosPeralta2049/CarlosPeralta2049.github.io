@@ -103,7 +103,7 @@ Potential solution: Public Policy to prioritise the family unit.<br>
 2) Short Run
 
 ##### GROWTH & INNOVATION
-**COBB DOUGLAS FUNCTION**
+**COBB DOUGLAS FUNCTION**<br>
 1) Savings Rate<br>
 2) Marginal Product Capital<br>
 **STEADY STATE**
