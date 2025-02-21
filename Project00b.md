@@ -1,7 +1,7 @@
 **IN PROGRESS**<br>
 **Objective:** To highlight advanced concepts for consideration
 
-### EXCHANGE RATE SYSTEMS:<br>
+#### EXCHANGE RATE SYSTEMS:<br>
 The three goals of exchange rate (e) systems are:<br>
 **1) Fixed Exchange Rates:** For currency stability vs others.<br>
 **2) Free Capital Movement:** For unrestricted financial flows.<br>
