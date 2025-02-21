@@ -75,7 +75,7 @@ The U.S. cannot pay for refinancing with growth.<br>
 Likewise, other economies depend on new debt.<br>
 Global systems do not have the capacity to repay.<br>
 Refinancing debt every 4-5 years = inevitable.<br>
-Spending on education, health, war, etc = a must.<br>
+Spending on education, health, war, etc = must.<br>
 Refinancing debt = Public Expenditure = All assets↑.<br>
 In 2025 currency debasement is the only possibility.<br>
 In 2025 we are in the third business cycle year.<br>
