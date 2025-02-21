@@ -4,8 +4,8 @@
 As potential profits go up, perceived risk goes up.<br>
 Standard Deviation can describe market fluctuations.<br>
 Price falls and rises within 12 months is normal.<br>
-Holding assets over 12 months reduces the risk of loss.<br>
-Holding for 4 years generally eliminates the risk of loss.
+Holding assets for over 12 months reduces the risk of loss.<br>
+Holding assets for 4 years generally eliminates the risk of loss.<br>
 
 #### Perceived risk vs average profits/pa:
 Foreign Exchange (USD):		1-2%<br>
