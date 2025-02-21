@@ -8,11 +8,11 @@ The three goals of exchange rate (e) systems are:<br>
 Countries must choose two of the above. Three are not possible.<br>
 U.S. and New Zealand utilise exchange rate systems #2 and #3.<br>
 In NZ we float e so we adjust NZD Demand with rates to tackle ¶.<br>
-As the USD appreciates, NZD may depreciate then appreciate:<br>
+**As the USD appreciates, NZD may depreciate then appreciate:**<br>
 **1)** U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑.<br>
 **2)** Commodities priced in USD = global prices↑, global liquidity↓.<br>
 **3)** NZ appreciates: Dairy prices↑, revenues↑, NZD demand↑, rates↑.<br>
-Europe utilises #1 and #2 so the situation is different there:<br>
+**Europe utilises #1 and #2 so the situation is different there:**<br>
 **1)** U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑.<br>
 **2)** Commodities priced in USD = global prices↑, global liquidity↓.<br>
 **3)** Euro appreciates: By selling U.S. bonds, depreciating the USD.<br>
