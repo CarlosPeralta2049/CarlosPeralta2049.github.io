@@ -17,6 +17,14 @@ As the USD appreciates, NZD may depreciate then appreciate.<br>
 **1)** U.S. appreciates: rates↑ or qt, M2↓, bond yields↑, USD demand↑.<br>
 **2)** Commodities priced in USD = global prices↑, global liquidity↓.<br>
 **3)** Euro appreciates: By selling U.S. bonds, depreciating the USD.<br>
+**China utilises #1 and #3. The situation is different there again:**<br>
+China mainly restricts the flow of capital in and out of the country.<br>
+Tight controls over capital regulates its e and monetary policy.<br>
+**1)** Because Canada needs capital to grow  it borrows USD.<br>
+**2)** China converts its USD into U.S. bonds for the bond yields.<br>
+**3)** The U.S. uses this to finance Canada and NZ Mortgages.<br>
+**4)** China buys bonds elsewhere, buying global influence.<br>
+**5)** U.S. sustains deficits as long as world remains volatile.<br>
 
 #### CURRENCY DEPRECIATION
 1) Elasticity<br>
