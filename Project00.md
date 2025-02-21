@@ -6,7 +6,7 @@ Standard Deviation can describe market fluctuations.<br>
 Asset price falls and rises within 12 months is normal.<br>
 Holding for over 12 months reduces the risk of loss.<br>
 Holding for 4 years often eliminates the risk of loss.<br>
-Borrowing to invest can lead to a permanent loss.
+Borrowing to invest can lead to permanent loss.
 
 #### Perceived risk vs average profits/pa:
 Foreign Exchange (USD):		1-2%<br>
