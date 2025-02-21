@@ -23,7 +23,7 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **1)** Because Canada needs capital to grow  it borrows USD.<br>
 **2)** China converts its USD into U.S. bonds for the bond yields.<br>
 **3)** The U.S. uses this to finance Canada and NZ Mortgages.<br>
-**4)** China buys bonds elsewhere, buying global influence.<br>
+**4)** China buys bonds elsewhere, increasing global influence.<br>
 **5)** U.S. sustains deficits as long as world remains volatile.<br>
 
 #### CURRENCY DEPRECIATION
