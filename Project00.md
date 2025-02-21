@@ -66,7 +66,7 @@ Business cycles mature over a period of four years.<br>
 Global debt equal to $27 trillion expires in 2025.<br>
 U.S. debt is $33.6 trillion.<br>
 U.S. debt of $7 trillion expires in 2025.<br>
-U.S. Reserve Bank can only eliminate $900/pa.<br>
+U.S. FED can eliminate $900b/pa (with qt).<br>
 U.S. debt increases by $1-2trillion/pa.<br>
 U.S. GDP = $26 trillion.<br>
 U.S. debt to GDP ratio in 2025 = 124%<br>
