@@ -2,7 +2,7 @@
 #### Primary Skills: Python, R, SQL, MS Excel, Power BI
 
 ### Financial Systems: Quantitative Research and Development
-- **[Conceptual Overview: The Individual, Macro, and Global Liquidity](https://carlosperalta2049.github.io/Project00)** <br><br>
+- **[Concepts: The Individual, Macro, and Global Liquidity](https://carlosperalta2049.github.io/Project00)** <br><br>
 An Economic Perspective for Friends and Family<br><br>
 - **[Advanced Economics: Factors of Global Liquidity](https://carlosperalta2049.github.io/Project00b)** <br><br>
 Factors and Scenarios Affecting Global Liquidity<br><br>
