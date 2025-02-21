@@ -85,9 +85,9 @@ An improved system is required by the end of 2030.<br>
 Blockchain technology represents the leading solution.<br>
 
 ### INITIAL CONCLUSION
-The solution to investing in general: Buy and hold over a year.<br>
-The solution to the financial system: expand blockchain tech.<br>
-The solution to low q from low birth rates: Expand A.I. tech.<br>
+Solution to investing in general: Buy and hold over a year.<br>
+Solution to the financial system: expand blockchain tech.<br>
+Solution to low q from low birth rates: Expand A.I. tech.<br>
 Possible q solution: Public policy to prioritise family unit.<br>
 <br>
 <br>
