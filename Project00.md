@@ -3,7 +3,7 @@
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
 Standard Deviation can describe market fluctuations.<br>
-Asset price falls and rises within 12 months is normal.<br>
+Strong price fluctuations within 12 months are normal.<br>
 Holding for over 12 months reduces the risk of loss.<br>
 Holding for 4 years often eliminates the risk of loss.<br>
 Leveraged investing often leads to a permanent loss.<br>
