@@ -74,7 +74,7 @@ U.S. is due to refinance at least $4-5 trillion.<br>
 The U.S. cannot pay for refinancing with growth.<br>
 Likewise, other economies depend on new debt.<br>
 Global systems do not have the capacity to repay.<br>
-Refinancing debt every 4 years debt = inevitable.<br>
+Refinancing debt every 4-5 years = inevitable.<br>
 Spending on education, health, war, etc = a must.<br>
 Refinancing debt = Public Expenditure = All assets↑.<br>
 In 2025 currency debasement is the only possibility.<br>
