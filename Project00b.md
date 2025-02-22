@@ -25,7 +25,7 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **3)** U.S. can now lend more. Canada, etc borrows USD to grow.<br>
 **4)** China buys bonds elsewhere, increasing global influence.<br>
 **U.S Deficits:** Sustained by USD demand↑. Global liquidity rises.<br>
-**EU Deficits:** Not sustained. due to q↓. Global liquidity falls.<br>
+**EU Deficits:** Not sustained due to q↓. Global liquidity falls.<br>
 **China Deficits:** Sustained by q↑. Global liquidity rises.<br>
 
 #### DEFICIT REDUCTION WITH CURRENCY DEPRECIATION
