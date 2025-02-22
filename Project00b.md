@@ -24,7 +24,9 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **2)** China buys then sells USD for U.S. bonds for the bond yields.<br>
 **3)** U.S. can now lend more. Canada, etc borrows USD to grow.<br>
 **4)** China buys bonds elsewhere, increasing global influence.<br>
-**5)** U.S. sustains deficits and lending as USD demand grows.<br>
+**U.S Deficits:** Sustained by USD demand. Global liquidity rises.<br>
+**EU Deficits:** Not sustained. due to q↓. Global liquidity falls.<br>
+**China Deficits:** sustained due to q↑. Global liquidity rises.<br>
 
 #### DEFICIT REDUCTION WITH CURRENCY DEPRECIATION
 U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
