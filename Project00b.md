@@ -35,9 +35,9 @@ USD fluctuations affect product costs based on buyer location.<br>
 **U.S. firm buys U.S. input product:** If USD↑100% = Firm's costs↑<br>
 Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
-Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
-**Therefore, to become competitive we depreciate using:** <br>
-**1) Elasticity (Price(P) responsiveness):**<br>
+Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br><br>
+**To be competitive we depreciate using one of three methods:** <br>
+**ELASTICITY (Price(P) responsiveness):**<br>
 When D > 1, we reduce our input costs↓ to increase revenue.<br>
 If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
 Or, if elasticity = 0.5, a 30% P reduction = 15% increase in sales.<br>
@@ -54,8 +54,14 @@ If X EoD = 1.8 then we NZD↓ 10%, our Trade balance(TB)↑ 18%.<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
+**2) ABSORBTION:** <br>
+Absorbtion(A) = C + I + G: It also asummes all products are sold.<br>
+TB, which = X-M = Y - A, and can be positive or negative.<br>
+Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
 
-**2) Absorbtion:** <br>
+
+
+
 **3) Monetary Policy:** <br>
 
 ##### EXCHANGE RATE DETERMINATION
