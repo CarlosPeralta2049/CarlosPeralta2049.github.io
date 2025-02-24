@@ -54,10 +54,17 @@ If X EoD = 1.8 then we NZD↓ 10%, our Trade balance(TB)↑ 18%.<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
-**2) ABSORBTION:** <br>
+**ABSORBTION:** <br>
 Absorbtion(A) = C + I + G: It also asummes all products are sold.<br>
 TB, which = X-M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
+So if Unemployment(U) = high, we have idle L, so depreciate!<br>
+Other countries will invest and buy from NZ, creating work.<br>
+Or, if U = low, L = low. So reduce A! ie. with PE↓ or MS↓.<br>
+Reducing money in circulation increases U, and therefore L.<br>
+As buyer willingness to pay is based on P, firms absorb costs.<br>
+As such, the %▲M P < %▲e
+
 
 
 
