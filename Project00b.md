@@ -119,7 +119,7 @@ The focus is to ↑national income to ↑productivity considering:<br>
 This tells us that after one year, the ▲k is positive = .2<br>
 For every year, the only value that will change is y.<br>
 Eventually, we get to ▲k = 0, which is the steady state.<br>
-At the steady state
+At the steady state our economy now stays at a constant growth.<br>
 
 
 
