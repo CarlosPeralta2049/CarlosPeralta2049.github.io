@@ -46,10 +46,10 @@ Clearly, it's essential to firstly understand price responsiveness.<br>
 **1:** Quantity(Q) D▲ / Q D, devided by P▲ / P.<br>
 **2:** %▲Q D / %▲P. 100%/20%: Elasticity of D (EoD) = 5.<br>
 **3:** Therefore, a 1%▲in P 'for 100%*5' = 500%↑ revenue.<br> 
-I.e. If NZD↓ 10%, M costs↑10% & X costs↓10%.<br>
-If a depreciating country's EoD > 1, then the trade balance will↑.<br>
-So when M > 1, we buy less, and when X > 1 others buy more.<br>
-Hence, if EoD = 1.8, then a NZD↓ of 10% = Trade balance↑ by 18%.<br>
+For example, if NZD↓ 10%, then M costs↑10% & X costs↓10%.<br>
+If a depreciating country's EoD > 1, the trade balance will↑.<br>
+So when M > 1 we buy less and when X > 1 others buy more.<br>
+If our X EoD = 1.8 then we NZD↓ 10%, our Trade balance↑ 18%.<br>
 
 
 **2) Absorbtion:** <br>
