@@ -80,17 +80,14 @@ Awareness of these tools increases our productivity globally.<br>
 The right policy at the right time increases liquidity safely.<br>
 
 #### GROWTH & INNOVATION
-**SOLOW MODEL:**<br>
-Economies grows with capital(tools), labour(people), and technology.<br>
+**SOLOW-SWAN MODEL:**<br>
+Economies grow with capital(tools), labour(people), and technology.<br>
 This model describes how savings, population, and tech affect growth.<br>
-Generally, if we add more capital(K) or labour(L) we produce more stuff.<br>
+In general, adding more capital(K) or labour(L) produces more stuff.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
-Steady state: Technology, population, and output grow at the same rate.<br>
-The model tells: Long-run savings/investments have no effect on growth.<br>
-Apply the best short-run savings rate to get the maximum capital growth.<br>
-
-
-
+On its own, long-run saving/investing does not have an effect on growth.<br>
+Steady state: At the right setting, we grow steadily to maximise growth.
+We apply the best short-run savings / investment rate to reach that.<br>
 
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
 In this model, the focus is to ↑national income to ↑productivity.<br>
