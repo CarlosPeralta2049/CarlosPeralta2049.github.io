@@ -87,7 +87,7 @@ In general, adding more capital(K) or labour(L) produces more stuff.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
 On its own, long-run saving/investing does not have an effect on growth.<br>
 Steady state: At the right setting, we grow steadily to maximise growth.<br>
-We apply the best short-run savings / investment rate to reach that.<br>
+So we apply the best short-run savings / investment rate to reach that.<br>
 
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
 In this model, the focus is to ↑national income to ↑productivity.<br>
