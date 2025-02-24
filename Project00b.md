@@ -36,7 +36,7 @@ USD fluctuations affect product costs based on buyer location.<br>
 Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
 Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
-**Following depreciation, to become competitive utilise:**<br>
+Therefore, to become competitive we utilise depreciation with:<br>
 **1) ELASTICITY:**
 
 **2) ABSOPTION:** <br>
