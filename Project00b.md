@@ -37,10 +37,10 @@ Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
 Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
 **Therefore, to become competitive we depreciate using:** <br>
-**1) ELASTICITY:**
+**1) Elasticity:**
 
-**2) ABSOPTION:** <br>
-**3) MONETARY POLICY:** <br>
+**2) Absorbtion:** <br>
+**3) Monetary Policy:** <br>
 
 ##### EXCHANGE RATE DETERMINATION
 1) Long Run
