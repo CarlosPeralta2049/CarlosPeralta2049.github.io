@@ -106,7 +106,7 @@ The focus is to ↑national income to ↑productivity considering:<br>
 **13:** The strategy is simple. For growth just maximise C & I.<br>
 **14:** Investment per worker should then be: i = y - c = sy = sf(k).<br>
 **Consumption and Investment are shown graphically below on the left**<br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="250">
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="220">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_02.jpg" alt="Sample Image" width="245" height="250"><br>
 **Now consider Depreciation. Over time tool swear out. Seen on the top right**<br>
 
