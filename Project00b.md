@@ -63,7 +63,7 @@ Depreciate as we will become competitive and create jobs.<br>
 Or, if U = low, L = low. So reduce A! as we spend too much.<br>
 Reducing money in circulation will lower M, improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
-In this situation, the %▲M P < %▲e, which is why TB imprives.<br>
+In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
 
 
