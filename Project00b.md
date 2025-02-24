@@ -110,7 +110,7 @@ The focus is to ↑national income to ↑productivity considering:<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_02.jpg" alt="Sample Image" width="210" height="250"><br>
 **Now consider Depreciation. Over time tool swear out. Top right.**<br>
 
-**Scenario 1:** y = k^1/2; s=.3; Ꟙ =.1; k = 4:<br>
+**Scenario 1:** y = k^1/2; s=.3; Ꟙ(depreciation) =.1; k = 4:<br>
 **1)** y = k^1/2 = 2<br>
 **2)** c = (1-s)y is the same as (1-.3)2 = 1.4<br>
 **3)** i = sy = .3(2) = .6<br>
