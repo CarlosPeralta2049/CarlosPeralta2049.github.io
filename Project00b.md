@@ -36,11 +36,11 @@ USD fluctuations affect product costs based on buyer location.<br>
 Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
 Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
-**To become competitive, depreciate with one of three approaches:**
-**1) ELASTICITY:**  
+**To become competitive, depreciate with one of three approaches:**<br>
+**1) ELASTICITY:**
 
-**2) ABSOPTION:**
-**3) MONETARY POLICY:**
+**2) ABSOPTION:** <br>
+**3) MONETARY POLICY:** <br>
 
 ##### EXCHANGE RATE DETERMINATION
 1) Long Run
