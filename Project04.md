@@ -1,5 +1,5 @@
 **Objective:** To create then backtest the effectiveness of algorithmic trading strategies in financial markets.<br>
-***NOTE:** To view a larger sized picture, right-click on the pictures, then click open in new tab.*<br>
+***NOTE:** To view a larger sized picture, right-click on that picture then click open in new tab.*<br>
 
 ## Technical Analysis: Candlestick Patterns
 Candlestick patterns are often used in technical analysis. However, they can come with an expensive subscription fee. Here are a two examples of candlestick patterns. The first is the hammer, it is one of the strongest patterns and it graphically shows that price is about to rise. A second pattern which is also very strong is the Bullish Engulfing candlestick.<br><br>
