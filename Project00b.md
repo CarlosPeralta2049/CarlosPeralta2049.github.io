@@ -36,8 +36,8 @@ USD fluctuations affect product costs based on buyer location.<br>
 Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
 Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br><br>
-**To be competitive we depreciate using one of three methods:** <br>
-**ELASTICITY (Price(P) responsiveness):**<br>
+**To be competitive we depreciate using one of three methods:** <br><br>
+**ELASTICITY (Price(P) responsiveness):** <br>
 When D > 1, we reduce our input costs↓ to increase revenue.<br>
 If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
 Or, if elasticity = 0.5, a 30% P reduction = 15% increase in sales.<br>
@@ -65,11 +65,19 @@ Reducing money in circulation will lower M, improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
+**MONETARY POLICY:** <br>
+If we start at equilibrium then decpreciates (ie. with QE):<br>
+Initially Y↑ but this is very much a temporary solution.<br>
+Think of the extra government spending following Covid.<br>
+Next we see: ¶↑, r↑, Money D↑, Overseas Money↑, TB↑, A↑.<br> 
 
-
-
-
-**3) Monetary Policy:** <br>
+**Depreciation overall:** The overall net effect is positive.<br>
+When X are inelastic, EoD remains > 1 so TB↑.<br>
+When employment is too Low, we let others invest in NZ so TB↑.<br>
+When employment is too high, we lower government spending so TB↑.<br>
+When PE↑, we stimulate with lower X P; in the long run this TB↑.<br>
+Awareness of these tools increases our productivity globally.<br>
+The right policy at the right time increases liquidity safely.<br>
 
 ##### EXCHANGE RATE DETERMINATION
 1) Long Run
