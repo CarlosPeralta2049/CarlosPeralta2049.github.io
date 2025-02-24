@@ -93,6 +93,7 @@ In this model, the focus is to ↑national income to ↑productivity.<br>
 **8:** So as y = f(k), and c = (1-s)y, then:<br>
 **9:** s = y-c; or y-(1-s)y; or simply, sy.<br>
 **10:** Where national income is Y = C = I; or per worker: y = c +i.<br>
+**11:** So investment per worker: i = y - c = sy = sf(k).<br>
 
 
 
