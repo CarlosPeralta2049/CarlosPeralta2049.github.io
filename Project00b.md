@@ -119,8 +119,28 @@ The focus is to ↑national income to ↑productivity considering:<br>
 This tells us that after one year, the ▲k is positive = .2<br>
 For every year, the only value that will change is y.<br>
 Eventually, we get to ▲k = 0, which is the steady state.<br>
-At the steady state our economy now stays at a constant growth.<br>
+At the steady state we now stay at a constant growth.<br>
+The steady state occurs when there is no momentuym for ▲.<br>
+Therefore, is I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
 
+**To identify where to place k we apply the Equation of Motion:**<br>
+This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
+Instead of testing various settings first, this is the shortcut.<br>
+
+**Scenario 2:** y = k^1/2; s=.3; and Ꟙ = .1.<br>
+**1)** ▲k = sk(k) - Ꟙk = 0 = SS = the k setting we want.<br>
+**2)** Now we find sf(k*) = Ꟙk*. First k*, then y*, then c*.<br>
+**3)** .3(k*^1/2) = .1(k*), now bring the .1 to the left.<br>
+**4)** .3/.1(k*^1/2) = k*.<br>
+**5)** 3k*^1/2 = k*, now divide both by k*^1/2.<br>
+**6)** 3 = k* / k*^1/2, then we swap the powers, where..<br>
+**7)** k* / k*^1/2 = k* x k*^-1/2, which = k*^1/2.<br>
+**8)** Square both sides to get rid of the power.<br>
+**9)** 3 squared = 9. Hence, k* = 9. This is 'I*&k*=SS'!<br>
+**10)** Now use y=k^1/2, so y = 9^1/2, which squared = y*=3<br>
+**11)** c* = (1-s)y* -> c* = (1-3)y* -> c* = (.7)3 -> c* = 2.1.<br>
+**12)** Lastly, i*=sy* -> .3 x 3 = .9, and Ꟙk = .1 x 9 = .9.<br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_03.jpg" alt="Sample Image" width="490" height="400">
 
 
 
