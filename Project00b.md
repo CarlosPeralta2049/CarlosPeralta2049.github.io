@@ -79,7 +79,7 @@ If PE↑, we stimulate with lower X P; in the long run this TB↑.<br>
 Awareness of these tools increases our productivity globally.<br>
 The right policy at the right time increases liquidity safely.<br>
 
-##### GROWTH & INNOVATION
+#### GROWTH & INNOVATION
 **SOLOW MODEL:**<br>
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
 In this model, the focus is to ↑national income to ↑productivity.<br>
