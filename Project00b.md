@@ -81,6 +81,17 @@ The right policy at the right time increases liquidity safely.<br>
 
 #### GROWTH & INNOVATION
 **SOLOW MODEL:**<br>
+Economies grows with capital(tools), labour(people), and technology.<br>
+This model describes how savings, population, and tech affect growth.<br>
+Generally, if we add more capital(K) or labour(L) we produce more stuff.<br>
+Diminishing returns: Without better tools, over time L produces less.<br>
+Steady state: Technology, population, and output grow at the same rate.<br>
+The model tells: Long-run savings/investments have no effect on growth.<br>
+We apply the best short-run savings rate to get the maximum capital growth.<br>
+
+
+
+
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
 In this model, the focus is to ↑national income to ↑productivity.<br>
 **1:** When population growth↑ = L↑.This stimulates Consumption.<br>
