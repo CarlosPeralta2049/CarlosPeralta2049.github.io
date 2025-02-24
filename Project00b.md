@@ -48,7 +48,7 @@ P responsiveness depends on P▲. To calculate this:<br>
 3: Therefore, a 1%▲in P 'for 100%*5' = 500% revenue↑.<br> 
 I.e. If NZD↓ 10%, M costs↑10% & X costs↓10%.<br>
 If a depreciating country's EoD > 1, then the trade balance will↑.<br>
-So when M > 1, we buy less, and when X > 1 others buy more.
+So when M > 1, we buy less, and when X > 1 others buy more.<br>
 Hence, if EoD = 1.8, then a NZD↓ of 10% = Trade balance↑ by 18%.<br>
 
 
