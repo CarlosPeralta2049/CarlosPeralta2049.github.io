@@ -87,7 +87,7 @@ Generally, if we add more capital(K) or labour(L) we produce more stuff.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
 Steady state: Technology, population, and output grow at the same rate.<br>
 The model tells: Long-run savings/investments have no effect on growth.<br>
-We apply the best short-run savings rate to get the maximum capital growth.<br>
+Apply the best short-run savings rate to get the maximum capital growth.<br>
 
 
 
