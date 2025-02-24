@@ -80,7 +80,7 @@ Awareness of these tools increases our productivity globally.<br>
 The right policy at the right time increases liquidity safely.<br>
 
 ##### GROWTH & INNOVATION
-**SOLOW MODEL:** 
+**SOLOW MODEL:**<br>
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
 
 
