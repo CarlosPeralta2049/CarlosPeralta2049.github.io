@@ -79,14 +79,14 @@ If PE↑, we stimulate with lower X P; in the long run this TB↑.<br>
 Awareness of these tools increases our productivity globally.<br>
 The right policy at the right time increases liquidity safely.<br>
 
-##### EXCHANGE RATE DETERMINATION
-1) Long Run
-2) Short Run
-
-
-
-
 ##### GROWTH & INNOVATION
+**SOLOW MODEL:** 
+As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
+
+
+
+
+
 **COBB DOUGLAS FUNCTION**<br>
 1) Savings Rate<br>
 2) Marginal Product Capital<br>
