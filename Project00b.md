@@ -43,8 +43,8 @@ If elasticity = 2, a 30% price reduction = 60% increase in sales.<br>
 If elasticity = 0.5, a 30% price reduction = 15% increase in sales.<br>
 Clearly, it's essential to firstly understand price responsiveness.<br>
 Price responsiveness depends on price change. To calculate this:<br>
-1) Quantity demand▲ / Quantity demand, and devide by Price▲/Price.<br>
-2) %▲ Quantity demanded / %▲ price. 100%/20% = Elasticity Demand = 5.<br>
+1: Quantity demand▲ / Quantity demand, and devide by Price▲/Price.<br>
+2: %▲ Quantity demanded / %▲ price. 100%/20% = Elasticity Demand = 5.<br>
 
 
 **2) Absorbtion:** <br>
