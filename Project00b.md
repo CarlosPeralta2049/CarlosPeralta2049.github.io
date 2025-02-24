@@ -59,11 +59,11 @@ Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
 TB, which = X-M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
 So if Unemployment(U) = high, we have idle L, so depreciate!<br>
-Other countries will invest and buy from NZ, creating work.<br>
-Or, if U = low, L = low. So reduce A! ie. with PE↓ or MS↓.<br>
-Reducing money in circulation increases U, and therefore L.<br>
+Depreciate as we will become competitive and create jobs.<br>
+Or, if U = low, L = low. So reduce A! as we spend too much.<br>
+Reducing money in circulation will lower M, improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
-As such, the %▲M P < %▲e
+In this situation, the %▲M P < %▲e. 
 
 
 
