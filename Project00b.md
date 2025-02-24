@@ -105,6 +105,8 @@ The focus is to ↑national income to ↑productivity considering:<br>
 **12:** Here, national income I D: Y = C + I; or per l: y = c + i.<br>
 **13:** The strategy is simple. For growth just maximise C & I.<br>
 **14:** Investment per worker should then be: i = y - c = sy = sf(k).<br>
+In the first instance that's what we want, just to maximise growth.<br>
+
 
 
 
