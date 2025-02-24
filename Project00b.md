@@ -82,6 +82,18 @@ The right policy at the right time increases liquidity safely.<br>
 ##### GROWTH & INNOVATION
 **SOLOW MODEL:**<br>
 As Investment(I)↑ = K(capital),L↑. And as depreciation↑ = K,L↓.<br>
+In this model, the focus is to ↑national income to ↑productivity.<br>
+**1:** When population growth↑ = L↑.This stimulates Consumption.<br>
+**2:** Our price per worker lessens as we divide all by L.<br>
+**3:** Y = f(K,L) gives y = Y / L & k = K / L.<br>
+**4:** Consider that constant RTS = zY = f(zK,zL), for any z > 0.<br>
+**5:** Therefore, by using z = 1/L (per person),<br>
+**6:** We see Y/L = f(K,L,1). so y=f(k,1).<br>
+**7:** This can be written as y = f(k,1) or y = f(k).<br>
+**8:** So as y = f(k), and c = (1-s)y, then:<br>
+**9:** s = y-c; or y-(1-s)y; or simply, sy.<br>
+**10:** Where national income is Y = C = I; or per worker: y = c +i.<br>
+
 
 
 
