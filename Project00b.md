@@ -52,7 +52,7 @@ So when M > 1 we buy less and when X > 1 others buy more.<br>
 If X EoD = 1.8 then we NZD↓ 10%, our Trade balance(TB)↑ 18%.<br>
 **NOTE:** However, consider the J-Curve effect which tells:<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
-In Y1 TB▲s, but not P. The new TB↑ appears in 2 years.<br>
+In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
 
 **2) Absorbtion:** <br>
