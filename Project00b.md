@@ -50,7 +50,7 @@ For example, if NZD↓ 10%, then M costs↑10% & X costs↓10%.<br>
 If a depreciating country's EoD > 1, the trade balance will↑.<br>
 So when M > 1 we buy less and when X > 1 others buy more.<br>
 If X EoD = 1.8 then we NZD↓ 10%, our Trade balance(TB)↑ 18%.<br>
-**NOTE:** It's important to consider the J-Curve effect.<br>
+**NOTE:** However, consider the J-Curve effect which tells:<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. The new TB↑ appears in 2 years.<br>
 
