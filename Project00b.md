@@ -55,7 +55,7 @@ At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
 **ABSORBTION:** <br>
-Absorbtion(A) = C + I + G: It also asummes all products are sold.<br>
+Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
 TB, which = X-M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
 So if Unemployment(U) = high, we have idle L, so depreciate!<br>
