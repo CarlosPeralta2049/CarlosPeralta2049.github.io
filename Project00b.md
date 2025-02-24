@@ -33,17 +33,14 @@ U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
 A 10% USD depreciation = U.S. products are 10% cheaper to world.<br>
 USD fluctuations affect product costs based on buyer location.<br>
 **U.S. firm buys U.S. input product:** If USD↑100% = Firm's costs↑<br>
-In period 1: Costs = no change; period 2: costs↑ = now at 200%.<br>
-Here, the USD appreciation = Costs↑, exports↓, Imports↑<br>
+Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
-In period 1: Costs = no change; period 2: costs < 200%.<br>
+Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
+**To become competitive, depreciate with one of three approaches:**
+**1) ELASTICITY:**  
 
-
-
-
-1) Elasticity<br>
-2) Absorption<br>
-3) Monetary<br>
+**2) ABSOPTION:**
+**3) MONETARY POLICY:**
 
 ##### EXCHANGE RATE DETERMINATION
 1) Long Run
