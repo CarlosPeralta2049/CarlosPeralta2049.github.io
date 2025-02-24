@@ -105,12 +105,20 @@ The focus is to ↑national income to ↑productivity considering:<br>
 **12:** Here, national income I D: Y = C + I; or per l: y = c + i.<br>
 **13:** The strategy is simple. For growth just maximise C & I.<br>
 **14:** Investment per worker should then be: i = y - c = sy = sf(k).<br>
-**C and I are shown graphically. Below left**<br>
+**C and I are shown graphically. Below left.**<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_02.jpg" alt="Sample Image" width="210" height="250"><br>
-**Now consider Depreciation. Over time tool swear out. Top right**<br>
+**Now consider Depreciation. Over time tool swear out. Top right.**<br>
 
-Scenario 1: 
+**Scenario 1:** y = k^1/2; s=.3; Ꟙ =.1; k = 4:<br>
+**1)** y = k^1/2 = 2<br>
+**2)** c = (1-s)y is the same as (1-.3)2 = 1.4<br>
+**3)** i = sy = .3(2) = .6<br>
+**4)** Ꟙk = .4<br>
+**5)** ▲k = i - Ꟙk = .2<br>
+This tells us that after one year, the ▲k is positive = .2<br>
+For every year, the only value that changes is y.<br>
+Eventually, we get to where ▲k = 0, which is the steady state.<br>
 
 
 
