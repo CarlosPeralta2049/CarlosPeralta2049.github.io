@@ -37,9 +37,9 @@ Y1: Costs = no ▲; Y2: costs↑ = now at 200%; U.S. = less competitive.<br>
 **U.S. firm buys NZ input product:** If USD↑100% = Firm's costs↓<br>
 Y1: Costs = no ▲; Y2: costs < 200%; U.S. = less competitive.<br>
 **Therefore, to become competitive we depreciate using:** <br>
-**1) Elasticity (Price responsiveness):**<br>
+**1) Elasticity (Price(P) responsiveness):**<br>
 When demand > 1, we reduce our input costs↓ to increase revenue.<br>
-If elasticity = 2, a 30% price(P) reduction = 60% increase in sales.<br>
+If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
 Or, if elasticity = 0.5, a 30% P reduction = 15% increase in sales.<br>
 Clearly, it's essential to firstly understand price responsiveness.<br>
 **P responsiveness depends on P▲. To calculate this:** <br>
