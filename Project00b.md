@@ -117,11 +117,11 @@ The aim is to ↑national income to ↑productivity, considering:<br>
 **4)** Ꟙk = .4<br>
 **5)** ▲k = i - Ꟙk = .2<br>
 This tells us that after one year, the ▲k is positive = .2<br>
-For every year, the only value that will change is y.<br>
+Understand that every year, the only value that changes is y.<br>
 Eventually, we get to ▲k = 0, which is the steady state.<br>
 At the steady state we now stay at a constant growth.<br>
-The steady state occurs when there is no momentuym for ▲.<br>
-Therefore, is I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
+The steady state occurs when there is no momentum for ▲.<br>
+Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
 
 **To identify where to place k we apply the Equation of Motion:**<br>
 This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
