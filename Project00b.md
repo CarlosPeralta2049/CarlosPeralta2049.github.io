@@ -120,7 +120,7 @@ This tells us that after one year, the ▲k is positive = .2<br>
 Understand that every year, the only value that changes is y.<br>
 Eventually, we get to ▲k = 0, which is the steady state.<br>
 At the steady state we now stay at a constant growth.<br>
-The steady state occurs when there is no momentum for ▲.<br>
+The steady state occurs if there is no momentum for ▲.<br>
 Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
 
 **To identify where to place k we apply the Equation of Motion:**<br>
