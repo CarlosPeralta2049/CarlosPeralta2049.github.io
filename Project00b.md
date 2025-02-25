@@ -85,7 +85,7 @@ Economies grow with capital(tools), labour(people), and technology.<br>
 This model describes how savings, population, and tech affect growth.<br>
 In general, adding more capital(K) or labour(L) increases productivity.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
-On its own, long-run saving/investing does not have an effect on growth.<br>
+On its own, in the long-run saving / investing does not affect growth.<br>
 Steady state: At the right setting, we grow steadily to maximise growth.<br>
 So we apply the best short-run savings / investment rate to reach that.<br>
 
