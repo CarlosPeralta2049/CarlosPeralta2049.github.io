@@ -91,24 +91,24 @@ So we apply the best short-run savings / investment rate to reach that.<br>
 
 Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
 The aim is to ↑national income to ↑productivity, considering:<br>
-**1:** When population growth↑ = L↑.This stimulates Consumption.<br>
+**1:** When population growth↑ = L↑. This raises consumption.<br>
 **2:** Our price per worker lessens as we divide each by L.<br>
 **3:** Y = f(K,L) gives y = Y / L & k = K / L.<br>
 **4:** Constant RTS = zY = f(zK,zL), where z > 0.<br>
 **5:** Therefore, by using z = 1/L (per person),<br>
 **6:** We see Y/L = f(K,L,1). so y=f(k,1).<br>
-**7:** It tells us that Y depends on L having K.<br>
+**7:** It just tells us that Y depends on L having K.<br>
 **8:** This can be written as y = f(k,1) or y = f(k),<br>
-**9:** Which tells that growth comes from capital.<br>
+**9:** Which clarifies that more capital leads to more growth.<br>
 **10:** So as y = f(k), and c = (1-s)y, disposed income, then:<br>
 **11:** s = y-c; or y-(1-s)y; or simply, sy, which we want more of.<br>
 **12:** Here, national income I D: Y = C + I; or per l: y = c + i.<br>
-**13:** The strategy is simple. For growth just maximise C & I.<br>
+**13:** The strategy is simple. For more growth just maximise C & I.<br>
 **14:** Investment per worker should then be: i = y - c = sy = sf(k).<br>
 **C and I are shown graphically. Below left.**<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_02.jpg" alt="Sample Image" width="210" height="250"><br>
-**Now consider Depreciation. Over time tool swear out. Top right.**<br>
+**Now consider Depreciation, as over time tools wear out. Top right.**<br>
 
 **Scenario 1:** y = k^1/2; s=.3; Ꟙ(depreciation) =.1; k = 4:<br>
 **1)** y = k^1/2 = 2<br>
