@@ -108,7 +108,7 @@ The aim is to ↑national income to ↑productivity, considering:<br>
 **C and I are shown graphically. Below left.**<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="250">
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_02.jpg" alt="Sample Image" width="210" height="250"><br>
-**Now consider Depreciation, as over time tools wear out. Top right.**<br>
+**Now consider depreciation, as over time tools wear out. Top right.**<br>
 
 **Scenario 1:** y = k^1/2; s=.3; Ꟙ(depreciation) =.1; k = 4:<br>
 **1)** y = k^1/2 = 2<br>
