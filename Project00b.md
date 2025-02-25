@@ -77,7 +77,7 @@ If employment is too Low, we let others invest in NZ so TB↑.<br>
 If employment is too high, we lower govt spending so TB↑.<br>
 If PE↑, we stimulate with lower X P; in the long run this TB↑.<br>
 Awareness of these tools increases our productivity globally.<br>
-The right policy at the right time increases liquidity safely.<br>
+The right policy at the right time increases liquidity safely.<br><br>
 
 #### GROWTH & INNOVATION
 **SOLOW-SWAN MODEL:**<br>
