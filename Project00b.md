@@ -83,7 +83,7 @@ The right policy at the right time increases liquidity safely.<br><br>
 **SOLOW-SWAN MODEL:**<br>
 Economies grow with capital(tools), labour(people), and technology.<br>
 This model describes how savings, population, and tech affect growth.<br>
-In general, adding more capital(K) or labour(L) produces more stuff.<br>
+In general, adding more capital(K) or labour(L) increases productivity.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
 On its own, long-run saving/investing does not have an effect on growth.<br>
 Steady state: At the right setting, we grow steadily to maximise growth.<br>
