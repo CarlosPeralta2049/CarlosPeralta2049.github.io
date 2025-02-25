@@ -90,7 +90,7 @@ Steady state: At the right setting, we grow steadily to maximise growth.<br>
 So we apply the best short-run savings / investment rate to reach that.<br>
 
 Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
-The focus is to ↑national income to ↑productivity considering:<br>
+The aim is to ↑national income to ↑productivity, considering:<br>
 **1:** When population growth↑ = L↑.This stimulates Consumption.<br>
 **2:** Our price per worker lessens as we divide each by L.<br>
 **3:** Y = f(K,L) gives y = Y / L & k = K / L.<br>
