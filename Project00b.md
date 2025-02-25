@@ -82,14 +82,13 @@ The right policy at the right time increases liquidity safely.<br><br>
 #### GROWTH & INNOVATION
 **SOLOW-SWAN MODEL:**<br>
 Economies grow with capital(tools), labour(people), and technology.<br>
-This model describes how savings, population, and tech affect growth.<br>
 In general, adding more capital(K) or labour(L) increases productivity.<br>
 Diminishing returns: Without better tools, over time L produces less.<br>
-On its own, in the long-run saving / investing does not affect growth.<br>
-Steady state: At the right setting, we grow steadily to maximise growth.<br>
-So we apply the best short-run savings / investment rate to reach that.<br>
-
+Investing on its own does not affect growth in the long run.<br>
+Steady state: At this setting we grow steadily over time.<br>
 Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
+Specifically, K grows with I but also depreciates = ▲K = I-ꟘK.<br>
+
 The aim is to ↑national income to ↑productivity, considering:<br>
 **1:** When population growth↑ = L↑. This raises consumption.<br>
 **2:** Our price per worker lessens as we divide each by L.<br>
@@ -122,8 +121,13 @@ Eventually, we get to ▲k = 0, which is the steady state.<br>
 At the steady state we now stay at a constant growth.<br>
 The steady state occurs if there is no momentum for ▲.<br>
 Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
+Here, the aim of the steady state is just to be constant.<br>
+It's not necessarily the best s setting, it's just steady.<br>
 
-**Identify where to set k with the Equation of Motion:**<br>
+
+GO OVER GOLDEN RULE
+
+**Identifying where to set k with the Equation of Motion:**<br>
 This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
 Instead of testing various settings first, this is the shortcut.<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_03.jpg" alt="Sample Image" width="490" height="400"><br>
