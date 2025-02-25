@@ -123,7 +123,7 @@ At the steady state we now stay at a constant growth.<br>
 The steady state occurs if there is no momentum for ▲.<br>
 Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
 
-**To identify where to set k we apply the Equation of Motion:**<br>
+**Identify where to set k with the Equation of Motion:**<br>
 This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
 Instead of testing various settings first, this is the shortcut.<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_03.jpg" alt="Sample Image" width="490" height="400"><br>
