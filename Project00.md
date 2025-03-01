@@ -1,4 +1,4 @@
-**[Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)** <br><br>
+**[Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)** <br>
 Beyond this initial section, the section linked above highlights advanced areas of research.
 <br><br>
 
