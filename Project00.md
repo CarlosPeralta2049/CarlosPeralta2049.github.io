@@ -3,6 +3,12 @@
 |Beyond this initial section, the section linked above highlights<br>|
 |advanced concepts and scenarios with practical examples.<br>|
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 <br><br>
 
 **Objective:** To highlight a high view of finance and the economy.
