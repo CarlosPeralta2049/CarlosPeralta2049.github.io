@@ -1,8 +1,8 @@
 |[Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)|
 |:--|
 |Concepts and examples beyond the material below.|
-<br>
 
+<br>
 **Objective:** To highlight a high view of finance and the economy.
 
 ### THE INDIVIDUAL
