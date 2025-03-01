@@ -1,5 +1,5 @@
 **[Click here for Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)**
-<br>
+<br><br>
 **Objective:** To highlight a high view of finance and the economy.
 
 ### THE INDIVIDUAL
