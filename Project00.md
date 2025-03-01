@@ -1,13 +1,6 @@
 |[Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)|
 |:--|
-|Beyond this initial section, the section linked above highlights|
 |advanced concepts and scenarios with practical examples.|
-
-| Syntax      |
-| :---        |
-| Header      |
-| Paragraph   |
-
 
 <br><br>
 
