@@ -2,7 +2,7 @@
 |:--|
 |Concepts and examples beyond the material below.|
 
-<br>
+<br><br>
 **Objective:** To highlight a high view of finance and the economy.
 
 ### THE INDIVIDUAL
