@@ -1,7 +1,7 @@
-**Objective:** To highlight a high view of finance and the economy.
+- **[Advanced Concepts and Scenarios: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)** <br><br>
+<br><br>
 
-- **[Advanced Concepts: Economic Growth and Global Liquidity](https://carlosperalta2049.github.io/Project00b)** <br><br>
-Scenarios and Factors of Macro and Global Liquidity<br><br>
+**Objective:** To highlight a high view of finance and the economy.
 
 ### THE INDIVIDUAL
 As potential profits go up, perceived risk goes up.<br>
