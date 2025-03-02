@@ -90,19 +90,19 @@ Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
 Specifically, K grows with I but also depreciates: ▲K = I-ꟘK.<br>
 
 The aim is to ↑national income to ↑productivity, considering:<br>
-**1:** When population growth↑ = L↑. This raises consumption.<br>
+**1:** As population growth↑ = L↑. This raises consumption.<br>
 **2:** Our price per worker lessens as we divide each by L.<br>
 **3:** Y = f(K,L) gives y = Y / L & k = K / L.<br>
 **4:** Constant RTS = zY = f(zK,zL), where z > 0.<br>
 **5:** Therefore, by using z = 1/L (per person),<br>
 **6:** We see Y/L = f(K,L,1). so y=f(k,1).<br>
-**7:** It just tells us that Y depends on L having K.<br>
-**8:** This can be written as y = f(k,1) or y = f(k),<br>
-**9:** Which clarifies that more capital leads to more growth.<br>
+**7:** That just tells us that Y depends on L having K.<br>
+**8:** It can also be written as y = f(k,1) or y = f(k),<br>
+**9:** Where at the best setting more capital = more growth.<br>
 **10:** So as y = f(k), and c = (1-s)y, disposed income, then:<br>
 **11:** s = y-c; or y-(1-s)y; or simply, sy, which we want more of.<br>
 **12:** Here, national income I D: Y = C + I; or per l: y = c + i.<br>
-**13:** The strategy is simple. For more growth just maximise C & I.<br>
+**13:** The strategy is simple. For more growth maximise on C & I.<br>
 **14:** Investment per worker should then be: i = y - c = sy = sf(k).<br>
 **C and I are shown graphically. Below left.**<br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_01.jpg" alt="Sample Image" width="245" height="250">
