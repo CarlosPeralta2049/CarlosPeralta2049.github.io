@@ -20,7 +20,7 @@ As the USD appreciates, NZD may depreciate then appreciate.<br>
 **China utilises #1 and #3. The situation is different there again:**<br>
 China mainly restricts the flow of capital in and out of the country.<br>
 Tight controls over capital regulates its e and monetary policy.<br>
-**1)** China depreciates RNB to be competitive by printing more.<br>
+**1)** China prints more, depreciating RNB to be more competitive.<br>
 **2)** China buys then sells USD for U.S. bonds for the bond yields.<br>
 **3)** U.S. can now lend more. Canada, etc borrows USD to grow.<br>
 **4)** China buys bonds elsewhere, increasing global influence.<br>
