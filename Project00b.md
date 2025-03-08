@@ -149,7 +149,7 @@ In short, the SS is a steady state but every SS is not a GRSS.<br>
 We calculate for the GRSS to maximise steady consumption.<br>
 Reserve Banks, Treasuries and Finance Ministers consider this.<br>
 We then may expect them to adjust to the economic conditions.<br>
-If an economy < GRSS, expect spending. Else, expect austerity.<br>
+If an economy < GRSS, expect high spending. Else, low spending.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_04.jpg" alt="Sample Image" width="400" height="400"><br>
 
 
