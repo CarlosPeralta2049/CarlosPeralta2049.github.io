@@ -146,7 +146,7 @@ Here, individuals will constantly maximise their consumption.<br>
 Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
 Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
 In short, the SS is a steady state but every SS is not a GRSS.<br>
-We calculate for the GRSS to steadily maximise consumption.<br>
+We calculate for the GRSS to maximise steady consumption.<br>
 
 
 
