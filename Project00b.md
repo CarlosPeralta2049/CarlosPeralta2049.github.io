@@ -230,8 +230,14 @@ The new capital output ratio = 0.42857<br>
 The new marginal product capital = 0.3<br>
 Here, people save in a rate that gives max consumption.<br>
 With this savings rate, max consumption is also constant.<br>
-The savings rate is an excellent lever which we can manipulate.<br>
-
+Clearly, with the savings rate we influence GDP growth.<br>
+But do we want what's best for society or the individual?<br>
+Assuming we favour society, we encourage consumption.<br>
+Assuming we favour individuals, we encourage saving.<br>
+In any case, this gives an indicator for public spending.<br>
+It highlights the kind of public spending we may see.<br>
+Defense spending pushes often technology forward.<br>
+Social programs tend to stimulate shortrun growth.<br>
 <br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
