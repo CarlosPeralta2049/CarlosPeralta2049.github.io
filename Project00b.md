@@ -153,9 +153,37 @@ We then may expect them to adjust to the economic conditions.<br>
 If an economy<GRSS, expect high spending. Else, low spending.<br><br>
 
 
+**COBB DOUGLAS FUNCTION:**<br>
+Relating to growth and innovation we can take the above further.<br>
+The Cobb-Douglas function is a model which includes elasticity.<br>
+It also describes the relationship between inputs and output:<br>
+Y = AK^αL^β. A = Total productivity (based on tech efficiency).<br>
+α = K output elasticity (shows how output ▲s based on K ▲s.<br>
+β = L output elasticity (shows how output ▲s based on L ▲s.<br>
+We consider Constant Returns to Scale (RTS): α + β = 1.<br>
+While if α + β > 1, there are increasing RTS.<br>
+And if α + β < 1, there are decreasing RTS.<br>
+There is Marginal Productivity: There are diminishing returns.<br>
+There is Factor Substitutability: K and L can sub each other.<br>
+If α = 1 and β = 0, output depends entirely on capital.<br>
+If α = 0 and β = 1, output depends entirely on labour.<br>
+If α = β = 0.5, capital and labour contribute equally.<br>
+This is useful to explain GDP growth vs K & L ▲s.<br>
+Now apply this to macro with the Solow Growth Model.<br>
+Instead of using L^β, represent L as N^1-α, where β=1-α.<br>
+Now keep in mind that we believe that people are rational.<br>
+It means people prefer to invest vs buying McDonals/beer.<br>
+Therefore, hypothetically, disposable income gets invested.<br>
+As such, we manipulate how much income people should invest.<br>
 
+**Scenario 3:** 
+**1) Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
+**2) Share of income is 70%:** 0.7<Br>
+**3) Capital output ratio:** 2<br>
+**4) Depreciation:** 0.03<br>
+**5) There is no tech growth (A=0), so..** <br>
+**6) GDP growth = L growth(n), which is:** 0.4<br> 
 
-**COBB DOUGLAS FUNCTION**<br>
 1) Savings Rate<br>
 2) Marginal Product Capital<br>
 **STEADY STATE**<br>
