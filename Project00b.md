@@ -188,12 +188,14 @@ With this, we manipulate how much income people should invest.<br>
 **Capital output ratio:** 2<br>
 **Depreciation:** 0.03<br>
 **There is no tech growth (A=0), so..** <br>
-**GDP growth = L growth(n), which is:** 0.4<br> 
+**GDP growth = L growth(n), which is:** 0.4<br>
+
 **STEP#1 Identify the initial savings rate**<br>
 **Steady State function:** S = (1-α) / (1 + g ) - Ꟙ<br>
 **Therefore:** S = (1-0.7) / (1 + 0.04) - 0.03<br>
 **Simplified:** S = (0.3 / 1.04) - 0.03<br>
 **Result:** S = 25.85%<br>
+
 **STEP#2 Identify Marginal Product Capital**<br>
 MPK = α(Y/K)<br>
 MPK = 0.7(Y/K)<br>
@@ -225,7 +227,7 @@ The new Savings rate = 3%<br>
 The new capital output ratio = 0.42857<br>
 The new marginal product capital = 0.3<br>
 Here, people save in a rate that gives max consumption.<br>
-With this saings rate, max consumption is also sustained!<br><br>
+With this saings rate, max consumption is also constant.<br><br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
