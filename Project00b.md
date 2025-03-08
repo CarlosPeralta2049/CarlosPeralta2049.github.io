@@ -86,8 +86,8 @@ In general, adding more capital(K) or labour(L) increases productivity.<br>
 **Diminishing returns:** Without better tools, over time L produces less.<br>
 Investing on its own does not affect growth in the long run.<br>
 **Steady state:** At this setting we grow steadily over time.<br>
-Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
-Specifically, K grows with I but also depreciates: ▲K = I-ꟘK.<br>
+Notably, as Investment(I)↑ = K,L↑. And as K depreciation(Ꟙ)↑ = K,L↓.<br>
+Specifically, K grows with I but also depreciates over time: ▲K = I-ꟘK.<br>
 
 The aim is to ↑national income to ↑productivity, considering:<br>
 **1:** As population growth↑ = L↑. This raises consumption.<br>
