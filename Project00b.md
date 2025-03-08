@@ -93,7 +93,7 @@ The aim is to ↑national income to ↑productivity, considering:<br>
 **1:** As population growth↑ = L↑. This raises consumption.<br>
 **2:** Our price per worker is measured by dividing by L.<br>
 **3:** Y = f(K,L) gives y = Y / L **and** k = K / L.<br>
-**4:** Constant RTS = zY = f(zK,zL), where z > 0.<br>
+**4:** Constant RTS = zY = f(zK,zL), where z'y' > 0.<br>
 **5:** Therefore, by using z = 1/L (per person),<br>
 **6:** We see Y/L = f(K,L,1). so y=f(k,1).<br>
 **7:** That just tells us that Y depends on L having K.<br>
