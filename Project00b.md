@@ -172,7 +172,7 @@ This is useful to explain GDP growth vs K & L ▲s.<br>
 Now apply this to macro with the Solow Growth Model.<br>
 Instead of using L^β, represent L as N^1-α, where β=1-α.<br>
 Now keep in mind that we believe that people are rational.<br>
-It means people prefer to invest vs buying McDonals/beer.<br>
+It means people prefer to invest vs buying McDonalds/beer.<br>
 Therefore, hypothetically, disposable income gets invested.<br>
 As such, we manipulate how much income people should invest.<br>
 
