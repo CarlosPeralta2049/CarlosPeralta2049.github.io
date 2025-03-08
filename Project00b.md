@@ -145,7 +145,7 @@ Here, individuals will constantly maximise their consumption.<br>
 **Specifically, in the GRSS:** Marginal Product K = Ꟙ + n.<br>
 Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
 Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_04.jpg" alt="Sample Image" width="400" height="400"><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_04.jpg" alt="Sample Image" width="400" height="400"><br><br>
 In short, the SS is a steady state but every SS is not a GRSS.<br>
 So we calculate for the GRSS to maximise steady consumption.<br>
 Reserve Banks, Treasuries and Finance Ministers consider this.<br>
