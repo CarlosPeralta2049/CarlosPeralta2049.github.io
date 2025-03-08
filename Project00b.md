@@ -202,6 +202,7 @@ MPK = α(Y/K)<br>
 MPK = 0.7(Y/K)<br>
 MPK = 0.7 * 2<br>
 MPK = 1.4<br>
+
 **STEP#3A Apply shortcut where GRSS = MPK = Ꟙ**<br>
 New savings rate (S') = 0.03<br>
 
