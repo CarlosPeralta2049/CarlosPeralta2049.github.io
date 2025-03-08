@@ -56,11 +56,11 @@ In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
 **ABSORBTION:** <br>
 Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
-TB, which = X-M = Y - A, and can be positive or negative.<br>
+TB, which = X - M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
-So if Unemployment(U) = high, we have idle L, so depreciate!<br>
-Depreciate as we will become competitive and create jobs.<br>
-Or, if U = low, L = low. So reduce A! as we spend too much.<br>
+If Unemployment(U) = high, we have idle L, so depreciate!<br>
+Depreciating will make us competitive and create jobs.<br>
+Or, if U = low (L = low) reduce A! we are spending too much.<br>
 Reducing money in circulation will lower M, improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
