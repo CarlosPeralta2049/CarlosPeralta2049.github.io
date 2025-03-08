@@ -147,7 +147,7 @@ Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
 Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
 In short, the SS is a steady state but every SS is not a GRSS.<br>
 We calculate for the GRSS to maximise steady consumption.<br>
-
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_04.jpg" alt="Sample Image" width="490" height="400"><br>
 
 
 
