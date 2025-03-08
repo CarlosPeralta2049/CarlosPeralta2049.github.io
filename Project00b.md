@@ -227,7 +227,7 @@ The new Savings rate = 3%<br>
 The new capital output ratio = 0.42857<br>
 The new marginal product capital = 0.3<br>
 Here, people save in a rate that gives max consumption.<br>
-With this saings rate, max consumption is also constant.<br><br>
+With this savings rate, max consumption is also constant.<br><br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
