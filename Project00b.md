@@ -176,11 +176,12 @@ Instead of using L^β, represent L as N^1-α, where β=1-α.<br>
 Now keep in mind that we believe that people are rational.<br>
 It means people prefer to invest vs buying McDonalds/beer.<br>
 Disposable income is not necessarily invested, but it can be.<br>
-Therefore, presumably disposable income likely gets invested.<br>
-Share of income is what is confirmed as the allocated to K / L.<br>
-While, the profits from the investments are the capital share.<br>
-And the proportion of GDP paid as wages are the labour share.<br>
-With this, we manipulate how much income people should invest.<br>
+In reality, today in 2025 the U.S. investment rate is just 4.5%.<br>
+For individuals it's best to invest. For society it's best to consume.<br>
+The share of income is what is confirmed as the allocated to K / L.<br>
+The profits from the investments are the capital share.<br>
+The proportion of GDP paid as wages are the labour share.<br>
+Here, we regulate the disposable income that people should invest.<br>
 
 **Scenario 3:** <br>
 **Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
@@ -227,7 +228,10 @@ The new Savings rate = 3%<br>
 The new capital output ratio = 0.42857<br>
 The new marginal product capital = 0.3<br>
 Here, people save in a rate that gives max consumption.<br>
-With this savings rate, max consumption is also constant.<br><br>
+With this savings rate, max consumption is also constant.<br>
+The savings rate is an excellent lever which we can manipulate.<br>
+
+<br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
