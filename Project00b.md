@@ -120,15 +120,6 @@ Eventually, we get to ▲k = 0, which is the steady state.<br>
 As noted above, in the steady state (SS) we stay at a constant growth.<br>
 Here, there is no momentum for ▲ and capital accumulation is stable.<br>
 Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
-**The Golden Rule SS:** This occurs when we maximise C per L.<br>
-Here, individuals will constantly maximise their consumption.<br>
-**The Golden Rule SS (GRSS):** c* = f(k*) - (Ꟙ + n)k*.<br>
-**Specifically, in the GRSS:** Marginal Product K = Ꟙ + n.<br>
-Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
-Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
-In short, the SS is a steady state but every SS is not a GRSS.<br>
-We aim for the GRSS to maximise consumption overall.<br>
-
 
 **Identifying where to set k with the Equation of Motion:**<br>
 This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
@@ -148,6 +139,14 @@ Instead of testing various settings first, this is the shortcut.<br>
 **11)** c* = (1-s)y* -> c* = (1-3)y* -> c* = (.7)3 -> c* = 2.1.<br>
 **12)** Lastly, i*=sy* -> .3 x 3 = .9, and Ꟙk = .1 x 9 = .9.<br>
 
+**The Golden Rule SS:** This occurs when we maximise C per L.<br>
+Here, individuals will constantly maximise their consumption.<br>
+**The Golden Rule SS (GRSS):** c* = f(k*) - (Ꟙ + n)k*.<br>
+**Specifically, in the GRSS:** Marginal Product K = Ꟙ + n.<br>
+Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
+Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
+In short, the SS is a steady state but every SS is not a GRSS.<br>
+We aim for the GRSS to maximise consumption overall.<br>
 
 
 
