@@ -69,7 +69,7 @@ In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 If we start at equilibrium then decpreciate (ie. with QE):<br>
 Initially Y↑ but this is very much a temporary solution.<br>
 Think of the extra government spending following Covid.<br>
-Next we see: ¶↑, r↑, Money D↑, Overseas Money↑, TB↑, A↑.<br> 
+In Y2 we saw: ¶↑, r↑, Money D↑, Overseas Money↑, TB↑, A↑.<br> 
 
 **Depreciation overall:** The net effect is positive.<br>
 When X are inelastic, EoD remains > 1 so TB↑.<br>
