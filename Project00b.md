@@ -146,7 +146,7 @@ Here, individuals will constantly maximise their consumption.<br>
 Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
 Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
 In short, the SS is a steady state but every SS is not a GRSS.<br>
-Overall, we calculate for the GRSS to maximise steady consumption.<br>
+So we calculate for the GRSS to maximise steady consumption.<br>
 Reserve Banks, Treasuries and Finance Ministers consider this.<br>
 We then may expect them to adjust to the economic conditions.<br>
 If an economy < GRSS, expect high spending. Else, low spending.<br><br>
