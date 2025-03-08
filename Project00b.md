@@ -176,7 +176,7 @@ It means people prefer to invest vs buying McDonalds/beer.<br>
 Therefore, hypothetically, disposable income gets invested.<br>
 As such, we manipulate how much income people should invest.<br>
 
-**Scenario 3:** 
+**Scenario 3:** <br>
 **1) Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
 **2) Share of income is 70%:** 0.7<Br>
 **3) Capital output ratio:** 2<br>
