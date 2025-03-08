@@ -156,7 +156,7 @@ If an economy<GRSS, expect high spending. Else, low spending.<br><br>
 **COBB DOUGLAS FUNCTION:**<br>
 Relating to growth and innovation we can take the above further.<br>
 The Cobb-Douglas function is a model which includes elasticity.<br>
-It also describes the relationship between inputs and output:<br>
+It describes the relationship between inputs and output:<br>
 Y = AK^αL^β. A = Total productivity (based on tech efficiency).<br>
 α = K output elasticity (shows how output ▲s based on K ▲s.<br>
 β = L output elasticity (shows how output ▲s based on L ▲s.<br>
@@ -168,28 +168,64 @@ There is Factor Substitutability: K and L can sub each other.<br>
 If α = 1 and β = 0, output depends entirely on capital.<br>
 If α = 0 and β = 1, output depends entirely on labour.<br>
 If α = β = 0.5, capital and labour contribute equally.<br>
+While the capital-output ratio: K/Y.<br>
+With it we calculate the resulting extra Y per K.<br>
 This is useful to explain GDP growth vs K & L ▲s.<br>
 Now apply this to macro with the Solow Growth Model.<br>
 Instead of using L^β, represent L as N^1-α, where β=1-α.<br>
 Now keep in mind that we believe that people are rational.<br>
 It means people prefer to invest vs buying McDonalds/beer.<br>
-Therefore, hypothetically, disposable income gets invested.<br>
-As such, we manipulate how much income people should invest.<br>
+Disposable income is not necessarily invested, but it can be.<br>
+Therefore, presumably disposable income likely gets invested.<br>
+Share of income is what is confirmed as the allocated to K / L.<br>
+While, the profits from the investments are the capital share.<br>
+And the proportion of GDP paid as wages are the labour share.<br>
+With this, we manipulate how much income people should invest.<br>
 
 **Scenario 3:** <br>
-**1) Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
-**2) Share of income is 70%:** 0.7<Br>
-**3) Capital output ratio:** 2<br>
-**4) Depreciation:** 0.03<br>
-**5) There is no tech growth (A=0), so..** <br>
-**6) GDP growth = L growth(n), which is:** 0.4<br> 
+**Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
+**Share of income is 70%:** 0.7<Br>
+**Capital output ratio:** 2<br>
+**Depreciation:** 0.03<br>
+**There is no tech growth (A=0), so..** <br>
+**GDP growth = L growth(n), which is:** 0.4<br> 
+**STEP#1 Identify the initial savings rate**<br>
+**Steady State function:** S = (1-α) / (1 + g ) - Ꟙ<br>
+**Therefore:** S = (1-0.7) / (1 + 0.04) - 0.03<br>
+**Simplified:** S = (0.3 / 1.04) - 0.03<br>
+**Result:** S = 25.85%<br>
+**STEP#2 Identify Marginal Product Capital**<br>
+MPK = α(Y/K)<br>
+MPK = 0.7(Y/K)<br>
+MPK = 0.7 * 2<br>
+MPK = 1.4<br>
+**STEP#3A Apply shortcut where GRSS = MPK = Ꟙ**<br>
+New savings rate (S') = 0.03<br>
 
-1) Savings Rate<br>
-2) Marginal Product Capital<br>
-**STEADY STATE**<br>
-3) New Savings Rate<br>
-4) New Capital Output Ratio<br>
-5) New Marginal Product Capital in the Golden Rule Steady State<br>
+**STEP#3B The more logical way of calculating s'**<br>
+Because in the steady state: I = Ꟙk, then:<br>
+I = S(0.3) = 0.07755<br>
+I = 0.2585(0.3) = 0.07755<br>
+S' = 0.07755 / 0.03 = 2.585<br>
+S' = 3%<br>
+
+**STEP#4 The new capital output ratio**<br>
+K'/Y' = S' / (n + g + Ꟙ)<br>
+K'/Y' = (0.03 / (0.04 + 0.03))<br>
+K'/Y' = 0.42857<br>
+
+**STEP#5 The new MPK in the GRSS**<br>
+MPK' = ɑ(Y' / K')<br>
+MPK' = 0.7(Y' / K')<br>
+MPK' = 0.7(0.42857)<br>
+MPK' = 0.3<br>
+
+**Result:**<br>
+The new Savings rate = 3%<br>
+The new capital output ratio = 0.42857<br>
+The new marginal product capital = 0.3<br>
+Here, people save in a rate that gives max consumption.<br>
+With this saings rate, max consumption is also sustained!<br><br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
