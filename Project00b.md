@@ -66,7 +66,7 @@ As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
 **MONETARY POLICY:** <br>
-If we start at equilibrium then decpreciates (ie. with QE):<br>
+If we start at equilibrium then decpreciate (ie. with QE):<br>
 Initially Y↑ but this is very much a temporary solution.<br>
 Think of the extra government spending following Covid.<br>
 Next we see: ¶↑, r↑, Money D↑, Overseas Money↑, TB↑, A↑.<br> 
