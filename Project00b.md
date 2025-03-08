@@ -117,12 +117,18 @@ The aim is to ↑national income to ↑productivity, considering:<br>
 **5)** ▲k = i - Ꟙk = .2<br>
 This tells us that after one year, the ▲k is positive = .2<br>
 Eventually, we get to ▲k = 0, which is the steady state.<br>
-At the steady state we will stay at a constant growth.<br>
-There is no momentum for ▲ and capital accumulation is stable.<br>
+As noted above, in the steady state (SS) we stay at a constant growth.<br>
+Here, there is no momentum for ▲ and capital accumulation is stable.<br>
 Therefore, if I > Ꟙk: spend more! & if I < Ꟙk: spend less!<br>
+**The Golden Rule SS:** This occurs when we maximise C per L.<br>
+Here, individuals will constantly maximise their consumption.<br>
+**The Golden Rule SS (GRSS):** c* = f(k*) - (Ꟙ + n)k*.<br>
+**Specifically, in the GRSS:** Marginal Product K = Ꟙ + n.<br>
+Hence, if the economy < GRSS, s&I↑ will Y↑ in the long run.<br>
+Or, if the economy > GRSSS, we are over-investing. s↓ will Y↑.<br>
+In short, the SS is a steady state but every SS is not a GRSS.<br>
+We aim for the GRSS to maximise consumption overall.<br>
 
-
-GO OVER GOLDEN RULE
 
 **Identifying where to set k with the Equation of Motion:**<br>
 This equation shows that sf(k)↑ = K↑; and that Ꟙ↑ = K↓.<br>
