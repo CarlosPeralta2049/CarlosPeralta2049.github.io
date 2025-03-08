@@ -43,7 +43,7 @@ If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
 Or, if elasticity = 0.5, a 30% P reduction = 15% increase in sales.<br>
 Clearly, it's essential to firstly understand price responsiveness.<br>
 **P responsiveness depends on P▲. To calculate this:** <br>
-**1:** Quantity(Q) D▲ / Q D, devided by P▲ / P.<br>
+**1:** Quantity(Q) D▲ / Q D, divided by P▲ / P.<br>
 **2:** %▲Q D / %▲P. 100%/20%: Elasticity of D (EoD) = 5.<br>
 **3:** Therefore, a 1%▲in P 'for 100%*5' = 500%↑ revenue.<br> 
 For example, if NZD↓ 10%, then M costs↑10% & X costs↓10%.<br>
