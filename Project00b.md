@@ -83,9 +83,9 @@ The right policy at the right time increases liquidity safely.<br><br>
 **SOLOW-SWAN MODEL:**<br>
 Economies grow with capital(tools), labour(people), and technology.<br>
 In general, adding more capital(K) or labour(L) increases productivity.<br>
-Diminishing returns: Without better tools, over time L produces less.<br>
+**Diminishing returns:** Without better tools, over time L produces less.<br>
 Investing on its own does not affect growth in the long run.<br>
-Steady state: At this setting we grow steadily over time.<br>
+**Steady state:** At this setting we grow steadily over time.<br>
 Notably, as Investment(I)↑ = K,L↑. And as depreciation↑ = K,L↓.<br>
 Specifically, K grows with I but also depreciates: ▲K = I-ꟘK.<br>
 
