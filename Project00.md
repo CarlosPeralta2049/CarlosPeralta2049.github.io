@@ -72,7 +72,7 @@ U.S. FED can eliminate $900b/pa (with qt).<br>
 U.S. debt increases by $1-2trillion/pa.<br>
 U.S. GDP = $26 trillion.<br>
 U.S. debt to GDP ratio in 2025 = 124%<br>
-U.S. is due to refinance at least $4-5 trillion.<br>
+In 2025 U.S. is due to refinance at least $4-5t.<br>
 The U.S. cannot pay for refinancing with growth.<br>
 Likewise, other economies depend on new debt.<br>
 Global systems do not have the capacity to repay.<br>
