@@ -1,6 +1,6 @@
 # Data Scientist
-#### Tech. Skills: Python, R, SQL, MS Excel, Power BI & Adv. Data Models
-#### Specialisations: Economics, Technical Analysis & Public Housing<br><br>
+#### Tech. Skills: Python, R, SQL, MS Excel, Power BI and Adv. Data Models
+#### Specialisations: Economics, Technical Analysis and Public Housing<br><br>
 
 ### Financial Systems: Quantitative Research and Development
 - **[Concepts: The Individual, Macro, and Global Liquidity](https://carlosperalta2049.github.io/Project00)** <br><br>
