@@ -52,7 +52,7 @@ G borrows from commercial banks. It's not enough.<br>
 Reserve Bank chooses to decrease interest rates (r).<br> 
 Commercial banks borrow from Reserve Bank.<br>
 Commercial banks lend to Government (for bonds).<br>
-Commercial redirect bonds to the Reserve Bank.<br>
+Commercial banks redirect bonds to the Reserve Bank.<br>
 Commercial banks profit from Public Expenditure.<br>
 Commercial banks utilise profits in stock markets.<br>
 New debt for education, health, etc = all assets up.<br>
