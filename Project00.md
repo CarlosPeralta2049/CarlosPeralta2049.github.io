@@ -83,6 +83,7 @@ In 2025 currency debasement is the only possibility.<br>
 Productivity (q) increases lessen currency debasement.<br>
 Natural resource aquisition lessens currency debasement.<br>
 In 2025 we are in the third business cycle year.<br>
+Reducing public debt YoY determine currency debasement.<br>
 An improved system is required by the end of 2030.<br>
 Blockchain technology represents the leading solution.<br>
 
