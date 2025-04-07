@@ -1,5 +1,5 @@
 # Data Scientist
-#### Tech. Skills: Python, R, SQL, MS Excel, Power BI & Adv. A.I. Models
+#### Tech. Skills: Python, R, SQL, MS Excel, Power BI & Adv. A.I. Data Models
 #### Specialisations: Economics, Technical Analysis & Public Housing<br><br>
 
 ### Financial Systems: Quantitative Research and Development
