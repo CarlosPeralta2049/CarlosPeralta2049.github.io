@@ -62,7 +62,7 @@ Later, all assets up = ¶↑ until new public spending halts.<br>
 1971 ended the Bretton Woods agreement.<br>
 A new large financial system cycle resulted.<br>
 Unpegging from gold led to unsustainable spending.<br>
-Business cycles reset and realigned due to Covid.<br>
+Later, business cycles reset / realigned due to Covid.<br>
 More economies are now on similar business cycles.<br>
 Business cycles mature over a period of four years.<br>
 Global debt equal to $27 trillion expires in 2025.<br>
