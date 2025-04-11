@@ -79,10 +79,10 @@ Global systems do not have the capacity to repay.<br>
 Refinancing debt every 4-5 years = inevitable.<br>
 Spending on education, health, war, etc = must.<br>
 Refinancing debt = Public Expenditure = All assets↑.<br>
-In 2025 currency debasement is the only possibility.<br>
+In 2025 currency debasement is the only option.<br>
 Productivity (q) increases lessen currency debasement.<br>
 Natural resource aquisition lessens currency debasement.<br>
-Reducing public debt also lessesns currency debasement.<br>
+Reducing public debt also lessens currency debasement.<br>
 In 2025 we are in the third business cycle year.<br>
 An improved system is required by the end of 2030.<br>
 Blockchain technology represents the leading solution.<br>
