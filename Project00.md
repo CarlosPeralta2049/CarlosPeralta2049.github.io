@@ -91,7 +91,7 @@ Blockchain technology represents the leading solution.<br>
 Solution to investing in general: Buy and hold over a year.<br>
 Solution to the financial system: Expand blockchain tech.<br>
 Simplest solution to low q from low birth rates: Expand A.I.<br>
-Difficult q solution: Public policy to prioritise family unit.<br>
+Difficult solution to q: Public policy to prioritise family unit.<br>
 <br>
 <br>
 <br>
