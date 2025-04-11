@@ -47,16 +47,16 @@ Debts expire periodically and generally refinance.<br>
 As GDP reduces, Employment (N) reduces; CPI (¶) falls.<br>
 Govt stimulates with fiscal policy (Public Spending).<br>
 Reserve Bank (RB) increases Money Supply (M2).<br>
-Govt (G) cannot borrow from Reserve Banks directly.<br>
-G borrows from commercial banks who borrow from RB.<br>
+Govt cannot borrow from Reserve Banks directly.<br>
+Govt request to borrow from commercial banks.<br>
 Reserve Bank chooses to decrease interest rates (r).<br> 
 Commercial banks borrow from Reserve Bank.<br>
 Commercial banks lend to Government (for bonds).<br>
 Commercial banks redirect bonds to the Reserve Bank.<br>
 Commercial banks profit from Public Expenditure.<br>
 Commercial banks utilise profits in stock markets.<br>
-New debt for education, health, etc = all assets up.<br>
-All assets up = ¶↑ until new public spending halts.<br>
+New debt for education, health, war, etc = all assets up.<br>
+Later, all assets up = ¶↑ until new public spending halts.<br>
 
 ### GLOBAL LIQUIDITY
 1971 ended the Bretton Woods agreement.<br>
