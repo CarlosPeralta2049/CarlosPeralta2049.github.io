@@ -40,7 +40,7 @@ As a country's prosperity rises, natural births decline.<br>
 The core problem of output are declining birth rates.<br>
 Immigration has not been able to solve growth.<br>
 Negative debt to GPD ratios are on the rise.<br>
-The primary solution has been Q = KL * Debt.<br>
+The primary solution has been q = KL * Debt.<br>
 Debt + debt interests = more spending year on year.<br>
 Debts expire periodically and generally refinance.<br>
 
