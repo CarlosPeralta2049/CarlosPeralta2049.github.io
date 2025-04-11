@@ -31,7 +31,7 @@ For growth, technology has the highest utility factor.<br>
 Only technology holds significant growth over time.<br>
 
 GDP = Consumption + Govt + Investment + Net Exports.<br>
-To increase revenue we require productivity or taxes.<br>
+To increase revenue countries require productivity or taxes.<br>
 Developed economies' productivity continues to reduce.<br>
 Productivity output (q) = KL; K = Capital; L = Labour.<br>
 K & L are affected by population (g) & technology (A).<br>
