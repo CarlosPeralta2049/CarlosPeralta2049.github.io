@@ -46,7 +46,7 @@ Debts expire periodically and generally refinance.<br>
 
 As GDP reduces, Employment (N) reduces; CPI (¶) falls.<br>
 Govt stimulates with fiscal policy (Public Spending).<br>
-Reserve Bank (RB) chooses to increase Money Supply (M2).<br>
+Reserve Bank (RB) increases Money Supply (M2).<br>
 Govt (G) cannot borrow from Reserve Banks directly.<br>
 G borrows from commercial banks who borrow from RB.<br>
 Reserve Bank chooses to decrease interest rates (r).<br> 
