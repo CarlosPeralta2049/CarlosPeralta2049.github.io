@@ -36,7 +36,7 @@ Developed economies' productivity continues to reduce.<br>
 Productivity output (q) = KL; K = Capital; L = Labour.<br>
 K & L are affected by population (g) & technology (A).<br>
 K is also seen as delayed Labour; q = delayed L * L.<br>
-As prosperity rises, natural births decline.<br>
+As a country's prosperity rises, natural births decline.<br>
 The core problem of output are declining birth rates.<br>
 Immigration has not been able to solve growth.<br>
 Negative debt to GPD ratios are on the rise.<br>
