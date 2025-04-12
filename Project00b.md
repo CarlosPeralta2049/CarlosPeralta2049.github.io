@@ -37,12 +37,13 @@ A 10% USD depreciation = U.S. products are 10% cheaper to world.<br>
 USD fluctuations affect product costs based on buyer location.<br>
 **If the value of 1 USD and 1 NZD were initially the same:**<br>
 **U.S. firm buys U.S. input product:** If USD↑ 100% = Firm's costs↑<br>
-**Y1:** Costs = no▲; **Y2:** costs @ 200%; U.S. input costs rise.<br>
+**Y1:** Costs = no▲; **Y2:** costs @ 200%; input costs relatively rise.<br>
 **U.S. firm buys NZ input product:** If USD↑ 100% = Firm's costs↓<br>
-**Y1:** Costs = no▲; **Y2:** costs @ 50%; U.S. input costs fall.<br>
+**Y1:** Costs = no▲; **Y2:** costs @ 50%; input costs relatively fall.<br>
 **The opposite is true of USD depreciation on a firm's costs:**<br>
 If USD↓ 50%, it would now buy half as much NZD for that NZ input.<br>
 If the input is from NZ, it would cost the U.S. firm $200 USD.<br>
+Hence, appreciation may be sustained only if demand is sustained.<br>
 
 **To become competitive we depreciate using one of three methods:** <br><br>
 **ELASTICITY (Price(P) responsiveness):** <br>
