@@ -46,7 +46,7 @@ If the input is from NZ, it would cost the U.S. firm $200 USD.<br>
 Hence, appreciation is mainly beneficial if demand is sustained.<br>
 While depreciation raises external demand for domestic products.<br>
 
-**To become competitive we depreciate using one of three methods:** <br>
+**To be competitive we depreciate with:** <br>
 **ELASTICITY (Price(P) responsiveness):** <br>
 When D > 1, we reduce our input costs↓ to increase revenue.<br>
 If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
