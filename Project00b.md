@@ -299,7 +299,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **15)** Household consumption is reduced at every future period.<br>
 
 #### POSITIVE SHOCK IN AGGREGATE DEMAND (AD):
-**A BOOM RESULTING FROM CONSTRUCTION OF NEW HOUSING**
+**A BOOM RESULTING FROM CONSTRUCTION OF NEW HOUSING**<br>
 **1)** This shock is explained with the multiplier diagram and the PC.<br>
 **2)** The multiplier diagram refers to the effect from various changes.<br>
 **3)** That includes ▲s in C, PE, or I, following the use of FP.<br>
