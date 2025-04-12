@@ -167,7 +167,7 @@ So we calculate for the GRSS to maximise steady consumption.<br>
 Reserve Banks, Treasuries and Finance Ministers consider this.<br>
 We then may expect them to adjust to the economic conditions.<br>
 If an economy<GRSS, expect high spending. Else, low spending.<br><br>
-
+If Y = consistantly low (we are saving too much) spend more.<br>
 
 **COBB DOUGLAS FUNCTION:**<br>
 Relating to growth and innovation we can take the above further.<br>
