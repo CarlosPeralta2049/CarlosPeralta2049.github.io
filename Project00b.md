@@ -64,6 +64,9 @@ Where >1 = luxurious and the NZD became cheap against all.<br>
 **NOTE:** Consider the J-Curve effect which tells:<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
+In general, depreciation increases the trade balance.<br>
+However, this also like ¶ domestically relating to imports.<br>
+Nationally, depreciation grows the economy and liquidity↑.<br>
 
 **2) ABSORBTION** <br>
 Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
