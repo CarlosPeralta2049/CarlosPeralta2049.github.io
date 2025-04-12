@@ -179,25 +179,25 @@ It describes the relationship between inputs and outputs:<br>
 We consider Constant Returns to Scale (RTS): α + β = 1.<br>
 While if α + β > 1, there are increasing RTS.<br>
 And if α + β < 1, there are decreasing RTS.<br>
-There is Marginal Productivity: There are diminishing returns.<br>
+There is Marginal Productivity with diminishing returns.<br>
 There is Factor Substitutability: K and L can sub each other.<br>
 If α = 1 and β = 0, output depends entirely on capital.<br>
 If α = 0 and β = 1, output depends entirely on labour.<br>
 If α = β = 0.5, capital and labour contribute equally.<br>
-While the capital-output ratio: K/Y.<br>
+We also have the capital-output ratio: K/Y.<br>
 With it we calculate the resulting extra Y per K.<br>
 This is useful to explain GDP growth vs K & L ▲s.<br>
 Now apply this to macro with the Solow Growth Model.<br>
 Instead of using L^β, represent L as N^1-α, where β=1-α.<br>
-Now keep in mind that we believe that people are rational.<br>
+Consider that here we believe that people are rational.<br>
 It means people prefer to invest vs buying McDonalds/beer.<br>
 Disposable income is not necessarily invested, but it can be.<br>
 In reality, today in 2025 the U.S. investment rate is just 4.5%.<br>
 For individuals it's best to invest. For society it's best to consume.<br>
-The share of income is what is confirmed as the allocated to K / L.<br>
+The share of income is what is confirmed as the allocation to K / L.<br>
 The profits from the investments are the capital share.<br>
 The proportion of GDP paid as wages are the labour share.<br>
-Here, we regulate the disposable income that people should invest.<br>
+With this we regulate the disposable income that people should invest.<br>
 
 **Scenario 3:** <br>
 **Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
