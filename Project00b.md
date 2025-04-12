@@ -194,10 +194,14 @@ It means people prefer to invest vs buying McDonalds/beer.<br>
 Disposable income is not necessarily invested, but it can be.<br>
 In reality, today in 2025 the U.S. investment rate is just 4.5%.<br>
 For individuals it's best to invest. For society it's best to consume.<br>
-The share of income is what is confirmed as the allocation to K / L.<br>
-The profits from the investments are the capital share.<br>
-The proportion of GDP paid as wages are the labour share.<br>
-With this we regulate the disposable income that people should invest.<br>
+The share of income is the share that goes to each, K or L.<br>
+Here, profits from the investments are the capital share.<br>
+Likewise, the proportion of GDP paid as wages are the labour share.<br>
+Here we influence the disposable income amounts that people should invest.<br>
+
+
+
+
 
 **Scenario 3:** <br>
 **Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
