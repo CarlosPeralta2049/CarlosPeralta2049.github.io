@@ -1,4 +1,3 @@
-**IN PROGRESS**<br>
 **Objective:** To highlight advanced concepts
 
 #### EXCHANGE RATE SYSTEMS:<br>
