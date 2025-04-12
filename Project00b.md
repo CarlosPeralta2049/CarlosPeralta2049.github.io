@@ -274,7 +274,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **14)** At G the economy is now held at a positive Y gap (Policy Rule).<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_06.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **15)** We now must consider how Investment is sensitive to changes in r.<br>
-**16)** Over time MP's effect from r▲s may be too weak if the shock is strong.<br>
+**16)** Over time MP's effect from r▲s may be too weak if a shock is strong.<br>
 **17)** Below, see how MP's power has weakened recently decade over decade.<br>
 **18)** Starting in the 80s their wiggle room to set r has only decreased.<br>
 **18)** Specifically, economies are in greater debt with greater service costs.<br>
