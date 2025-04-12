@@ -100,12 +100,12 @@ The right policy at the right time increases liquidity safely.<br><br>
 Economies grow with capital(tools), labour(people), and technology.<br>
 In general, adding more capital(K) or labour(L) increases productivity.<br>
 **Diminishing returns:** Without better tools, over time L produces less.<br>
-Investing on its own does not affect growth in the long run.<br>
+Investing more affects growth in the short run, not in the long run.<br>
 **Steady state:** At this setting we grow steadily over time.<br>
 Notably, as Investment(I)↑ = K,L↑. And as K depreciation(Ꟙ)↑ = K,L↓.<br>
 Specifically, K grows with I but also depreciates over time: ▲K = I-ꟘK.<br>
 
-The aim is to ↑national income to ↑productivity, considering:<br>
+**The aim is to ↑national income to ↑productivity, considering:**<br>
 **1:** As population growth↑ = L↑. This raises consumption.<br>
 **2:** Our price per worker is measured by dividing by L.<br>
 **3:** Y = f(K,L) gives y = Y / L **and** k = K / L.<br>
