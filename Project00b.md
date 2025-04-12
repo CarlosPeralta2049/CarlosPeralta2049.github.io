@@ -173,9 +173,9 @@ If Y = consistantly low (we are saving too much) spend more.<br><br>
 Relating to growth and innovation we can take the above further.<br>
 The Cobb-Douglas function is a model which includes elasticity.<br>
 It describes the relationship between inputs and outputs:<br>
-Y = AK^αL^β. A = Total productivity (based on tech efficiency).<br>
-α = K output elasticity (shows how output ▲s based on K ▲s.<br>
-β = L output elasticity (shows how output ▲s based on L ▲s.<br>
+**Y** = AK^αL^β. **A** = Total productivity (based on tech efficiency).<br>
+**α** = K output elasticity (shows how output ▲s based on K ▲s.<br>
+**β** = L output elasticity (shows how output ▲s based on L ▲s.<br>
 We consider Constant Returns to Scale (RTS): α + β = 1.<br>
 While if α + β > 1, there are increasing RTS.<br>
 And if α + β < 1, there are decreasing RTS.<br>
