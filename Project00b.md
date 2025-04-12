@@ -35,7 +35,7 @@ Tight controls over capital regulates its e and monetary policy.<br>
 U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
 A 10% USD depreciation = U.S. products are 10% cheaper to world.<br>
 USD fluctuations affect product costs based on buyer location.<br>
-**If for example, the value of 1 USD and 1 NZD were initially the same:**
+**If for example, the value of 1 USD and 1 NZD were initially the same:**<br>
 **U.S. firm buys U.S. input product:** If USD↑ 100% = Firm's costs↑<br>
 **Y1:** Costs = no▲; **Y2:** costs @ 200%; U.S. input costs rise.<br>
 **U.S. firm buys NZ input product:** If USD↑ 100% = Firm's costs↓<br>
