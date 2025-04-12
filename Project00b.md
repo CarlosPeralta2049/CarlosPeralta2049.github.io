@@ -306,7 +306,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **4)** The multiplier diagram, PE likely increased & stimulated AD.<br>
 **5)** The rise in AD raised real GDP then causing the housing boom.<br>
 **6)** This is shown below in the multiplier diagram in 1 period only.<br><br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_08.jpg" alt="Sample Image" width="400" height="400"><br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_08.jpg" alt="Sample Image" width="400" height="800"><br><br>
 **7)** Above the multiplier diagran we find the PC diagram (N vs ¶).<br>
 **8)** We asume G's did this as it saw ¶ was under control at 2%.<br>
 **9)** This boom resulted a single period; we exclude W as a cause.<br>
