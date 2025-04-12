@@ -270,8 +270,8 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **10)** This is why govt must step in with fiscal policy (spending).<br>
 **11)** Below at B, FP moves the IS Curve to the right at point G (IS'').<br>
 **12)** This allows the CB to set rates at 0% @ ¶1 and Y1 (both positive).<br>
-**13)** From point G inflation is now positive, making MP effective again.<br>
-**14)** At point G the economy is now held at a positive Y gap (Policy Rule).<br><br>
+**13)** At G inflation is positive again, making MP effective again.<br>
+**14)** At G the economy is now held at a positive Y gap (Policy Rule).<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_06.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **15)** We now must consider how Investment is sensitive to changes in r.<br>
 **16)** Over time MP's effect from r▲s may be too weak if the shock is strong.<br>
