@@ -279,7 +279,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **18)** Starting in the 80s their wiggle room to set r has only decreased.<br>
 **18)** Specifically, economies are in greater debt with greater service costs.<br>
 **19)** After enough shocks, stimulus from the PR may be far too inflationary.<br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="495" height="350"><br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="495" height="300"><br><br>
 
 
 
