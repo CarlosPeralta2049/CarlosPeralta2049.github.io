@@ -28,7 +28,8 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **Euro Depriciation:** Not sustained due to q↓. Global liquidity falls.<br>
 **RNB Depriciation:** Sustained by q↑. Global liquidity rises.<br>
 **U.S. events to look out for:** Aquisition of resources & military expansion.<br>
-**Chinese events to look out for:** Transitions from low to high value added products.<br>
+**European events to look out for:** Transition to blockchain technology.<br>
+**Chinese events to look out for:** Transition to high value added products.<br>
 
 #### HOW CURRENCY DEPRECIATION AFFECTS TRADE DEFICITS
 U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
