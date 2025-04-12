@@ -272,13 +272,13 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **12)** This allows the CB to set rates at 0% @ ¶1 and Y1 (both positive).<br>
 **13)** From point G inflation is now positive, making MP effective again.<br>
 **14)** At point G the economy is now held at a positive Y gap (Policy Rule).<br>
-
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_06.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **15)** We now must consider how Investment is sensitive to changes in r.<br>
 **16)** Over time MP's effect from r▲s may be too weak if the shock is strong.<br>
 **17)** Below we see how MP's power has weakened recently decade over decade.<br>
 **18)** Specifically, economies are in greater debt with greater service costs.<br>
 **19)** After enough shocks, stimulus from the PR may be far too inflationary.<br>
-
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="400" height="400"><br><br>
 
 
 
