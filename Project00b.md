@@ -1,5 +1,5 @@
 **IN PROGRESS**<br>
-**Objective:** To highlight advanced concepts for consideration
+**Objective:** To highlight advanced concepts
 
 #### EXCHANGE RATE SYSTEMS:<br>
 The three goals of exchange rate (e) systems are:<br>
@@ -27,6 +27,8 @@ Tight controls over capital regulates its e and monetary policy.<br>
 **USD Depriciation:** Sustained by USD D↑. Global liquidity rises.<br>
 **Euro Depriciation:** Not sustained due to q↓. Global liquidity falls.<br>
 **RNB Depriciation:** Sustained by q↑. Global liquidity rises.<br>
+**U.S. events to look out for:** Aquisition of resources & military expansion.<br>
+**Chinese events to look out for:** Transitions from low to high value added products.<br>
 
 #### HOW CURRENCY DEPRECIATION AFFECTS TRADE DEFICITS
 U.S. Imports(M) > Exports (X) = Trade deficit = not competitive.<br>
