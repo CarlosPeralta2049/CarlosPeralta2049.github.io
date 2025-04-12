@@ -252,8 +252,8 @@ Assuming we favour society, we encourage consumption.<br>
 Assuming we favour individuals, we encourage saving.<br>
 In any case, this gives an indicator for public spending.<br>
 It highlights the kind of public spending we may see.<br>
-Defense spending pushes often technology forward.<br>
-Social programs tend to stimulate shortrun growth.<br>
+I.e. Defense spending pushes often technology forward.<br>
+Or, social programs tend to stimulate shortrun growth.<br>
 <br>
 
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
