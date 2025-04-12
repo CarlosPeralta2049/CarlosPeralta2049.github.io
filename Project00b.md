@@ -278,7 +278,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **17)** Below, see how MP's power has weakened recently decade over decade.<br>
 **18)** Specifically, economies are in greater debt with greater service costs.<br>
 **19)** After enough shocks, stimulus from the PR may be far too inflationary.<br>
-<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="400" height="400"><br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="450" height="400"><br><br>
 
 
 
