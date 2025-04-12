@@ -44,6 +44,7 @@ USD fluctuations affect product costs based on buyer location.<br>
 If USD↓ 50%, it would now buy half as much NZD for that NZ input.<br>
 If the input is from NZ, it would cost the U.S. firm $200 USD.<br>
 Hence, appreciation may be sustained only if demand is sustained.<br>
+Whereas depreciation increases external demand for domestic products.<br>
 
 **To become competitive we depreciate using one of three methods:** <br><br>
 **ELASTICITY (Price(P) responsiveness):** <br>
