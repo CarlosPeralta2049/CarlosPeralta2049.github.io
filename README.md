@@ -4,7 +4,7 @@
 
 ### Financial Systems: Quantitative Research and Development
 - **[Concepts: The Individual, Macro, and Global Liquidity](https://carlosperalta2049.github.io/Project00)** <br><br>
-An Economic Perspective for Friends and Family<br><br>
+Key economic concepts to look out for<br><br>
 - **[Economic Analysis: Macroeconomics & Liquidity](https://carlosperalta2049.github.io/Project01)** <br><br>
 Python, Webscraping, RestAPIs, Economics, Statistics<br><br>
 - **[Financial Analysis: Fundamental & Technical](https://carlosperalta2049.github.io/Project02)** <br><br>
