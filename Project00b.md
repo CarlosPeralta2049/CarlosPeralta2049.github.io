@@ -256,7 +256,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 <br>
 
 **THE 3-EQUATION MODEL:** <br>
-**NEGATIVE AGGREGATE DEMAND SHOCK & THE DEFLATIONARY TRAP**<br>
+**NEGATIVE AGGREGATE DEMAND SHOCK & DEFLATIONARY TRAP**<br>
 **1)** A negative aggregate demand (AD) shock occurs (think COVID).<br>
 **2)** Inflation falls from point A to a point of deflation at point B.<br>
 **3)** Central Banks and govts intervene to escape this deflation trap.<br>
