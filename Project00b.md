@@ -46,8 +46,8 @@ If the input is from NZ, it would cost the U.S. firm $200 USD.<br>
 Hence, appreciation is mainly beneficial if demand is sustained.<br>
 While depreciation raises external demand for domestic products.<br>
 
-**To be competitive we depreciate with:** <br>
-**ELASTICITY (Price(P) responsiveness)** <br>
+**TO BE COMPETITIVE WE DEPRECIATE WITH:** <br>
+**1) ELASTICITY (Price(P) responsiveness)** <br>
 When D > 1, we reduce our input costs↓ to increase revenue.<br>
 If elasticity = 2, a 30% P reduction = 60% increase in sales.<br>
 Or, if elasticity = 0.5, a 30% P reduction = 15% increase in sales.<br>
@@ -64,7 +64,7 @@ If X EoD = 1.8 then we NZD↓ 10%, our Trade balance(TB)↑ 18%.<br>
 At EoD > 1 and NZD↓: Short-run TB↓ but long-run TB↑.<br>
 In Y1 TB▲s, but not P. TB↑ surplus appears in 2 years.<br>
 
-**ABSORBTION** <br>
+**2) ABSORBTION** <br>
 Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
 TB, which = X - M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
@@ -75,7 +75,7 @@ Reducing money in circulation will lower M, improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
-**MONETARY POLICY** <br>
+**3) MONETARY POLICY** <br>
 If we start at equilibrium then decpreciate (ie. with QE):<br>
 Initially Y↑ but this is very much a temporary solution.<br>
 Think of the extra government spending following Covid.<br>
