@@ -72,10 +72,10 @@ Nationally, depreciation grows the economy and liquidity↑.<br>
 Absorbtion(A) = C + I + G: This asummes all products are sold.<br>
 TB, which = X - M = Y - A, and can be positive or negative.<br>
 Here, depreciation will only improve TB if Y > A (Y↑ or A↓).<br>
-If Unemployment(U) = high, we have idle L, so depreciate!<br>
+When unemployment(U) = high, we have idle L so depreciate!<br>
 Depreciating will make us competitive and create jobs.<br>
-Or, if U = low (L = low) reduce A! we are spending too much.<br>
-Reducing money in circulation will lower M, improving the TB.<br>
+Or, if U = low (ie. sub 5%), reduce A! we are spending too much.<br>
+This reduces circulating money, lowering M and improving the TB.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
