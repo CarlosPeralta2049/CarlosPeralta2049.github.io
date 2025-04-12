@@ -1,4 +1,4 @@
-**Objective:** To highlight advanced concepts
+**Objective:** To highlight intermediate-advanced concepts
 
 #### EXCHANGE RATE SYSTEMS:<br>
 The three goals of exchange rate (e) systems are:<br>
