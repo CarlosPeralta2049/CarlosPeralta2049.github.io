@@ -82,15 +82,16 @@ In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
 **3) MONETARY POLICY** <br>
 If we start at equilibrium then decpreciate (ie. with QE):<br>
-Initially Y↑ but this is very much a temporary solution.<br>
+Helicopter money does work to stimulate the economy.<br>
+Initially in Y1: Y↑ but this was a temporary solution.<br>
 Think of the extra government spending following Covid.<br>
 In Y2 we saw: ¶↑, r↑, Money D↑, Overseas Money↑, TB↑, A↑.<br> 
 
 **Depreciation overall:** The net effect is positive.<br>
-When X are inelastic, EoD remains > 1 so TB↑.<br>
+When X are inelastic, EoD remains > 1 then TB will continue to ↑.<br>
 If employment is too Low, we let others invest in NZ so TB↑.<br>
 If employment is too high, we lower govt spending so TB↑.<br>
-If PE↑, we stimulate with lower X P; in the long run this TB↑.<br>
+If PE↑, we stimulate by lowering X P; in the long run this TB↑.<br>
 Awareness of these tools increases our productivity globally.<br>
 The right policy at the right time increases liquidity safely.<br><br>
 
