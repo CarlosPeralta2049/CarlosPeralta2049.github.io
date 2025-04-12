@@ -259,13 +259,13 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **NEGATIVE AGGREGATE DEMAND SHOCK & DEFLATIONARY TRAP**<br>
 **1)** A negative aggregate demand (AD) shock occurs (think COVID).<br>
 **2)** Inflation falls from point A to a point of deflation at point B.<br>
-**3)** Central Banks and govts intervene to escape this deflation trap.<br>
-**4)** The strength of the shock is given by output levels in point B.<br>
-**5)** In the Philips Curve (¶ vs N), employment is now negative at B.<br>
-**6)** The IS Curve shifted left, investments are↓ in the short-term.<br>
+**3)** The strength of the shock is given by output levels in point B.<br>
+**4)** In the Philips Curve (¶ vs N), employment is now negative at B.<br>
+**5)** The IS Curve shifted left, investments are↓ in the short-term.<br>
+**6)** Central Banks and govts intervene to escape this deflation trap.<br>
 **7)** From B, the CB reduces the OCR to stimulate the economy to C.<br>
-**8)** Even at point C the PC is negative. Reducing rates to 0% failed!<br>
-**9)** Reducing rates to zero is not enough! it's the deflationary trap.<br><br>
+**8)** At point C PC is still negative. Reducing rates to 0% failed!<br>
+**9)** This is the deflationary trap as CBs can't do anything.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_05.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **10)** This is why govt must step in with fiscal policy (spending).<br>
 **11)** At B, FP can move the IS Curve to the right at point G (IS'').<br>
