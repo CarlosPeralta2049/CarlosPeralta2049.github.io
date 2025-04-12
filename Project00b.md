@@ -40,7 +40,7 @@ USD fluctuations affect product costs based on buyer location.<br>
 **Y1:** Costs = no▲; **Y2:** costs @ 200%; U.S. input costs rise.<br>
 **U.S. firm buys NZ input product:** If USD↑ 100% = Firm's costs↓<br>
 **Y1:** Costs = no▲; **Y2:** costs @ 50%; U.S. input costs fall.<br>
-The opposite is true of USD depreciation on a firm's costs:<br>
+**The opposite is true of USD depreciation on a firm's costs:**<br>
 If USD↓ 50%, it would now buy half as much NZD for that NZ input.<br>
 If the input is from NZ, it would cost the U.S. firm $200 USD.<br>
 
