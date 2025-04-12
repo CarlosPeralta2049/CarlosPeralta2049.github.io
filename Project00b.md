@@ -197,7 +197,7 @@ For individuals it's best to invest. For society it's best to consume.<br>
 The share of income is the share that goes to each, K or L.<br>
 Here, profits from the investments are the capital share.<br>
 Likewise, the proportion of GDP paid as wages are the labour share.<br>
-Here we set the disposable income amounts that people should invest.<br>
+Here we inflience the disposable income that people should invest.<br>
 
 **Scenario 3:** <br>
 **Cobb Douglas function:** Y = AK^ɑN^1- ɑ<br>
