@@ -76,6 +76,7 @@ When unemployment(U) = high, we have idle L so depreciate!<br>
 Depreciating will make us competitive and create jobs.<br>
 Or, if U = low (ie. sub 5%), reduce A! we are spending too much.<br>
 This reduces circulating money, lowering M and improving the TB.<br>
+Here we want people to afford to buy less things as U = too low.<br>
 As buyer willingness to pay is based on P, firms absorb costs.<br>
 In this situation, the %▲M P < %▲e, which is why TB improves.<br>
 
