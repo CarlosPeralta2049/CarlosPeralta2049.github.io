@@ -265,7 +265,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **6)** Central Banks and govts intervene to escape this deflation trap.<br>
 **7)** From B, the CB reduces the OCR to stimulate the economy to C.<br>
 **8)** At point C PC is still negative. Reducing rates to 0% failed!<br>
-**9)** This is the deflationary trap as CBs here are powerless.<br><br>
+**9)** This is the deflationary trap as CBs here are ineffective.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_05.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **10)** This is why govt must step in with fiscal policy (spending).<br>
 **11)** At B, FP can move the IS Curve to the right at point G (IS'').<br>
