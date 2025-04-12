@@ -255,8 +255,8 @@ I.e. Defense spending pushes often technology forward.<br>
 Or, social programs tend to stimulate shortrun growth.<br>
 <br>
 
-**THE 3-EQUATION MODEL:** <br>
-**NEGATIVE AGGREGATE DEMAND SHOCK & DEFLATIONARY TRAP**<br>
+#### THE 3-EQUATION MODEL: NEGATIVE AGGREGATE DEMAND SHOCK<br>
+**FINANCING STIMULUS THROUGH BORROWING VS DEFLATIONARY TRAP**<br>
 **1)** A negative aggregate demand (AD) shock occurs (think COVID).<br>
 **2)** Inflation falls from point A to a point of deflation at point B.<br>
 **3)** The strength of the shock is given by output levels in point B.<br>
@@ -281,14 +281,49 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **19)** After enough shocks, stimulus from the PR may be far too inflationary.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_07.jpg" alt="Sample Image" width="495" height="300"><br><br>
 
+**FINANCING STIMULUS WITH TAXES**<br>
+**1)** Here we also deal with Keynesian consumption behaviour.<br>
+**2)** However, this stimulus is financed by taxes.<br>
+**3)** This has a multiplier of 1, whereas borrowing had >1.<br>
+**4)** In this approach we reduce deficits with a budget surplus.<br>
+**5)** Here, the short-term effect is that AD and Y must fall.<br>
+**6)** Specifically, T↑ reduced disposable income.<br>
+**7)** This shifted the IS curve left, reducing Y.<br>
+**8)** In the medium-run, Y↓ as well as r.<br>
+**9)** Following this is a reduction in tax revenue.<br>
+**10)** ↓pressure from WS-PS curves would raise U.<br>
+**11)** Welfare costs would increase.<br>
+**12)** In the long-term this strategy lower Y.<br>
+**13)** Specifically, Y does not go beyond the original level.<br>
+**14)** The reason is that taxes increased & ¶ is positive at Ye.<br>
+**15)** Household consumption is reduced at every future period.<br>
+
+#### POSITIVE SHOCK IN AGGREGATE DEMAND (AD):
+**A BOOM RESULTING FROM CONSTRUCTION OF NEW HOUSING**
+**1)** This shock is explained with the multiplier diagram and the PC.<br>
+**2)** The multiplier diagram refers to the effect from various changes.<br>
+**3)** That includes ▲s in C, PE, or I, following the use of FP.<br>
+**4)** The multiplier diagram, PE likely increased & stimulated AD.<br>
+**5)** The rise in AD raised real GDP then causing the housing boom.<br>
+**6)** This is shown below in the multiplier diagram in 1 period only.<br><br>
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_08.jpg" alt="Sample Image" width="400" height="400"><br><br>
+**7)** Above the multiplier diagran we find the PC diagram (N vs ¶).<br>
+**8)** We asume G's did this as it saw ¶ was under control at 2%.<br>
+**9)** This boom resulted a single period; we exclude W as a cause.<br>
+**10)** The path that occurs in the first period is seen in the PC.<br>
+**11)** The PC shows A(2%¶) and B(3%¶). The boom took us from A to B.<br>
+**12)** The PC also shows indiference curves (the blue circles).<br>
+**13)** Circles further away from the center = the greater the loss.<br>
+**14)** The greater the level of loss, the lower the level of utility.<br>
+**15)** As such, we see A = lower loss, and therefore is preferred.<br>
+**16)** Next, we know that the Reserve Bank (RB) has only 2 mandates.<br>
+**17)** It must bring ¶ to 2%, and keep N near its natural level.<br>
+**18)** Relative to L, B's loss is too high, and r is also too high.<br>
+**19)** Therefore RB will want to bring ¶ back to 2%, and N to A.<br>
+**20** The RB will achieve these objectives by raising r.<br>
 
 
 
-##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
-##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
-##### THE LOSS FUNCTION
-##### SMALL OPEN ECONOMY: NEGATIVE DEMAND SHOCK
-##### 3EQUATION MODEL: STIMULUS FROM BORROWING
-##### 3EQUATION MODEL: STIMULUS FROM RAISING TAXES
-##### RATIONAL EXPECTATIONS: STIMULUS FROM BORROWING
-##### POSITIVE SHOCK IN AGGREGATE DEMAND FROM A BOOM FROM CONSTRUCTION OF NEW HOUSING
+
+
+
