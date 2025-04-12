@@ -250,8 +250,7 @@ Clearly, with the savings rate we influence GDP growth.<br>
 But do we want what's best for society or the individual?<br>
 Assuming we favour society, we encourage consumption.<br>
 Assuming we favour individuals, we encourage saving.<br>
-In any case, this gives an indicator for public spending.<br>
-It highlights the kind of public spending we may see.<br>
+This is a useful tool that helps forecast public spending.<br>
 I.e. Defense spending pushes often technology forward.<br>
 Or, social programs tend to stimulate shortrun growth.<br>
 <br>
