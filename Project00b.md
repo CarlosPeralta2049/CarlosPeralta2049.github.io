@@ -255,6 +255,33 @@ I.e. Defense spending pushes often technology forward.<br>
 Or, social programs tend to stimulate shortrun growth.<br>
 <br>
 
+**3-EQUATION MODEL: NEGATIVE.AGG.DEMAND SHOCK & THE DEFLATIONARY TRAP**<br>
+**1)** A negative aggregate demand (AD) shock occurs (think COVID).<br>
+**2)** Inflation falls from point A to a point of deflation at point B.<br>
+**3)** Central Banks and govts intervene to escape this deflation trap.<br>
+**4)** The strength of the shock is given by output levels in point B.<br>
+**5)** In the Philips Curve (¶ vs N), employment is now negative at B.<br>
+**6)** The IS Curve shifted left, investments are↓ in the short-term.<br>
+**7)** From B, the CB reduces the OCR to stimulate the economy to C.<br>
+**8)** Even at point C the PC is negative. Reducing rates to 0% failed!<br>
+**9)** Reducing rates to zero is not enough! it's the deflationary trap.<br>
+
+**10)** This is why govt must step in with fiscal policy (spending).<br>
+**11)** At B, FP can move the IS Curve to the right at point G (IS'').<br>
+**12)** This allows the CB to set rates at 0% @ ¶1 and Y1 (both positive).<br>
+**13)** From point G inflation is now positive, making MP effective again.<br>
+**14)** At point G the economy is now held at a positive Y gap (Policy Rule).<br>
+
+**15)** We now must consider how Investment is sensitive to changes in r.<br>
+**16)** Over time MP's effect from r▲s may be too weak if the shock is strong.<br>
+**17)** Below we see how MP's power has weakened recently decade over decade.<br>
+**18)** Specifically, economies are in greater debt with greater service costs.<br>
+**19)** After enough shocks, stimulus from the PR may be far too inflationary.<br>
+
+
+
+
+
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE DEMAND SHOCK
 ##### SMALL OPEN ECONOMY W. FLEXIBLE E: POSITIVE SUPPLY SHOCK
 ##### THE LOSS FUNCTION
