@@ -266,7 +266,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **7)** From B, the CB reduces the OCR to stimulate the economy to C.<br>
 **8)** Even at point C the PC is negative. Reducing rates to 0% failed!<br>
 **9)** Reducing rates to zero is not enough! it's the deflationary trap.<br>
-
+<img src="https://CarlosPeralta2049.github.io/Assets/Project00b_05.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **10)** This is why govt must step in with fiscal policy (spending).<br>
 **11)** At B, FP can move the IS Curve to the right at point G (IS'').<br>
 **12)** This allows the CB to set rates at 0% @ ¶1 and Y1 (both positive).<br>
