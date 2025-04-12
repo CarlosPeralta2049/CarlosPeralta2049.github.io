@@ -268,7 +268,7 @@ Or, social programs tend to stimulate shortrun growth.<br>
 **9)** This is the deflationary trap as CBs here are ineffective.<br><br>
 <img src="https://CarlosPeralta2049.github.io/Assets/Project00b_05.jpg" alt="Sample Image" width="400" height="400"><br><br>
 **10)** This is why govt must step in with fiscal policy (spending).<br>
-**11)** At B, FP can move the IS Curve to the right at point G (IS'').<br>
+**11)** Below at B, FP moves the IS Curve to the right at point G (IS'').<br>
 **12)** This allows the CB to set rates at 0% @ ¶1 and Y1 (both positive).<br>
 **13)** From point G inflation is now positive, making MP effective again.<br>
 **14)** At point G the economy is now held at a positive Y gap (Policy Rule).<br><br>
