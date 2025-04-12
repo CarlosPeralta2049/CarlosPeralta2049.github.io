@@ -255,7 +255,7 @@ I.e. Defense spending pushes often technology forward.<br>
 Or, social programs tend to stimulate shortrun growth.<br>
 <br>
 
-**THE 3-EQUATION MODEL:** 
+**THE 3-EQUATION MODEL:** <br>
 **NEGATIVE AGGREGATE DEMAND SHOCK & THE DEFLATIONARY TRAP**<br>
 **1)** A negative aggregate demand (AD) shock occurs (think COVID).<br>
 **2)** Inflation falls from point A to a point of deflation at point B.<br>
